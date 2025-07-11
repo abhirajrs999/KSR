@@ -1,0 +1,82 @@
+{
+  "status": "completed",
+  "total_files": 5,
+  "processed_files_count": 5,
+  "skipped_files_count": 0,
+  "successful": 5,
+  "failed": 0,
+  "total_chunks": 4311,
+  "total_embeddings": 4311,
+  "total_vectors": 4311,
+  "total_processing_time": 676.3174710000001,
+  "average_time_per_file": 135.26349420000003,
+  "processed_files": [
+    {
+      "file_path": "D:\\RAG\\data\\processed\\chunks\\IRC-115-2014_chunks.json",
+      "status": "success",
+      "errors": [],
+      "processing_time": 32.781995,
+      "chunks_processed": 153,
+      "embeddings_generated": 153,
+      "vectors_stored": 153
+    },
+    {
+      "file_path": "D:\\RAG\\data\\processed\\chunks\\IRC-15-2017_chunks.json",
+      "status": "success",
+      "errors": [],
+      "processing_time": 75.867361,
+      "chunks_processed": 366,
+      "embeddings_generated": 366,
+      "vectors_stored": 366
+    },
+    {
+      "file_path": "D:\\RAG\\data\\processed\\chunks\\IRC-37-2019_chunks.json",
+      "status": "success",
+      "errors": [],
+      "processing_time": 84.308977,
+      "chunks_processed": 389,
+      "embeddings_generated": 389,
+      "vectors_stored": 389
+    },
+    {
+      "file_path": "D:\\RAG\\data\\processed\\chunks\\IRC-57-2018_chunks.json",
+      "status": "success",
+      "errors": [],
+      "processing_time": 19.270955,
+      "chunks_processed": 86,
+      "embeddings_generated": 86,
+      "vectors_stored": 86
+    },
+    {
+      "file_path": "D:\\RAG\\data\\processed\\chunks\\mort.250.2013_chunks.json",
+      "status": "success",
+      "errors": [],
+      "processing_time": 464.088183,
+      "chunks_processed": 3317,
+      "embeddings_generated": 3317,
+      "vectors_stored": 3317
+    }
+  ],
+  "skipped_files": [],
+  "incremental_mode": true,
+  "collection_stats_before": {
+    "total_documents": 0,
+    "unique_source_files": 0,
+    "source_files": [],
+    "collection_name": "irc_documents",
+    "db_path": "D:\\RAG\\data\\vector_db\\chroma"
+  },
+  "collection_stats_after": {
+    "total_documents": 4311,
+    "unique_source_files": 5,
+    "source_files": [
+      "IRC-37-2019",
+      "IRC-57-2018",
+      "IRC-115-2014",
+      "IRC-15-2017",
+      "mort.250.2013"
+    ],
+    "collection_name": "irc_documents",
+    "db_path": "D:\\RAG\\data\\vector_db\\chroma"
+  }
+}

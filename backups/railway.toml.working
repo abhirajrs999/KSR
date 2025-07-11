@@ -1,0 +1,12 @@
+[build]
+  builder = "dockerfile"
+  
+[[mounts]]
+  mountPath = "/data"
+  volumeName = "irc-rag-data"
+
+[environments.production]
+  RAILWAY_ENVIRONMENT = "production"
+  
+[environments.staging]
+  RAILWAY_ENVIRONMENT = "staging"

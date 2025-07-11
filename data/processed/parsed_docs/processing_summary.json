@@ -1,0 +1,56 @@
+{
+  "status": "completed",
+  "total_files": 5,
+  "successful": 5,
+  "failed": 0,
+  "total_processing_time": 226.587648,
+  "average_time_per_file": 45.3175296,
+  "processed_files": [
+    {
+      "file_path": "D:\\RAG\\data\\raw_pdfs\\IRC-115-2014.pdf",
+      "status": "success",
+      "errors": [],
+      "processing_time": 0.443117,
+      "parsed_doc_path": "D:\\RAG\\data\\processed\\parsed_docs\\IRC-115-2014.json",
+      "metadata_path": "D:\\RAG\\data\\processed\\metadata\\IRC-115-2014_metadata.json",
+      "chunks_path": "D:\\RAG\\data\\processed\\chunks\\IRC-115-2014_chunks.json"
+    },
+    {
+      "file_path": "D:\\RAG\\data\\raw_pdfs\\IRC-15-2017.pdf",
+      "status": "success",
+      "errors": [],
+      "processing_time": 1.864045,
+      "parsed_doc_path": "D:\\RAG\\data\\processed\\parsed_docs\\IRC-15-2017.json",
+      "metadata_path": "D:\\RAG\\data\\processed\\metadata\\IRC-15-2017_metadata.json",
+      "chunks_path": "D:\\RAG\\data\\processed\\chunks\\IRC-15-2017_chunks.json"
+    },
+    {
+      "file_path": "D:\\RAG\\data\\raw_pdfs\\IRC-37-2019.pdf",
+      "status": "success",
+      "errors": [],
+      "processing_time": 2.080174,
+      "parsed_doc_path": "D:\\RAG\\data\\processed\\parsed_docs\\IRC-37-2019.json",
+      "metadata_path": "D:\\RAG\\data\\processed\\metadata\\IRC-37-2019_metadata.json",
+      "chunks_path": "D:\\RAG\\data\\processed\\chunks\\IRC-37-2019_chunks.json"
+    },
+    {
+      "file_path": "D:\\RAG\\data\\raw_pdfs\\IRC-57-2018.pdf",
+      "status": "success",
+      "errors": [],
+      "processing_time": 0.125316,
+      "parsed_doc_path": "D:\\RAG\\data\\processed\\parsed_docs\\IRC-57-2018.json",
+      "metadata_path": "D:\\RAG\\data\\processed\\metadata\\IRC-57-2018_metadata.json",
+      "chunks_path": "D:\\RAG\\data\\processed\\chunks\\IRC-57-2018_chunks.json"
+    },
+    {
+      "file_path": "D:\\RAG\\data\\raw_pdfs\\mort.250.2013.pdf",
+      "status": "success",
+      "errors": [],
+      "processing_time": 101.589849,
+      "parsed_doc_path": "D:\\RAG\\data\\processed\\parsed_docs\\mort.250.2013.json",
+      "metadata_path": "D:\\RAG\\data\\processed\\metadata\\mort.250.2013_metadata.json",
+      "chunks_path": "D:\\RAG\\data\\processed\\chunks\\mort.250.2013_chunks.json"
+    }
+  ],
+  "optimization_used": "batch_processing"
+}

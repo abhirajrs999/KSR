@@ -1,0 +1,372 @@
+{
+  "source_file": "IRC-57-2018.pdf",
+  "title": "# RECOMMENDED PRACTICE FOR SEALING OF JOINTS IN CONCRETE PAVEMENTS",
+  "irc_code": "IRC:15",
+  "all_irc_codes": [
+    "IRC:15",
+    "IRC:57",
+    "IRC:57-2018",
+    "IRC:58-2015"
+  ],
+  "revision_year": "20",
+  "revision_type": "First",
+  "structure": {
+    "main_chapters": [
+      {
+        "number": "5",
+        "title": "1 In cement concrete pavements, the following types of joints are commonly provided:",
+        "position": 18242,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "PAPER bACkING OF COMPRESSIbLE DEbONDING STRIP IS NOT NECESSARY IF THE STRIP IS NON-AbSORbENT TYPE.",
+        "position": 23566,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "JOINTS CAN bE SEALED bY ADOPTING ONE OF THE TWO OPTION OF DEbONDING STRIP/bACkER-ROD AS SHOWN.",
+        "position": 23668,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "DEPENDING UPON THE SEALANT MANUFACTURER’S RECOMMENDATION, THE SIDES OF THE GROOVE MAY HAVE TO bE SAND bLASTED/SAND PAPERED AND PRIMED.",
+        "position": 23766,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "THE GROOVE AND SEALANT DIMENSIONS SHOWN ARE ONLY FOR GUIDANCE.",
+        "position": 23904,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "bACkER ROD/bACk-UP ROD SHALL bE ExPANDED CLOSED-CELL POLYETHYLENE FORM.",
+        "position": 23970,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "ENDS OF THE SEALANT GROOVE SHALL bE PLUGGED bEFORE POURING SEALANT TO AVOID SPILLAGE LATERALLY.",
+        "position": 24045,
+        "level": 1
+      },
+      {
+        "number": "7",
+        "title": "ALL DIMENSIONS ARE IN mm.",
+        "position": 24144,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "PAPER BACKING OF COMPRESSIBLE DEBONDING STRIP IS NOT NECESSARY IF THE STRIP IS NON-ABSORBENT TYPE.",
+        "position": 24875,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "JOINTS CAN BE SEALED BY ADOPTING ONE OF THE TWO OPTIONS OF DEBONDING STRIP/BACKER-ROD AS SHOWN.",
+        "position": 24977,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "DEPENDING UPON THE SEALANT MANUFACTURER’S RECOMMENDATION, THE SIDES OF THE GROOVE MAY HAVE TO BE SAND BLASTED/SAND PAPERED AND PRIMED.",
+        "position": 25076,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "THE GROOVE AND SEALANT DIMENSIONS SHOWN ARE ONLY FOR GUIDANCE.",
+        "position": 25214,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "BACKER ROD/BACK-UP ROD SHALL BE EXPANDED CLOSED-CELL POLYETHYLENE FORM.",
+        "position": 25280,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "ENDS OF THE SEALANT GROOVE SHALL BE PLUGGED BEFORE POURING SEALANT TO AVOID SPILLAGE LATERALLY.",
+        "position": 25355,
+        "level": 1
+      },
+      {
+        "number": "7",
+        "title": "ALL DIMENSIONS ARE IN mm.",
+        "position": 25454,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "PAPER BACKING OF COMPRESSIBLE DEBONDING STRIP IS NOT NECESSARY IF THE STRIP IS NON-ABSORBENT TYPE.",
+        "position": 26733,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "JOINTS CAN BE SEALED BY ADOPTING ONE OF THE TWO OPTIONS OF DEBONDING STRIP/BACKER-ROD AS SHOWN.",
+        "position": 26835,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "DEPENDING UPON THE SEALANT MANUFACTURER’S RECOMMENDATION, THE SIDES OF THE GROOVE MAY HAVE TO BE SAND BLASTED/SAND PAPERED AND PRIMED.",
+        "position": 26934,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "THE GROOVE AND SEALANT DIMENSIONS SHOWN ARE ONLY FOR GUIDANCE.",
+        "position": 27072,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "BACKER ROD/BACK-UP ROD SHALL BE EXPANDED CLOSED-CELL POLYETHYLENE FORM.",
+        "position": 27138,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "ENDS OF THE SEALANT GROOVE SHALL BE PLUGGED BEFORE POURING SEALANT TO AVOID SPILLAGE LATERALLY.",
+        "position": 27213,
+        "level": 1
+      },
+      {
+        "number": "7",
+        "title": "ALL DIMENSIONS ARE IN mm.",
+        "position": 27312,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "Steffes, R and Siljenberg, B J 2003, Early Entry Sawed Portland Cement Concrete Transverse Joint Ends, Iowa Department of Transportation, 800 Lincoln Way Ames, I A United States 50010, The National Academies of Sciences, Engineering, and Medicine, 500 Fifth Street, NW | Washington, DC 20001",
+        "position": 51305,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "http://texascurbcut.com/services/early-entry-sawing-with-vacuum-system/",
+        "position": 51600,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "https://www.ussaws.com/early-entry-joint-saw.html",
+        "position": 51675,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "https://www.constructionequipment.com/.../cardinal-saws-and-blades-inc",
+        "position": 51728,
+        "level": 1
+      }
+    ],
+    "sub_clauses": [],
+    "sub_sub_clauses": [],
+    "special_sections": [],
+    "hierarchy_map": {
+      "5": {
+        "number": "5",
+        "title": "BACKER ROD/BACK-UP ROD SHALL BE EXPANDED CLOSED-CELL POLYETHYLENE FORM.",
+        "position": 27138,
+        "level": 1
+      },
+      "1": {
+        "number": "1",
+        "title": "Steffes, R and Siljenberg, B J 2003, Early Entry Sawed Portland Cement Concrete Transverse Joint Ends, Iowa Department of Transportation, 800 Lincoln Way Ames, I A United States 50010, The National Academies of Sciences, Engineering, and Medicine, 500 Fifth Street, NW | Washington, DC 20001",
+        "position": 51305,
+        "level": 1
+      },
+      "2": {
+        "number": "2",
+        "title": "http://texascurbcut.com/services/early-entry-sawing-with-vacuum-system/",
+        "position": 51600,
+        "level": 1
+      },
+      "3": {
+        "number": "3",
+        "title": "https://www.ussaws.com/early-entry-joint-saw.html",
+        "position": 51675,
+        "level": 1
+      },
+      "4": {
+        "number": "4",
+        "title": "https://www.constructionequipment.com/.../cardinal-saws-and-blades-inc",
+        "position": 51728,
+        "level": 1
+      },
+      "6": {
+        "number": "6",
+        "title": "ENDS OF THE SEALANT GROOVE SHALL BE PLUGGED BEFORE POURING SEALANT TO AVOID SPILLAGE LATERALLY.",
+        "position": 27213,
+        "level": 1
+      },
+      "7": {
+        "number": "7",
+        "title": "ALL DIMENSIONS ARE IN mm.",
+        "position": 27312,
+        "level": 1
+      }
+    },
+    "cross_references": []
+  },
+  "main_chapters": [
+    "5: 1 In cement concrete pavements, the following types of joints are commonly provided:",
+    "1: PAPER bACkING OF COMPRESSIbLE DEbONDING STRIP IS NOT NECESSARY IF THE STRIP IS NON-AbSORbENT TYPE.",
+    "2: JOINTS CAN bE SEALED bY ADOPTING ONE OF THE TWO OPTION OF DEbONDING STRIP/bACkER-ROD AS SHOWN.",
+    "3: DEPENDING UPON THE SEALANT MANUFACTURER’S RECOMMENDATION, THE SIDES OF THE GROOVE MAY HAVE TO bE SAND bLASTED/SAND PAPERED AND PRIMED.",
+    "4: THE GROOVE AND SEALANT DIMENSIONS SHOWN ARE ONLY FOR GUIDANCE.",
+    "5: bACkER ROD/bACk-UP ROD SHALL bE ExPANDED CLOSED-CELL POLYETHYLENE FORM.",
+    "6: ENDS OF THE SEALANT GROOVE SHALL bE PLUGGED bEFORE POURING SEALANT TO AVOID SPILLAGE LATERALLY.",
+    "7: ALL DIMENSIONS ARE IN mm.",
+    "1: PAPER BACKING OF COMPRESSIBLE DEBONDING STRIP IS NOT NECESSARY IF THE STRIP IS NON-ABSORBENT TYPE.",
+    "2: JOINTS CAN BE SEALED BY ADOPTING ONE OF THE TWO OPTIONS OF DEBONDING STRIP/BACKER-ROD AS SHOWN.",
+    "3: DEPENDING UPON THE SEALANT MANUFACTURER’S RECOMMENDATION, THE SIDES OF THE GROOVE MAY HAVE TO BE SAND BLASTED/SAND PAPERED AND PRIMED.",
+    "4: THE GROOVE AND SEALANT DIMENSIONS SHOWN ARE ONLY FOR GUIDANCE.",
+    "5: BACKER ROD/BACK-UP ROD SHALL BE EXPANDED CLOSED-CELL POLYETHYLENE FORM.",
+    "6: ENDS OF THE SEALANT GROOVE SHALL BE PLUGGED BEFORE POURING SEALANT TO AVOID SPILLAGE LATERALLY.",
+    "7: ALL DIMENSIONS ARE IN mm.",
+    "1: PAPER BACKING OF COMPRESSIBLE DEBONDING STRIP IS NOT NECESSARY IF THE STRIP IS NON-ABSORBENT TYPE.",
+    "2: JOINTS CAN BE SEALED BY ADOPTING ONE OF THE TWO OPTIONS OF DEBONDING STRIP/BACKER-ROD AS SHOWN.",
+    "3: DEPENDING UPON THE SEALANT MANUFACTURER’S RECOMMENDATION, THE SIDES OF THE GROOVE MAY HAVE TO BE SAND BLASTED/SAND PAPERED AND PRIMED.",
+    "4: THE GROOVE AND SEALANT DIMENSIONS SHOWN ARE ONLY FOR GUIDANCE.",
+    "5: BACKER ROD/BACK-UP ROD SHALL BE EXPANDED CLOSED-CELL POLYETHYLENE FORM.",
+    "6: ENDS OF THE SEALANT GROOVE SHALL BE PLUGGED BEFORE POURING SEALANT TO AVOID SPILLAGE LATERALLY.",
+    "7: ALL DIMENSIONS ARE IN mm.",
+    "1: Steffes, R and Siljenberg, B J 2003, Early Entry Sawed Portland Cement Concrete Transverse Joint Ends, Iowa Department of Transportation, 800 Lincoln Way Ames, I A United States 50010, The National Academies of Sciences, Engineering, and Medicine, 500 Fifth Street, NW | Washington, DC 20001",
+    "2: http://texascurbcut.com/services/early-entry-sawing-with-vacuum-system/",
+    "3: https://www.ussaws.com/early-entry-joint-saw.html",
+    "4: https://www.constructionequipment.com/.../cardinal-saws-and-blades-inc"
+  ],
+  "sub_clauses": [],
+  "special_sections": [],
+  "tables": [
+    "Table 1",
+    "Table 1.",
+    "Table 2."
+  ],
+  "figures": [
+    "Fig. 1",
+    "Fig. 1.",
+    "Fig. 2",
+    "Fig. 2.",
+    "Fig. 3",
+    "Fig. 4",
+    "Fig. 4.",
+    "Fig. 5",
+    "Fig. 6",
+    "Fig. 6.",
+    "Fig. 7.",
+    "Fig. 8",
+    "Fig. 8.",
+    "Fig. 9",
+    "Fig. 9.",
+    "Fig.7"
+  ],
+  "element_page_map": {
+    "5": [
+      14,
+      15,
+      16
+    ],
+    "1": [
+      28
+    ],
+    "2": [
+      28
+    ],
+    "3": [
+      28
+    ],
+    "4": [
+      28
+    ],
+    "6": [
+      14,
+      15,
+      16
+    ],
+    "7": [
+      14,
+      15,
+      16
+    ]
+  },
+  "cross_references": [],
+  "statistics": {
+    "total_pages": 32,
+    "total_characters": 52792,
+    "total_words": 7230,
+    "total_lines": 759,
+    "table_count": 3,
+    "figure_count": 19,
+    "cross_reference_count": 0
+  },
+  "clauses": [
+    "5",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "clause_page_map": {
+    "5": [
+      14,
+      15,
+      16
+    ],
+    "1": [
+      28
+    ],
+    "2": [
+      28
+    ],
+    "3": [
+      28
+    ],
+    "4": [
+      28
+    ],
+    "6": [
+      14,
+      15,
+      16
+    ],
+    "7": [
+      14,
+      15,
+      16
+    ]
+  },
+  "extraction_version": "2.0_hierarchical",
+  "extracted_at": null
+}

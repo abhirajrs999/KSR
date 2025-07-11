@@ -1,0 +1,809 @@
+{
+  "source_file": "IRC-115-2014.pdf",
+  "title": "Sector-6, R.K. Puram,",
+  "irc_code": "IRC:115-2014",
+  "all_irc_codes": [
+    "IRC:115-2014",
+    "IRC:37",
+    "IRC:37-2012",
+    "IRC:81",
+    "IRC:81-1997"
+  ],
+  "revision_year": "2014",
+  "revision_type": null,
+  "structure": {
+    "main_chapters": [
+      {
+        "number": "3",
+        "title": "1 Performance of flexible pavements can be evaluated by applying loads on the pavements that simulate the traffic loading, recording the response to such loading by measuring the elastic deflection under such loads, and analyzing these data duly considering the factors influencing the performance such as subgrade strength, thickness and quality of each of the pavement layers, drainage conditions, pavement surface temperature etc.",
+        "position": 18201,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "2 Among the equipment available for structural evaluation of pavements, the Falling Weight Deflectometer (FWD) is extensively used world-wide because it simulates, to a large extent, the traffic loading.",
+        "position": 18638,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "1 Falling Weight Deflectometer (FWD) is an impulse-loading device which applies a transient load to the pavement and the deflected shape of the pavement surface is measured. The working principle of a typical FWD is illustrated in Fig. 1. DO, D1, etc., mentioned in Fig. 1 are surface deflections measured at different radial distances. Impulse load is applied by means of a falling mass, which is allowed to drop vertically on a system of springs placed over a circular loading plate. The deflected shape of the pavement surface is measured using displacement sensors which are placed at different radial distances starting from the center of the load plate. Trailer mounted as well as vehicle mounted FWD models are available commercially. The working principle of these models essentially is the same. A mass of weights is dropped from a pre-determined height onto a series of springs/buffers placed on top of a loading plate. The corresponding peak load and peak vertical surface deflections at different radial locations are measured and recorded.",
+        "position": 20129,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "Initial basis of design, guidelines followed, criteria adopted, layer types, layer thicknesses and properties assigned",
+        "position": 28380,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "Data regarding functional and structural evaluation carried out if the existing surface is an overlay",
+        "position": 28502,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "Laboratory testing results on different materials used",
+        "position": 28607,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "Internal and external drainage arrangement made",
+        "position": 28665,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "'As constructed' pavement details",
+        "position": 28716,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "Construction methods adopted",
+        "position": 28753,
+        "level": 1
+      },
+      {
+        "number": "7",
+        "title": "Quality control test results",
+        "position": 28785,
+        "level": 1
+      },
+      {
+        "number": "8",
+        "title": "Maintenance rehabilitation data such as past distresses, effectiveness of different maintenance and rehabilitation measures undertaken in the past",
+        "position": 28817,
+        "level": 1
+      },
+      {
+        "number": "9",
+        "title": "Climatic condition data regarding rainfall intensity, temperature, occurrence of floods, overtopping of pavement, high water table, etc.",
+        "position": 28967,
+        "level": 1
+      },
+      {
+        "number": "10",
+        "title": "Past traffic volume history, axle load spectrum data",
+        "position": 29107,
+        "level": 1
+      },
+      {
+        "number": "11",
+        "title": "Discussions with the engineers associated with design, construction and maintenance stages can yield valuable information.",
+        "position": 29164,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "3.6 As it is inexpedient to change the sample size for deflection measurement at frequent intervals, it will be preferable if the length of each uniform section is kept at a minimum of km except the case = or other closer in of localised failures in situations requiring examination where minimum length of section should be 0.3 km from the consideration of profile correction and constructability.",
+        "position": 32555,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "4 Deflection Measurement",
+        "position": 34168,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "4.1 Estimation of sample size",
+        "position": 34196,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "4.2 It is recommended that 90 percent confidence level and 10 percent margin of error (ME expressed as % of mean) may be considered in these guidelines for the purpose of estimation of sample size. The coefficient variability values for \"good\", \"fair\" and \"poor\"",
+        "position": 35005,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "position of test in",
+        "position": 41813,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "measurement spacing",
+        "position": 41836,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "time of test",
+        "position": 41859,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "air temperature, pavement surface temperature and/or pavement temperature at a depth of 40 mm",
+        "position": 41875,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "drop number",
+        "position": 41972,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "peak values of load and deflections for each drop of load",
+        "position": 41987,
+        "level": 1
+      },
+      {
+        "number": "7",
+        "title": "whole time history of load and deflections should be stored for one of the test points of each road section",
+        "position": 42048,
+        "level": 1
+      },
+      {
+        "number": "8",
+        "title": "deflection transducer configuration selected (number of sensors and radial offsets from center of load plate)",
+        "position": 42159,
+        "level": 1
+      },
+      {
+        "number": "9",
+        "title": "loading plate diameter",
+        "position": 42272,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "Mark the test point on the pavement",
+        "position": 42517,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "Centre the load plate of the duly calibrated FWD over the test point",
+        "position": 42556,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "Lower the loading plate onto the pavement. There should be no standing water (surface texture completely filled with water) on the pavement surface. The loading plate should be in proper contact with pavement surface. If a non-segmental plate is used the presence of rutting at test location should be noted if it affects the contact between plate and pavement surface. The longitudinal and transverse slope of the pavement should not exceed 10 percent at the test location for accurate measurement of deflection",
+        "position": 42628,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "Lower the frame holding the displacement transducers (geophones) so that the transducers are in contact with pavement surface",
+        "position": 43144,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "Raise the mass to a pre-determined height required for producing a target load of 40 kN",
+        "position": 43273,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "Drop one seating load. Load and deflection data for seating load drop need not be recorded",
+        "position": 43364,
+        "level": 1
+      },
+      {
+        "number": "7",
+        "title": "Raise the mass and drop. Record load and deflection data into the computer through data acquisition system. While peak load and peak deflections at different selected radial positions must be recorded, complete time history of load and deflections can be stored for each load drop if feasible",
+        "position": 43458,
+        "level": 1
+      },
+      {
+        "number": "8",
+        "title": "Repeat step vii at least two more times",
+        "position": 43754,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "Raise the geophone frame and load plate and move to the next test location.",
+        "position": 43952,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "Record air temperature at half hourly interval.",
+        "position": 44031,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "Record pavement surface temperature (optional) if non-contact temperature sensors are available.",
+        "position": 44082,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "Measure pavement surface layer temperature at half-hourly intervals by drilling holes 40 mm depth into the pavement surface layer. Fill the hole with a drop of glycerol. Insert the thermometer into the hole and record the temperature after three minutes measurements made when pavement temperature is not more than 45°C. Guidelines given in Clause 6.4.3 may be followed for deflection measurement in colder areas and areas of altitude greater than 1000 m.",
+        "position": 44182,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "2.4 can be identified with reference to different parameters such as subgrade SCI, traffic, strength, etc. Delineation carried out based on different parameters will yield a number of sub-sections. No sub-section should be shorter than 1.0 km in length and each subsection should have at least twelve deflection test locations. If a subsection has only one or two test points, it is a case of the pavement in need of localized measures. The spacing considered for deflection measurement in sub-section can be rounded off to practical values.",
+        "position": 52399,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "3.1 Measured surface deflections, normalized to a standard load of 40 kN, along with other inputs such as distances which are measured, radial deflections, layer thicknesses, Poisson's ratio values of different layers, applied peak load and loading plate radius, are used to backcalculate the elastic moduli of different layers of the existing pavement using an appropriate backcalculation technique. The backcalculated moduli are used for the analysis of the in-service pavement and for assessment of the structural condition of the pavement. KGPBACK, which is a specific version of BACKGA program developed by the Transportation Engineering Section of NT, Kharagpur for the research scheme R-81 (2003) of the Ministry of Road Transport and Highways, is recommended in these guidelines for backcalculation. Details of KGPBACK are given in Appendix-Ill.",
+        "position": 52983,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "4.1 Backcalculated moduli values of the bituminous layers evaluated by FWD survey are influenced by the pavement temperature. Hence the backcalculated moduli obtained at temperatures other than the identified standard temperature will have to be corrected. For areas in India having a tropical climate, the standard pavement temperature is recommended as 35°C.",
+        "position": 53874,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "4.2 The backcalculated modulus of bituminous layer obtained from deflection survey conducted at a temperature \"T1\" °C can be corrected to estimate the modulus corresponding to a temperature of \"T2\" °C using equation 4 (Reddy, 2003).",
+        "position": 54238,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "Measurement of surface deflections of homogeneous section of the in-service pavement using FWD",
+        "position": 69137,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "Normalization of the deflections to correspond to a standard load of",
+        "position": 69263,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "Collection of information about layer type and layer thicknesses",
+        "position": 69335,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "Backcalculation of pavement layer moduli from the normalized deflections using an appropriate backcalculation software. Backcalculation will be done by considering the pavement to be a three layer system. All bituminous layers will be combined together. Similarly granular base and subbase layers may be combined. For pavements with modified subgrades, the modified layer may be treated as part of subgrade. Cemented subbases may be treated to be part of granular layer. For pavements with cemented base, unless the pavement is being evaluated for its remaining life within a short period after construction, the cemented layer may be treated as part of granular layer.",
+        "position": 69403,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "Adjustment of the bituminous layer modulus (backcalculated) to a standard temperature of 35°C using the correction factors given by equations 4 and 5.",
+        "position": 70076,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "Adjustment of the subgrade and granular layer moduli to correspond to post-monsoon condition using equations 6 to 9.",
+        "position": 70230,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "Selection of 15th percentile modulus (15% of the values will be less than this value) of each of the three layers considered for analysis.",
+        "position": 70350,
+        "level": 1
+      },
+      {
+        "number": "7",
+        "title": "Analysis of the in-service pavement using linear elastic layer theory with the backcalculated (corrected) moduli and layer thicknesses collected from field as inputs. This includes computation of critical Strains (a) Horizontal Tensile Strain at the bottom fiber of bituminous layer and (b) Vertical Compressive Strain on top of subgrade. The loading configuration and the locations of critical strains considered for analysis will be similar to those adopted in IRC:37-2012.",
+        "position": 70492,
+        "level": 1
+      },
+      {
+        "number": "8",
+        "title": "Estimation of the remaining life of the pavement using the fatigue in bituminous layer and subgrade rutting performance criteria adopted in IRC:37-2012 given by equations 16 and 17. The strain values obtained in step viii will be used to estimate the remaining lives from fatigue and rutting consideration. Remaining life of the pavement will be the shortest of the lives obtained from bituminous layer fatigue, subgrade rutting and cemented base fatigue (in case of pavements with cemented base) criteria.",
+        "position": 70971,
+        "level": 1
+      },
+      {
+        "number": "9",
+        "title": "For design of bituminous overlay, a trial thickness of overlay of an appropriate material has to be selected and the critical strains have to be evaluated. The modulus value of the bituminous overlay material may be selected as per the guidelines given in IRC:37-2012. Design overlay thickness can be selected by trial in such a way that the computed critical strains are less than the permissible limits given by the performance criteria for the.",
+        "position": 71481,
+        "level": 1
+      },
+      {
+        "number": "111",
+        "title": "1 A number of softwares such as ELMOD, EVERCALC, BISDEF, NUS-BACK, MICH-BACK, MODULUS, PADAL, etc. are available for the backcalculation of pavement layer moduli from deflections measured using FWD. Some of these models use regression techniques for estimation of one or more moduli. Most of the traditional methods follow iterative approaches which vary the moduli in each step and compare the computed and measured deflections. The iterations continue till satisfactory matching between the known and computed deflections is attained. The methods differ mostly in the techniques used for successive selection of new set of modulus values. Other non-traditional techniques such as artificial neural networks and genetic algorithms have also been used for backcalculation.",
+        "position": 76288,
+        "level": 1
+      },
+      {
+        "number": "111",
+        "title": "2 KGPBACK, a specific version of BACKGA program, which was developed for the research scheme R-81 (2003) of the Ministry of Road Transport and Highways, is recommended in these guidelines for backcalculation. KGPBACK is a Genetic Algorithm based model for backcalculation of layer moduli. Because of the features of the search algorithm used in them, Genetic Algorithms (GA) have become popular as an optimization technique that has the ability to solve complex problems. The early use of GAs for backcalculation of pavement layer moduli was with the development of NUS-GABACK program by et al (1997). It was shown that NUS-GABACK performed comparably well against other programs and showed consistency in the accuracy of the solutions. The other GA based backcalculation method reported in literature was the program developed by Kameyama et al (1998) for the backcalculation of moduli of flexible and rigid pavements.",
+        "position": 77066,
+        "level": 1
+      },
+      {
+        "number": "111",
+        "title": "3 GA is a population based search and optimization technique. It maintains a population of individual solutions that compete amongst themselves based on the Darwin's survival of the fittest principle (Deb, 1995; Goldberg, 2000). Each individual solution (called chromosome) in the GA population is a finite length string code corresponding to a solution to the given problem. Each individual has a fitness value associated with it which is some measure of its closeness to the actual solution.",
+        "position": 77991,
+        "level": 1
+      },
+      {
+        "number": "111",
+        "title": "4 The population is initially generated randomly and the fitness of each individual in the population is calculated. Then the genetic operators are repeatedly applied to this population until the desired solution is found or specified number of iterations are over. A typical GA uses three operators: reproduction or selection, crossover and mutation. In reproduction each individual in the population produces offsprings according to its fitness value. Thus, individuals with higher fitness contribute more offsprings in each generation. In crossover operation, two chromosome strings are randomly selected and their portions are exchanged with a probability P^ to form new individual. The crossover point about which the strings are exchanged is also selected randomly. In mutation operation, each bit in the string is flipped according to the probability P^, which is usually very small.",
+        "position": 78490,
+        "level": 1
+      },
+      {
+        "number": "111",
+        "title": "5 Crossover and mutation operations on the mating pool generate offsprings. Fitness values are calculated for these offspring values. All these operations are carried out sequentially.",
+        "position": 79386,
+        "level": 1
+      },
+      {
+        "number": "0",
+        "title": "74",
+        "position": 82481,
+        "level": 1
+      },
+      {
+        "number": "0",
+        "title": "10",
+        "position": 82511,
+        "level": 1
+      },
+      {
+        "number": "0",
+        "title": "481  0.294           0.216      0.163         0.134    0.107         0.080",
+        "position": 87856,
+        "level": 1
+      }
+    ],
+    "sub_clauses": [],
+    "sub_sub_clauses": [],
+    "special_sections": [],
+    "hierarchy_map": {
+      "3": {
+        "number": "3",
+        "title": "Backcalculation of pavement layer moduli from the normalized deflections using an appropriate backcalculation software. Backcalculation will be done by considering the pavement to be a three layer system. All bituminous layers will be combined together. Similarly granular base and subbase layers may be combined. For pavements with modified subgrades, the modified layer may be treated as part of subgrade. Cemented subbases may be treated to be part of granular layer. For pavements with cemented base, unless the pavement is being evaluated for its remaining life within a short period after construction, the cemented layer may be treated as part of granular layer.",
+        "position": 69403,
+        "level": 1
+      },
+      "4": {
+        "number": "4",
+        "title": "Adjustment of the bituminous layer modulus (backcalculated) to a standard temperature of 35°C using the correction factors given by equations 4 and 5.",
+        "position": 70076,
+        "level": 1
+      },
+      "1": {
+        "number": "1",
+        "title": "Normalization of the deflections to correspond to a standard load of",
+        "position": 69263,
+        "level": 1
+      },
+      "2": {
+        "number": "2",
+        "title": "Collection of information about layer type and layer thicknesses",
+        "position": 69335,
+        "level": 1
+      },
+      "5": {
+        "number": "5",
+        "title": "Adjustment of the subgrade and granular layer moduli to correspond to post-monsoon condition using equations 6 to 9.",
+        "position": 70230,
+        "level": 1
+      },
+      "6": {
+        "number": "6",
+        "title": "Selection of 15th percentile modulus (15% of the values will be less than this value) of each of the three layers considered for analysis.",
+        "position": 70350,
+        "level": 1
+      },
+      "7": {
+        "number": "7",
+        "title": "Analysis of the in-service pavement using linear elastic layer theory with the backcalculated (corrected) moduli and layer thicknesses collected from field as inputs. This includes computation of critical Strains (a) Horizontal Tensile Strain at the bottom fiber of bituminous layer and (b) Vertical Compressive Strain on top of subgrade. The loading configuration and the locations of critical strains considered for analysis will be similar to those adopted in IRC:37-2012.",
+        "position": 70492,
+        "level": 1
+      },
+      "8": {
+        "number": "8",
+        "title": "Estimation of the remaining life of the pavement using the fatigue in bituminous layer and subgrade rutting performance criteria adopted in IRC:37-2012 given by equations 16 and 17. The strain values obtained in step viii will be used to estimate the remaining lives from fatigue and rutting consideration. Remaining life of the pavement will be the shortest of the lives obtained from bituminous layer fatigue, subgrade rutting and cemented base fatigue (in case of pavements with cemented base) criteria.",
+        "position": 70971,
+        "level": 1
+      },
+      "9": {
+        "number": "9",
+        "title": "For design of bituminous overlay, a trial thickness of overlay of an appropriate material has to be selected and the critical strains have to be evaluated. The modulus value of the bituminous overlay material may be selected as per the guidelines given in IRC:37-2012. Design overlay thickness can be selected by trial in such a way that the computed critical strains are less than the permissible limits given by the performance criteria for the.",
+        "position": 71481,
+        "level": 1
+      },
+      "10": {
+        "number": "10",
+        "title": "Past traffic volume history, axle load spectrum data",
+        "position": 29107,
+        "level": 1
+      },
+      "11": {
+        "number": "11",
+        "title": "Discussions with the engineers associated with design, construction and maintenance stages can yield valuable information.",
+        "position": 29164,
+        "level": 1
+      },
+      "111": {
+        "number": "111",
+        "title": "5 Crossover and mutation operations on the mating pool generate offsprings. Fitness values are calculated for these offspring values. All these operations are carried out sequentially.",
+        "position": 79386,
+        "level": 1
+      },
+      "0": {
+        "number": "0",
+        "title": "481  0.294           0.216      0.163         0.134    0.107         0.080",
+        "position": 87856,
+        "level": 1
+      }
+    },
+    "cross_references": [
+      {
+        "referenced_section": "5.3.4",
+        "position": 32183,
+        "context": "should be recorded for each block as mentioned in Clause 5.3.4. Sub-sections of uniform performance should be id"
+      },
+      {
+        "referenced_section": "8",
+        "position": 42151,
+        "context": "be stored for one of the test points of each road section\n8. deflection transducer configuration selected (nu"
+      },
+      {
+        "referenced_section": "4.4",
+        "position": 43887,
+        "context": "asured are too large or too small as discussed in Clause 4.4, the test may be repeated by changing the peak lo"
+      },
+      {
+        "referenced_section": "6.4.3",
+        "position": 44526,
+        "context": "rature is not more than 45°C. Guidelines given in Clause 6.4.3 may be followed for deflection measurement in col"
+      },
+      {
+        "referenced_section": "4.4",
+        "position": 49386,
+        "context": "o a standard target load of 40 kN as explained in Clause 4.4.\n\n# 6.2 Identification of Homogeneous Sub-section"
+      },
+      {
+        "referenced_section": "4",
+        "position": 49520,
+        "context": "cation of sections of uniform performance done in Section 4 of these guidelines was done primarily to select "
+      },
+      {
+        "referenced_section": "7.4",
+        "position": 57918,
+        "context": "lculated as per the procedure given in IRC:37 and Clause 7.4 below. For the purpose of structural design of pa"
+      },
+      {
+        "referenced_section": "7.4.2",
+        "position": 60097,
+        "context": "D)\n\nD = Lane distribution factor (as explained in Clause 7.4.2)\n\nF = Vehicle Damage Factor (VDF)\n\nn = Design lif"
+      },
+      {
+        "referenced_section": "6.3.1",
+        "position": 76208,
+        "context": " — |\n\n\n27\n\n\nIRC:115-2014\n# Appendix-Ill\n\n# (Refer Clause 6.3.1)\n\n# KGPBACK SOFTWARE FOR BACKCALCULATION OF PAVEM"
+      },
+      {
+        "referenced_section": "8.4",
+        "position": 84764,
+        "context": " 400 MPa to 1500 MPa\n\n\n\n3\n# Appendix-IV\n\n# (Refer Clause 8.4)\n\n# EXAMPLE\n\n# DESIGN FWD\n\nDeflection measurement"
+      }
+    ]
+  },
+  "main_chapters": [
+    "3: 1 Performance of flexible pavements can be evaluated by applying loads on the pavements that simulate the traffic loading, recording the response to such loading by measuring the elastic deflection under such loads, and analyzing these data duly considering the factors influencing the performance such as subgrade strength, thickness and quality of each of the pavement layers, drainage conditions, pavement surface temperature etc.",
+    "3: 2 Among the equipment available for structural evaluation of pavements, the Falling Weight Deflectometer (FWD) is extensively used world-wide because it simulates, to a large extent, the traffic loading.",
+    "4: 1 Falling Weight Deflectometer (FWD) is an impulse-loading device which applies a transient load to the pavement and the deflected shape of the pavement surface is measured. The working principle of a typical FWD is illustrated in Fig. 1. DO, D1, etc., mentioned in Fig. 1 are surface deflections measured at different radial distances. Impulse load is applied by means of a falling mass, which is allowed to drop vertically on a system of springs placed over a circular loading plate. The deflected shape of the pavement surface is measured using displacement sensors which are placed at different radial distances starting from the center of the load plate. Trailer mounted as well as vehicle mounted FWD models are available commercially. The working principle of these models essentially is the same. A mass of weights is dropped from a pre-determined height onto a series of springs/buffers placed on top of a loading plate. The corresponding peak load and peak vertical surface deflections at different radial locations are measured and recorded.",
+    "1: Initial basis of design, guidelines followed, criteria adopted, layer types, layer thicknesses and properties assigned",
+    "2: Data regarding functional and structural evaluation carried out if the existing surface is an overlay",
+    "3: Laboratory testing results on different materials used",
+    "4: Internal and external drainage arrangement made",
+    "5: 'As constructed' pavement details",
+    "6: Construction methods adopted",
+    "7: Quality control test results",
+    "8: Maintenance rehabilitation data such as past distresses, effectiveness of different maintenance and rehabilitation measures undertaken in the past",
+    "9: Climatic condition data regarding rainfall intensity, temperature, occurrence of floods, overtopping of pavement, high water table, etc.",
+    "10: Past traffic volume history, axle load spectrum data",
+    "11: Discussions with the engineers associated with design, construction and maintenance stages can yield valuable information.",
+    "5: 3.6 As it is inexpedient to change the sample size for deflection measurement at frequent intervals, it will be preferable if the length of each uniform section is kept at a minimum of km except the case = or other closer in of localised failures in situations requiring examination where minimum length of section should be 0.3 km from the consideration of profile correction and constructability.",
+    "5: 4 Deflection Measurement",
+    "5: 4.1 Estimation of sample size",
+    "5: 4.2 It is recommended that 90 percent confidence level and 10 percent margin of error (ME expressed as % of mean) may be considered in these guidelines for the purpose of estimation of sample size. The coefficient variability values for \"good\", \"fair\" and \"poor\"",
+    "1: position of test in",
+    "2: measurement spacing",
+    "3: time of test",
+    "4: air temperature, pavement surface temperature and/or pavement temperature at a depth of 40 mm",
+    "5: drop number",
+    "6: peak values of load and deflections for each drop of load",
+    "7: whole time history of load and deflections should be stored for one of the test points of each road section",
+    "8: deflection transducer configuration selected (number of sensors and radial offsets from center of load plate)",
+    "9: loading plate diameter",
+    "1: Mark the test point on the pavement",
+    "2: Centre the load plate of the duly calibrated FWD over the test point",
+    "3: Lower the loading plate onto the pavement. There should be no standing water (surface texture completely filled with water) on the pavement surface. The loading plate should be in proper contact with pavement surface. If a non-segmental plate is used the presence of rutting at test location should be noted if it affects the contact between plate and pavement surface. The longitudinal and transverse slope of the pavement should not exceed 10 percent at the test location for accurate measurement of deflection",
+    "4: Lower the frame holding the displacement transducers (geophones) so that the transducers are in contact with pavement surface",
+    "5: Raise the mass to a pre-determined height required for producing a target load of 40 kN",
+    "6: Drop one seating load. Load and deflection data for seating load drop need not be recorded",
+    "7: Raise the mass and drop. Record load and deflection data into the computer through data acquisition system. While peak load and peak deflections at different selected radial positions must be recorded, complete time history of load and deflections can be stored for each load drop if feasible",
+    "8: Repeat step vii at least two more times",
+    "1: Raise the geophone frame and load plate and move to the next test location.",
+    "2: Record air temperature at half hourly interval.",
+    "3: Record pavement surface temperature (optional) if non-contact temperature sensors are available.",
+    "4: Measure pavement surface layer temperature at half-hourly intervals by drilling holes 40 mm depth into the pavement surface layer. Fill the hole with a drop of glycerol. Insert the thermometer into the hole and record the temperature after three minutes measurements made when pavement temperature is not more than 45°C. Guidelines given in Clause 6.4.3 may be followed for deflection measurement in colder areas and areas of altitude greater than 1000 m.",
+    "6: 2.4 can be identified with reference to different parameters such as subgrade SCI, traffic, strength, etc. Delineation carried out based on different parameters will yield a number of sub-sections. No sub-section should be shorter than 1.0 km in length and each subsection should have at least twelve deflection test locations. If a subsection has only one or two test points, it is a case of the pavement in need of localized measures. The spacing considered for deflection measurement in sub-section can be rounded off to practical values.",
+    "6: 3.1 Measured surface deflections, normalized to a standard load of 40 kN, along with other inputs such as distances which are measured, radial deflections, layer thicknesses, Poisson's ratio values of different layers, applied peak load and loading plate radius, are used to backcalculate the elastic moduli of different layers of the existing pavement using an appropriate backcalculation technique. The backcalculated moduli are used for the analysis of the in-service pavement and for assessment of the structural condition of the pavement. KGPBACK, which is a specific version of BACKGA program developed by the Transportation Engineering Section of NT, Kharagpur for the research scheme R-81 (2003) of the Ministry of Road Transport and Highways, is recommended in these guidelines for backcalculation. Details of KGPBACK are given in Appendix-Ill.",
+    "6: 4.1 Backcalculated moduli values of the bituminous layers evaluated by FWD survey are influenced by the pavement temperature. Hence the backcalculated moduli obtained at temperatures other than the identified standard temperature will have to be corrected. For areas in India having a tropical climate, the standard pavement temperature is recommended as 35°C.",
+    "6: 4.2 The backcalculated modulus of bituminous layer obtained from deflection survey conducted at a temperature \"T1\" °C can be corrected to estimate the modulus corresponding to a temperature of \"T2\" °C using equation 4 (Reddy, 2003).",
+    "1: Measurement of surface deflections of homogeneous section of the in-service pavement using FWD",
+    "1: Normalization of the deflections to correspond to a standard load of",
+    "2: Collection of information about layer type and layer thicknesses",
+    "3: Backcalculation of pavement layer moduli from the normalized deflections using an appropriate backcalculation software. Backcalculation will be done by considering the pavement to be a three layer system. All bituminous layers will be combined together. Similarly granular base and subbase layers may be combined. For pavements with modified subgrades, the modified layer may be treated as part of subgrade. Cemented subbases may be treated to be part of granular layer. For pavements with cemented base, unless the pavement is being evaluated for its remaining life within a short period after construction, the cemented layer may be treated as part of granular layer.",
+    "4: Adjustment of the bituminous layer modulus (backcalculated) to a standard temperature of 35°C using the correction factors given by equations 4 and 5.",
+    "5: Adjustment of the subgrade and granular layer moduli to correspond to post-monsoon condition using equations 6 to 9.",
+    "6: Selection of 15th percentile modulus (15% of the values will be less than this value) of each of the three layers considered for analysis.",
+    "7: Analysis of the in-service pavement using linear elastic layer theory with the backcalculated (corrected) moduli and layer thicknesses collected from field as inputs. This includes computation of critical Strains (a) Horizontal Tensile Strain at the bottom fiber of bituminous layer and (b) Vertical Compressive Strain on top of subgrade. The loading configuration and the locations of critical strains considered for analysis will be similar to those adopted in IRC:37-2012.",
+    "8: Estimation of the remaining life of the pavement using the fatigue in bituminous layer and subgrade rutting performance criteria adopted in IRC:37-2012 given by equations 16 and 17. The strain values obtained in step viii will be used to estimate the remaining lives from fatigue and rutting consideration. Remaining life of the pavement will be the shortest of the lives obtained from bituminous layer fatigue, subgrade rutting and cemented base fatigue (in case of pavements with cemented base) criteria.",
+    "9: For design of bituminous overlay, a trial thickness of overlay of an appropriate material has to be selected and the critical strains have to be evaluated. The modulus value of the bituminous overlay material may be selected as per the guidelines given in IRC:37-2012. Design overlay thickness can be selected by trial in such a way that the computed critical strains are less than the permissible limits given by the performance criteria for the.",
+    "111: 1 A number of softwares such as ELMOD, EVERCALC, BISDEF, NUS-BACK, MICH-BACK, MODULUS, PADAL, etc. are available for the backcalculation of pavement layer moduli from deflections measured using FWD. Some of these models use regression techniques for estimation of one or more moduli. Most of the traditional methods follow iterative approaches which vary the moduli in each step and compare the computed and measured deflections. The iterations continue till satisfactory matching between the known and computed deflections is attained. The methods differ mostly in the techniques used for successive selection of new set of modulus values. Other non-traditional techniques such as artificial neural networks and genetic algorithms have also been used for backcalculation.",
+    "111: 2 KGPBACK, a specific version of BACKGA program, which was developed for the research scheme R-81 (2003) of the Ministry of Road Transport and Highways, is recommended in these guidelines for backcalculation. KGPBACK is a Genetic Algorithm based model for backcalculation of layer moduli. Because of the features of the search algorithm used in them, Genetic Algorithms (GA) have become popular as an optimization technique that has the ability to solve complex problems. The early use of GAs for backcalculation of pavement layer moduli was with the development of NUS-GABACK program by et al (1997). It was shown that NUS-GABACK performed comparably well against other programs and showed consistency in the accuracy of the solutions. The other GA based backcalculation method reported in literature was the program developed by Kameyama et al (1998) for the backcalculation of moduli of flexible and rigid pavements.",
+    "111: 3 GA is a population based search and optimization technique. It maintains a population of individual solutions that compete amongst themselves based on the Darwin's survival of the fittest principle (Deb, 1995; Goldberg, 2000). Each individual solution (called chromosome) in the GA population is a finite length string code corresponding to a solution to the given problem. Each individual has a fitness value associated with it which is some measure of its closeness to the actual solution.",
+    "111: 4 The population is initially generated randomly and the fitness of each individual in the population is calculated. Then the genetic operators are repeatedly applied to this population until the desired solution is found or specified number of iterations are over. A typical GA uses three operators: reproduction or selection, crossover and mutation. In reproduction each individual in the population produces offsprings according to its fitness value. Thus, individuals with higher fitness contribute more offsprings in each generation. In crossover operation, two chromosome strings are randomly selected and their portions are exchanged with a probability P^ to form new individual. The crossover point about which the strings are exchanged is also selected randomly. In mutation operation, each bit in the string is flipped according to the probability P^, which is usually very small.",
+    "111: 5 Crossover and mutation operations on the mating pool generate offsprings. Fitness values are calculated for these offspring values. All these operations are carried out sequentially.",
+    "0: 74",
+    "0: 10",
+    "0: 481  0.294           0.216      0.163         0.134    0.107         0.080"
+  ],
+  "sub_clauses": [],
+  "special_sections": [],
+  "tables": [
+    "Table 1.",
+    "Table 2",
+    "Table 3",
+    "Table 3.",
+    "Table 4",
+    "Table.",
+    "table."
+  ],
+  "figures": [
+    "Fig. 1",
+    "Fig. 1."
+  ],
+  "element_page_map": {
+    "3": [
+      5,
+      31,
+      36
+    ],
+    "4": [
+      31
+    ],
+    "1": [
+      31
+    ],
+    "2": [
+      31
+    ],
+    "5": [
+      31
+    ],
+    "6": [
+      31
+    ],
+    "7": [
+      31
+    ],
+    "8": [
+      31
+    ],
+    "9": [
+      31
+    ],
+    "10": [
+      15
+    ],
+    "11": [
+      15
+    ],
+    "111": [
+      36
+    ],
+    "0": [
+      40
+    ]
+  },
+  "cross_references": [
+    {
+      "referenced_section": "5.3.4",
+      "position": 32183,
+      "context": "should be recorded for each block as mentioned in Clause 5.3.4. Sub-sections of uniform performance should be id"
+    },
+    {
+      "referenced_section": "8",
+      "position": 42151,
+      "context": "be stored for one of the test points of each road section\n8. deflection transducer configuration selected (nu"
+    },
+    {
+      "referenced_section": "4.4",
+      "position": 43887,
+      "context": "asured are too large or too small as discussed in Clause 4.4, the test may be repeated by changing the peak lo"
+    },
+    {
+      "referenced_section": "6.4.3",
+      "position": 44526,
+      "context": "rature is not more than 45°C. Guidelines given in Clause 6.4.3 may be followed for deflection measurement in col"
+    },
+    {
+      "referenced_section": "4.4",
+      "position": 49386,
+      "context": "o a standard target load of 40 kN as explained in Clause 4.4.\n\n# 6.2 Identification of Homogeneous Sub-section"
+    },
+    {
+      "referenced_section": "4",
+      "position": 49520,
+      "context": "cation of sections of uniform performance done in Section 4 of these guidelines was done primarily to select "
+    },
+    {
+      "referenced_section": "7.4",
+      "position": 57918,
+      "context": "lculated as per the procedure given in IRC:37 and Clause 7.4 below. For the purpose of structural design of pa"
+    },
+    {
+      "referenced_section": "7.4.2",
+      "position": 60097,
+      "context": "D)\n\nD = Lane distribution factor (as explained in Clause 7.4.2)\n\nF = Vehicle Damage Factor (VDF)\n\nn = Design lif"
+    },
+    {
+      "referenced_section": "6.3.1",
+      "position": 76208,
+      "context": " — |\n\n\n27\n\n\nIRC:115-2014\n# Appendix-Ill\n\n# (Refer Clause 6.3.1)\n\n# KGPBACK SOFTWARE FOR BACKCALCULATION OF PAVEM"
+    },
+    {
+      "referenced_section": "8.4",
+      "position": 84764,
+      "context": " 400 MPa to 1500 MPa\n\n\n\n3\n# Appendix-IV\n\n# (Refer Clause 8.4)\n\n# EXAMPLE\n\n# DESIGN FWD\n\nDeflection measurement"
+    }
+  ],
+  "statistics": {
+    "total_pages": 44,
+    "total_characters": 94174,
+    "total_words": 13875,
+    "total_lines": 1269,
+    "table_count": 8,
+    "figure_count": 3,
+    "cross_reference_count": 10
+  },
+  "clauses": [
+    "3",
+    "3",
+    "4",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "5",
+    "5",
+    "5",
+    "5",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "1",
+    "2",
+    "3",
+    "4",
+    "6",
+    "6",
+    "6",
+    "6",
+    "1",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "111",
+    "111",
+    "111",
+    "111",
+    "111",
+    "0",
+    "0",
+    "0"
+  ],
+  "clause_page_map": {
+    "3": [
+      5,
+      31,
+      36
+    ],
+    "4": [
+      31
+    ],
+    "1": [
+      31
+    ],
+    "2": [
+      31
+    ],
+    "5": [
+      31
+    ],
+    "6": [
+      31
+    ],
+    "7": [
+      31
+    ],
+    "8": [
+      31
+    ],
+    "9": [
+      31
+    ],
+    "10": [
+      15
+    ],
+    "11": [
+      15
+    ],
+    "111": [
+      36
+    ],
+    "0": [
+      40
+    ]
+  },
+  "extraction_version": "2.0_hierarchical",
+  "extracted_at": null
+}

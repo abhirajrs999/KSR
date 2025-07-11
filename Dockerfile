@@ -45,9 +45,8 @@ COPY main-minimal.py ./main.py
 # HEALTHCHECK --interval=30s --timeout=30s --start-period=60s --retries=3 \
 #   CMD curl -f http://localhost:${PORT:-8000}/health || exit 1
 
-# Don't hardcode EXPOSE - let Railway handle port assignment
-# EXPOSE 8000
+# Expose port 8000 since Railway domain is configured for it
+EXPOSE 8000
 
-# Use shell form to allow environment variable expansion
-# Railway automatically sets PORT environment variable
-CMD python -m uvicorn main:app --host 0.0.0.0 --port ${PORT}
+# Use Railway's PORT env var if available, otherwise default to 8000
+CMD python -m uvicorn main:app --host 0.0.0.0 --port ${PORT:-8000}

@@ -1,0 +1,211 @@
+{
+  "timestamp": "2025-06-25T15:00:59.027200",
+  "overall_status": "passed",
+  "success_rate": 80.0,
+  "passed_tests": 4,
+  "total_tests": 5,
+  "test_results": [
+    {
+      "test_name": "System Setup Validation",
+      "status": "passed",
+      "details": [
+        "Directory exists: D:\\RAG\\data\\vector_db",
+        "Directory exists: D:\\RAG\\data\\raw_pdfs",
+        "Directory exists: D:\\RAG\\data\\processed\\parsed_docs",
+        "Directory exists: D:\\RAG\\data\\processed\\chunks",
+        "Directory exists: D:\\RAG\\data\\processed\\metadata",
+        "LlamaParse API key configured",
+        "Google API key configured",
+        "Vector database contains data"
+      ],
+      "errors": []
+    },
+    {
+      "test_name": "Vector Database Connection",
+      "status": "passed",
+      "details": [
+        "Vector store initialized successfully",
+        "Database contains 989 documents"
+      ],
+      "errors": []
+    },
+    {
+      "test_name": "Vector Search Functionality",
+      "status": "failed",
+      "details": [],
+      "errors": [
+        "Vector search test failed: object list can't be used in 'await' expression"
+      ],
+      "search_results": []
+    },
+    {
+      "test_name": "Gemini API Connection",
+      "status": "passed",
+      "details": [
+        "Gemini API responded successfully",
+        "Response length: 2875 characters"
+      ],
+      "errors": []
+    },
+    {
+      "test_name": "IRC-Specific Query Testing",
+      "status": "passed",
+      "details": [
+        "Success rate: 100.0% (10/10)"
+      ],
+      "errors": [],
+      "query_results": [
+        {
+          "test_name": "End-to-End Query: What is congestion factor for 40m spans?...",
+          "query": "What is congestion factor for 40m spans?",
+          "status": "passed",
+          "details": [
+            "Query processed successfully",
+            "Found 0 relevant chunks",
+            "Generated 30 character response",
+            "Citations: 0"
+          ],
+          "errors": [],
+          "search_results_count": 0,
+          "response_length": 30,
+          "processing_time": 0.220973
+        },
+        {
+          "test_name": "End-to-End Query: Explain the design criteria for IRC bridges...",
+          "query": "Explain the design criteria for IRC bridges",
+          "status": "passed",
+          "details": [
+            "Query processed successfully",
+            "Found 0 relevant chunks",
+            "Generated 30 character response",
+            "Citations: 0"
+          ],
+          "errors": [],
+          "search_results_count": 0,
+          "response_length": 30,
+          "processing_time": 0.204789
+        },
+        {
+          "test_name": "End-to-End Query: What are the requirements for bridge deck waterpro...",
+          "query": "What are the requirements for bridge deck waterproofing?",
+          "status": "passed",
+          "details": [
+            "Query processed successfully",
+            "Found 0 relevant chunks",
+            "Generated 30 character response",
+            "Citations: 0"
+          ],
+          "errors": [],
+          "search_results_count": 0,
+          "response_length": 30,
+          "processing_time": 0.219975
+        },
+        {
+          "test_name": "End-to-End Query: How to calculate live load for highway bridges?...",
+          "query": "How to calculate live load for highway bridges?",
+          "status": "passed",
+          "details": [
+            "Query processed successfully",
+            "Found 0 relevant chunks",
+            "Generated 30 character response",
+            "Citations: 0"
+          ],
+          "errors": [],
+          "search_results_count": 0,
+          "response_length": 30,
+          "processing_time": 0.213269
+        },
+        {
+          "test_name": "End-to-End Query: What are the specifications for concrete mix desig...",
+          "query": "What are the specifications for concrete mix design?",
+          "status": "passed",
+          "details": [
+            "Query processed successfully",
+            "Found 0 relevant chunks",
+            "Generated 30 character response",
+            "Citations: 0"
+          ],
+          "errors": [],
+          "search_results_count": 0,
+          "response_length": 30,
+          "processing_time": 0.231072
+        },
+        {
+          "test_name": "End-to-End Query: Explain the quality control measures for bridge co...",
+          "query": "Explain the quality control measures for bridge construction",
+          "status": "passed",
+          "details": [
+            "Query processed successfully",
+            "Found 0 relevant chunks",
+            "Generated 30 character response",
+            "Citations: 0"
+          ],
+          "errors": [],
+          "search_results_count": 0,
+          "response_length": 30,
+          "processing_time": 0.253301
+        },
+        {
+          "test_name": "End-to-End Query: What are the safety requirements for bridge mainte...",
+          "query": "What are the safety requirements for bridge maintenance?",
+          "status": "passed",
+          "details": [
+            "Query processed successfully",
+            "Found 0 relevant chunks",
+            "Generated 30 character response",
+            "Citations: 0"
+          ],
+          "errors": [],
+          "search_results_count": 0,
+          "response_length": 30,
+          "processing_time": 0.235579
+        },
+        {
+          "test_name": "End-to-End Query: How to determine bridge load capacity?...",
+          "query": "How to determine bridge load capacity?",
+          "status": "passed",
+          "details": [
+            "Query processed successfully",
+            "Found 0 relevant chunks",
+            "Generated 30 character response",
+            "Citations: 0"
+          ],
+          "errors": [],
+          "search_results_count": 0,
+          "response_length": 30,
+          "processing_time": 0.229314
+        },
+        {
+          "test_name": "End-to-End Query: What are the environmental considerations in bridg...",
+          "query": "What are the environmental considerations in bridge design?",
+          "status": "passed",
+          "details": [
+            "Query processed successfully",
+            "Found 0 relevant chunks",
+            "Generated 30 character response",
+            "Citations: 0"
+          ],
+          "errors": [],
+          "search_results_count": 0,
+          "response_length": 30,
+          "processing_time": 0.211448
+        },
+        {
+          "test_name": "End-to-End Query: Explain the inspection procedures for bridges...",
+          "query": "Explain the inspection procedures for bridges",
+          "status": "passed",
+          "details": [
+            "Query processed successfully",
+            "Found 0 relevant chunks",
+            "Generated 30 character response",
+            "Citations: 0"
+          ],
+          "errors": [],
+          "search_results_count": 0,
+          "response_length": 30,
+          "processing_time": 0.241721
+        }
+      ]
+    }
+  ]
+}

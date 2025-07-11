@@ -1,0 +1,1373 @@
+{
+  "source_file": "IRC-37-2019.pdf",
+  "title": "Sector-6, R.K. Puram,",
+  "irc_code": "IRC:108",
+  "all_irc_codes": [
+    "IRC:108",
+    "IRC:115",
+    "IRC:120",
+    "IRC:34",
+    "IRC:37",
+    "IRC:37-2001",
+    "IRC:37-2012",
+    "IRC:37-2018",
+    "IRC:81",
+    "IRC:9"
+  ],
+  "revision_year": "20",
+  "revision_type": "First",
+  "structure": {
+    "main_chapters": [
+      {
+        "number": "1",
+        "title": "1 The first guidelines for the design of flexible pavements, published in 1970, were based on (i) subgrade (foundation) strength (California Bearing Ratio) and (ii) traffic, in terms of number of commercial vehicles (having a laden weight of 3 tonnes or more) per day. These guidelines were revised in 1984 considering the design traffic in terms of cumulative number of equivalent standard axle load of 80 kN and design charts were provided for design traffic volumes up to 30 million standard axle (msa) repetitions. The 1970 and 1984 versions of the guidelines were based on empirical (experience based) approach.",
+        "position": 24284,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "2 The second revision was carried out in 2001 [1] using semi-mechanistic (or mechanistic-empirical) approach based on the results available from R-6[2], R-56[3] and other research schemes of the Ministry of Road Transport and Highways (MoRTH). The mechanistic-empirical performance models for subgrade rutting and bottom-up cracking in the bottom bituminous layer, developed using the results of these research schemes, were used for the design of flexible pavements. FPAVE software, developed for R-56 research scheme for the analysis of linear elastic layered pavement systems, was used for the analysis of pavements and for the development of thickness design charts. Thickness charts were provided for design traffic levels up to 150 msa.",
+        "position": 24904,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "3 The third revision of the guidelines was carried out in 2012[4] to facilitate (i) design of bituminous pavements for traffic volumes more than 150 msa (ii) utilization of new types of pavement materials such as bituminous mixes with modified binders, foam/emulsion treated granular or Reclaimed Asphalt Pavement (RAP) material bases and sub-bases and cement treated sub-bases and bases and stabilized subgrades and (iii) utilization of new construction techniques/practices. Recommendations were made for the use of harder grade binders to resist rutting and top-down cracking in the upper bituminous layer and for fatigue resistant bituminous mixes for the bottom bituminous layer. Mechanistic-empirical performance models were given for rutting in subgrade and bottom-up cracking in bituminous layers for two different levels (80% and 90%) of reliability. Fatigue criteria were included for cement treated bases also.",
+        "position": 25650,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "4 The fourth (current) revision has been done based on the feedback received on the performance of bituminous pavements in general and that of bituminous layers in particular. Different provisions made in the third revision of the guidelines have been fine-tuned based on the feedback. Some of the salient features of the fourth revision are: (a) recommendation of better performing bituminous mixes and binders for surface and base/binder courses (b) guidelines for selection of appropriate elastic moduli for bituminous mixes used in the surface and other courses (c) recommendation of minimum thicknesses of granular and cement treated sub-bases and bases and bituminous layers from functional requirements (d) generalization of the procedure for the estimation of the effective resilient modulus/CBR of subgrade (e) provision for the use of geo-synthetics and (f) rationalization of the design approach for stage construction.",
+        "position": 26575,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "5 The draft of the basic document was prepared by Late Prof. B.B. Pandey of IITKharagpur based on the feedback received during the open house discussion on IRC:37-2012 held at the",
+        "position": 27509,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "1 The Guidelines shall apply to the design of new flexible pavements and reconstruction of damaged pavements for roads with a design traffic of two million standard axle (msa) load repetitions or more. For the roads with a design traffic of less than 2 msa, IRC:SP:72[5] shall be adopted for pavement design. For rehabilitation of in-service pavements, overlay design shall be done as per Falling Weight Deflectometer (FWD) method (IRC:115)[6] or Benkelman Beam Deflection (BBD) test method (IRC:81)[7].",
+        "position": 31537,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "2 Users of the guidelines are expected to use their skills, experience and engineering judgment and take into consideration the local climatic conditions, cost and availability of materials, their durability and past pavement performance in their respective regions for selecting a suitable pavement composition.",
+        "position": 32044,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "3 The guidelines may require revision from time to time in the light of future performance data and technological developments. Towards this end, it is suggested that all the organizations intending to use the guidelines should keep a detailed record of the year of construction, subgrade CBR, soil characteristics, pavement composition and specifications, traffic, pavement performance, overlay history, climatic conditions, etc., and provide feedback to the Indian Roads Congress for further revision.",
+        "position": 32360,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "1 While various sections of these guidelines describe the design procedures in detail, these are supplemented by a discussion on the ‘principle and approach to design’ given in the Appendix-A to this document, which needs to be considered as an integral part of the Guidelines. The Annexes (I to III) given to this document intend to elaborate the finer points of design and support the recommendations by different worked out design examples to help the users in familiarizing themselves with different provisions of the guidelines and for arriving at a safe, economical and performing design.",
+        "position": 32891,
+        "level": 1
+      },
+      {
+        "number": "0",
+        "title": "972 - (σ / M)",
+        "position": 47894,
+        "level": 1
+      },
+      {
+        "number": "0",
+        "title": "0825",
+        "position": 47932,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "Using IITPAVE software, determine the maximum surface deflection (δ) due to a single wheel load of 40,000 N and a contact pressure of 0.56 MPa for a two or three layer elastic system comprising of a single (or two sub-layers) of the 500 mm thick subgrade layer over the semi-infinite embankment layer. The elastic moduli of subgrade and embankment soils/layers may be estimated from equations 6.1 and 6.2 using their laboratory CBR values. Poisson’s ratio (μ) value may be taken as 0.35 for all the layers.",
+        "position": 78950,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "Using the maximum surface deflection (δ) computed in step (i) above, estimate the resilient modulus MRS of the equivalent single layer using equation 6.3.",
+        "position": 79460,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "The minimum thickness of drainage as well as filter layer shall be 100 mm (i.e., minimum thickness of each of these two layers is 100 mm).",
+        "position": 84410,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "The minimum thickness of the single filter-cum-drainage layer shall be 150 mm from functional requirement.",
+        "position": 84552,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "The minimum thickness of any compacted granular layer should preferably be at least 2.5 times the nominal maximum size of aggregates subject to a minimum of 100 mm.",
+        "position": 84662,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "The total thickness of the granular sub-base layer should be adequate to carry the construction traffic that may ply on the GSB. This thickness requirement may be worked out to satisfy the subgrade rutting limiting strain criterion given by equation 3.1 or 3.2 (as applicable for the classification of highway and design traffic). The design traffic for this purpose can be worked out based on the expected number of operations of dumpers and other construction vehicles on the GSB layer to carry material for the construction of granular or cement treated base layer. The indicative values of construction traffic loading and the procedure given in the worked out example in Annex-II can be used for the estimation of the construction traffic operating over the granular sub-base if more accurate and practical estimation cannot be done.",
+        "position": 84830,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "The sub-base thickness should be checked for the design traffic worked out as per the above mentioned procedure or 10,000 standard axle repetitions, whichever is more.",
+        "position": 85672,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "The two-layer system (subgrade and GSB) should be analyzed by placing a standard load over it (dual wheel set of 20,000 N each acting at 0.56 MPa contact pressure) and computing (using IITPAVE) the maximum subgrade vertical compressive strain. The GSB thickness should be varied until the computed strain is less than or equal to the limiting subgrade vertical compressive strain, given by equations 3.1 or 3.2 (as applicable).",
+        "position": 85843,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "bituminous surface course with granular base and sub-base",
+        "position": 126254,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "bituminous surface course with CTSB, CTB and granular crack relief layer",
+        "position": 126315,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "bituminous surface course with CTSB, CTB and SAMI",
+        "position": 126391,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "bituminous surface course with CTSB and emulsion/foam bitumen stabilised RAP/virgin aggregate",
+        "position": 126444,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "bituminous surface course with GSB, CTB and granular crack relief layer",
+        "position": 126541,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "bituminous surface course with CTSB and granular base course.",
+        "position": 126616,
+        "level": 1
+      },
+      {
+        "number": "13",
+        "title": "1 In areas susceptible to frost action, the design will have to be related to the actual depth of penetration and severity of the frost. At the subgrade level, fine grained clayey and silty soils are more susceptible to ice formation, but freezing conditions could also develop within the pavement structure if water has a chance of ingress from above.",
+        "position": 151868,
+        "level": 1
+      },
+      {
+        "number": "13",
+        "title": "2 One remedy against frost attack is to increase the depth of construction to correspond to the depth of frost penetration, but this may not always be economically practicable. As a general rule, it would not be advisable to provide total pavement thickness less than 450 mm even when the CBR value of the subgrade warrants a smaller thickness. In addition, the materials used for building up the crust should be frost resistant.",
+        "position": 152225,
+        "level": 1
+      },
+      {
+        "number": "13",
+        "title": "3 Another precaution against frost attack is that water should not be allowed to collect at the subgrade level which may happen on account of infiltration through the pavement surface or verges or due to capillary rise from a high water table. Whereas capillary rise can be prevented by subsoil drainage measures and cut-offs, infiltrating surface water can be checked only by providing a suitable surfacing course and a subsurface drainage system.",
+        "position": 152659,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "IRC:37-2001, “Guidelines for the Design of Flexible Pavements,” Indian Roads Congress, New Delhi.",
+        "position": 156381,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "R-6 Research Scheme, “Development of Methods such as Benkelman Beam Method for Estimation and Design of Overlays for Strengthening of Weak Pavements,” Final Report submitted to the Ministry of Surface Transport (Roads Wing) by the Central Road Research Institute, New Delhi, 1995.",
+        "position": 156482,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "R-56 Research Scheme, “Analytical Design of Flexible Pavements,” Final Report submitted to the Ministry of Surface Transport (Roads Wing) by the Civil Engineering Department, West Bengal, 1999.",
+        "position": 156766,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "IRC:37-2012, “Tentative Guidelines for the Design of Flexible Pavements,” Indian Roads Congress, New Delhi.",
+        "position": 156963,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "IRC:SP:72, “Guide lines for the Design of Flexible Pavements for Low Volume Rural Roads,” Indian Roads Congress, New Delhi.",
+        "position": 157074,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "IRC:115, “Guidelines for Structural Evaluation and Strengthening of Flexible Road Pavements using Falling Weight Deflectometer (FWD) Technique,” Indian Roads Congress, New Delhi.",
+        "position": 157201,
+        "level": 1
+      },
+      {
+        "number": "7",
+        "title": "IRC:81, “Guidelines for Strengthening of Flexible Road Pavements Using Benkelman Beam Deflection Technique,” Indian Roads Congress, New Delhi.",
+        "position": 157383,
+        "level": 1
+      },
+      {
+        "number": "8",
+        "title": "R-19 Research Scheme, “Pavement Performance Study of Existing Pavement Sections,” Final Report (Volume-2) submitted to the Ministry of Surface Transport (Roads Wing) by the Central Road Research Institute, New Delhi.",
+        "position": 157529,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "MS-1, “Thickness Design - Asphalt Pavements for Highways and Streets (MS - 01),” Asphalt Institute, Lexington, 1981.",
+        "position": 157764,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "MS-2 (7th Edition), “Mix Design Methods,” Asphalt Institute, 2014.",
+        "position": 157884,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "AGPT02-12, “Guide to Pavement Technology Part 2: Pavement Structural Design,” Austroads, Sydney, Australia, 2012.",
+        "position": 157954,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "MEPDG, “Guide for Mechanistic-Empirical Pavement Design Guide,” AASHTO, 2008.",
+        "position": 158071,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "S. S. Kumar, R. Sridhar, K. Sudhakar Reddy and S. Bose, “Analytical Investigation on the Influence of Loading and Temperature on Top-Down Cracking in Bituminous Layers,” Journal of Indian Roads Congress, vol. 69, no. 1, pp. 71-77, 2008.",
+        "position": 158152,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "R. Sridhar, “Top-Down Cracking in Bituminous Pavements,” Indian Institute of Technology Kharagpur (PhD Thesis), 2009.",
+        "position": 158392,
+        "level": 1
+      },
+      {
+        "number": "7",
+        "title": "IRC:9, “Traffic Census on Non-Urban Roads,” Indian Roads Congress, New Delhi.",
+        "position": 158513,
+        "level": 1
+      },
+      {
+        "number": "8",
+        "title": "IRC:108, “Guidelines for traffic prediction of Rural Highways,” India Roads Congress, New Delhi.",
+        "position": 158594,
+        "level": 1
+      },
+      {
+        "number": "9",
+        "title": "IS:2720-8, “Methods of Test for Soils - Determination of Water Content-Dry Density Relation using Heavy Compaction,” Bureau of Indian Standards, New Delhi, 1994.",
+        "position": 158694,
+        "level": 1
+      },
+      {
+        "number": "10",
+        "title": "IS:2720-16, “Methods of Test for Soils: Laboratory Determination of CBR,” Bureau of Indian Standards, New Delhi, 1987, Reaffirmed 2007.",
+        "position": 158859,
+        "level": 1
+      },
+      {
+        "number": "11",
+        "title": "AASHTO T307-99, “Standard Method of Test for Determining the Resilient Modulus of Soils and Aggregate Materials,” 2003.",
+        "position": 158999,
+        "level": 1
+      },
+      {
+        "number": "12",
+        "title": "Shell International Petroleum Company Limited, “Shell Pavement Design Manual—Asphalt Pavement and Overlays for Road Traffic,” London, 1978.",
+        "position": 159123,
+        "level": 1
+      },
+      {
+        "number": "13",
+        "title": "W. D. Powell, J. F. Potter, H. C. Mayhew and M. E. Nunn, “The Structural Design of Bituminous Roads,” TRRL Laboratory Report, Crowthorne, UK, 1984.",
+        "position": 159267,
+        "level": 1
+      },
+      {
+        "number": "14",
+        "title": "M. Amarnatha Reddy, K. Sudhakar Reddy and B. B. Pandey, “Design CBR of Subgrade for Flexible Pavements,” Journal of Indian Roads Congress, pp. 61-69, 2001.",
+        "position": 159419,
+        "level": 1
+      },
+      {
+        "number": "15",
+        "title": "MORTH, “Specifications for Road and Bridge Works, Ministry of Surface Transport (Roads Wing),” Indian Roads Congress, New Delhi, 2013.",
+        "position": 159579,
+        "level": 1
+      },
+      {
+        "number": "16",
+        "title": "IRC:SP:42, “Guidelines for Road Drainage,” Indian Roads Congress, New Delhi.",
+        "position": 159718,
+        "level": 1
+      },
+      {
+        "number": "17",
+        "title": "IRC:SP:50, “Guidelines for Urban Drainage,” Indian Roads Congress, New Delhi.",
+        "position": 159799,
+        "level": 1
+      },
+      {
+        "number": "18",
+        "title": "IRC:SP:59, “Guidelines for use of Geotextiles in Road Pavements and Associated Works,” Indian Roads Congress, New Delhi.",
+        "position": 159881,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "IRC:SP:89 (Part II), “Guidelines for the Design of Stabilised Pavements (Part II),” Indian Roads Congress, New Delhi.",
+        "position": 160023,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "IRC:SP:89, “Guidelines for Soil and Granular Material Stabilization using Cement, Lime &#x26; Fly Ash,” Indian Roads Congress, New Delhi.",
+        "position": 160144,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "BIS:4332 (Part IV), “Methods of Test for Stabilized Soils: Wetting and Drying, Freezing and Thawing Tests for Compacted Soil-Cement Mixtures,” Bureau of Indian Standards, New Delhi, 1968, Reaffirmed in 2010.",
+        "position": 160285,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "H. L. These, “Mechanistic Design of the Pavement Structures in the TRH 4 Pavement Design Catalogue,” Division for Road Transport Technology, CSIR, Pretoria, South Africa, 1995.",
+        "position": 160496,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "H. L. These, M. de Beer and F. C. Rust, “Overview of the South African Mechanistic Pavement Design Analysis Method,” Transportation Research Record, Washington DC, 1996.",
+        "position": 160676,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "ASTM D 6931, “Standard Test Method for Indirect Tensile (IDT) of Strength of Asphalt,” ASTM International, 2017.",
+        "position": 160849,
+        "level": 1
+      },
+      {
+        "number": "7",
+        "title": "IRC:120, “Recommended Practice for Recycling of Bituminous Pavements,” Indian Roads Congress, New Delhi.",
+        "position": 160965,
+        "level": 1
+      },
+      {
+        "number": "8",
+        "title": "IRC:SP:79, “Tentative Specifications for Stone Matrix Asphalt,” Indian Roads Congress, New Delhi.",
+        "position": 161073,
+        "level": 1
+      },
+      {
+        "number": "9",
+        "title": "IRC:SP:107, “Guidelines for Gap Graded Wearing Course with Rubberised Bitumen (Bitumen-Rubber),” Indian Roads Congress, New Delhi.",
+        "position": 161174,
+        "level": 1
+      },
+      {
+        "number": "10",
+        "title": "IS:73, “Paving Bitumen-Specifications (Fourth Revision),” Bureau of Indian Standards, New Delhi.",
+        "position": 161308,
+        "level": 1
+      },
+      {
+        "number": "11",
+        "title": "ASTM D 4123, “Standard Test Method for Indirect Tension Test for Resilient Modulus of Bituminous Mixtures,” ASTM International, 1982 (Reapproved 1995).",
+        "position": 161409,
+        "level": 1
+      },
+      {
+        "number": "12",
+        "title": "ASTM D 7369, “Standard Test Method for Determining the Resilient Modulus of Bituminous Mixtures by Indirect Tension Test,” ASTM International, 2009.",
+        "position": 161565,
+        "level": 1
+      },
+      {
+        "number": "13",
+        "title": "MS-4, “The Asphalt Hand Book,” Asphalt Institute, 2007.",
+        "position": 161718,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "Measuring a set of pavement performance parameters: surface irregularity, rutting, alligator cracking, top down cracking.",
+        "position": 182842,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "Observing other kinds of distresses: age hardening, raveling, potholes, bleeding, etc.",
+        "position": 182967,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "Investigating the distresses observed, if any; core samples of distressed portions.",
+        "position": 183057,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "Gathering the air and pavement temperature data.",
+        "position": 183144,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "Open IRC_37_IITPAVE folder.",
+        "position": 185355,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "Double-click on IITPAVE_EX.exe file in the IRC_37_IITPAVE folder. IITPAVE start screen will appear as shown in Fig. I.1.",
+        "position": 185386,
+        "level": 1
+      },
+      {
+        "number": "119",
+        "title": "7 MPa 500 mm",
+        "position": 196012,
+        "level": 1
+      },
+      {
+        "number": "66",
+        "title": "6 MPa Semi-infinite layer",
+        "position": 196030,
+        "level": 1
+      },
+      {
+        "number": "105",
+        "title": "1 MPa",
+        "position": 199135,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "Effective resilient modulus of Subgrade = 17.6(7.0)0.64 = 62 MPa (less than 100 MPa, the upper limit)",
+        "position": 202553,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "Since the design traffic is more than 50 msa, provide a SMA/GGRB or BC with modified bitumen surface course and DBM binder/base layer with VG40 with viscosity more than 3600 Poise (at 60°C)",
+        "position": 202658,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "Select a trial section with 190 mm total bituminous layer (provide 40 mm thick surface layer, 70 mm thick DBM-II, 80 mm thick bottom rich DBM-I); 250 mm thick granular base (WMM) and 230 mm thick granular sub-base (GSB). Total thickness of granular layer = 480 mm",
+        "position": 202851,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "Resilient modulus of the granular layer = 0.2 x (480)0.45 x 62 = 200 MPa",
+        "position": 203118,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "Use 90 % reliability performance models for subgrade rutting and bituminous layer cracking (design traffic > 20 msa)",
+        "position": 203194,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "Allowable vertical compressive strain on subgrade for a design traffic of 131 msa and for 90 % reliability (using equation 3.2) = 0.000301 (0.301 X 10-3)",
+        "position": 203314,
+        "level": 1
+      },
+      {
+        "number": "7",
+        "title": "Allowable horizontal tensile strain at the bottom of bituminous layer for a design traffic of 131 msa, 90 % reliability, air void content of 3 % and effective binder volume of 11.5 %, and a resilient modulus of 3000 MPa for bottom rich bottom DBM layer (DBM-I) (using Equation 3.4) = 0.000150 (0.150 X 10-3)",
+        "position": 203471,
+        "level": 1
+      },
+      {
+        "number": "8",
+        "title": "Analyse the pavement using IITPAVE with the following inputs (elastic moduli: 3000 MPa, 200 MPa, 62 MPa, Poisson’s ratio values of 0.35 for all the three layers, layer thicknesses of 190 mm and 480 mm). Computed Horizontal tensile strain = 0.000146 &#x3C; 0.000150. Hence OK",
+        "position": 203782,
+        "level": 1
+      },
+      {
+        "number": "9",
+        "title": "Computed vertical compressive strain = 0.000243 &#x3C; allowable strain of 0.000301. Hence OK",
+        "position": 204060,
+        "level": 1
+      },
+      {
+        "number": "10",
+        "title": "A screenshot of the IITPAVE output generated for this problem is given as II.4.",
+        "position": 204157,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "Elastic Moduli values: Bituminous layer = 3000 MPa; granular crack relief layer = 450 MPa; CTB layer = 5000 MPa; CTSB = 600 MPa; subgrade = 62 MPa (effective CBR of 7 %)",
+        "position": 206856,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "Poisson’s ratio values: Bituminous, crack relief layer and subgrade = 0.35; CTSB and CTB = 0.25",
+        "position": 207029,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "Assume that the gross weight of a three-axle dumper (rear tandem and front single) is 320 kN",
+        "position": 219159,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "Assume that the load on the rear tandem axle is 240 kN and that on the front steering axle is 80 kN.",
+        "position": 219255,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "Assume the 7-day flexural strength of CTB material to be 1.0 MPa (about 70 % of the flexural strength of 1.4 MPa)",
+        "position": 219359,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "Assume that there will be 70 dumper trips for laying 2.0 km of 100 mm thick one lane wide granular crack relief layer.",
+        "position": 219476,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "Allowable flexural stress for 70 X 2 = 140 repetitions of a single axle of 120 kN (240/2) from Equation 3.6 = 0.795 MPa.",
+        "position": 219598,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "It can be verified that a CTB layer thickness of 160 mm (for the other pavement data given in this example) will be required. Analysing this as a Three-layer system with CTB (160 mm), CTSB (250 mm) and subgrade, the maximum tensile stress at the bottom of CTB layer due to 120 kN single axle works out to 0.767 MPa",
+        "position": 219722,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "Design traffic = 131 msa",
+        "position": 220374,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "Consider a trial pavement combination of 100 mm thick bituminous layer, foam bitumen stabilised RAP base of 180 mm thickness and CTSB of 250 mm thickness",
+        "position": 220402,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "Elastic moduli: 3000 MPa for bituminous layer, 800 MPa for stabilised RAP layer, 600 MPa for CTSB, 62 MPa for subgrade (from example II.2)",
+        "position": 220559,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "Poisson’s ratio for all the layers except CTSB = 0.35, For CTSB it is 0.25.",
+        "position": 220701,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "Allowable subgrade vertical compressive strain (for 90 % reliability, 131 msa traffic) = 0.000301",
+        "position": 220780,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "Allowable horizontal tensile strain (90 % reliability, 3000 MPa mix modulus, mix design parameters of 3 % air void content and 11.5 % effective bitumen volume) = 0.000150",
+        "position": 220881,
+        "level": 1
+      },
+      {
+        "number": "7",
+        "title": "Computed vertical subgrade strain = 0.000148 &#x3C; 0.000301. Hence, OK",
+        "position": 221055,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "Reliability: 80% for 5, 10, 20 msa and 90% for 30, 40, 50 msa",
+        "position": 229145,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "Bitumen type: VG30 for 5, 10, 20 msa and VG40 for 30, 40, 50 msa",
+        "position": 229210,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "Resilient modulus of bituminous layer: 2000 MPa for VG30 mix and 3000 MPa for VG40 mix",
+        "position": 229278,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "Elastic modulus of CTB: 5000 MPa",
+        "position": 229368,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "Elastic modulus of CTSB: 600 MPa",
+        "position": 229404,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "Elastic modulus of RAP/aggregate stabilised with emulsion or foam bitumen: 800 MPa",
+        "position": 229440,
+        "level": 1
+      },
+      {
+        "number": "7",
+        "title": "Elastic modulus of granular layer (WMM) over CTSB: 350 MPa (crushed rock)",
+        "position": 229526,
+        "level": 1
+      },
+      {
+        "number": "8",
+        "title": "Effective Elastic modulus of subgrade (using Equation 6.2): 77 MPa",
+        "position": 229603,
+        "level": 1
+      },
+      {
+        "number": "9",
+        "title": "Poisson’s ratio: 0.25 for CTB and CTSB and 0.35 for all other layers",
+        "position": 229673,
+        "level": 1
+      },
+      {
+        "number": "10",
+        "title": "The mix volumetric parameters assumed for estimation of the fatigue life are given in the tables",
+        "position": 229745,
+        "level": 1
+      },
+      {
+        "number": "11",
+        "title": "The values of RF factor used in Equation 3.5 are taken as 2 for design traffic less than 10 msa and as 1 for design traffic of 10 msa or more.",
+        "position": 229846,
+        "level": 1
+      }
+    ],
+    "sub_clauses": [],
+    "sub_sub_clauses": [],
+    "special_sections": [],
+    "hierarchy_map": {
+      "1": {
+        "number": "1",
+        "title": "Reliability: 80% for 5, 10, 20 msa and 90% for 30, 40, 50 msa",
+        "position": 229145,
+        "level": 1
+      },
+      "2": {
+        "number": "2",
+        "title": "Bitumen type: VG30 for 5, 10, 20 msa and VG40 for 30, 40, 50 msa",
+        "position": 229210,
+        "level": 1
+      },
+      "3": {
+        "number": "3",
+        "title": "Resilient modulus of bituminous layer: 2000 MPa for VG30 mix and 3000 MPa for VG40 mix",
+        "position": 229278,
+        "level": 1
+      },
+      "0": {
+        "number": "0",
+        "title": "0825",
+        "position": 47932,
+        "level": 1
+      },
+      "4": {
+        "number": "4",
+        "title": "Elastic modulus of CTB: 5000 MPa",
+        "position": 229368,
+        "level": 1
+      },
+      "5": {
+        "number": "5",
+        "title": "Elastic modulus of CTSB: 600 MPa",
+        "position": 229404,
+        "level": 1
+      },
+      "6": {
+        "number": "6",
+        "title": "Elastic modulus of RAP/aggregate stabilised with emulsion or foam bitumen: 800 MPa",
+        "position": 229440,
+        "level": 1
+      },
+      "13": {
+        "number": "13",
+        "title": "MS-4, “The Asphalt Hand Book,” Asphalt Institute, 2007.",
+        "position": 161718,
+        "level": 1
+      },
+      "7": {
+        "number": "7",
+        "title": "Elastic modulus of granular layer (WMM) over CTSB: 350 MPa (crushed rock)",
+        "position": 229526,
+        "level": 1
+      },
+      "8": {
+        "number": "8",
+        "title": "Effective Elastic modulus of subgrade (using Equation 6.2): 77 MPa",
+        "position": 229603,
+        "level": 1
+      },
+      "9": {
+        "number": "9",
+        "title": "Poisson’s ratio: 0.25 for CTB and CTSB and 0.35 for all other layers",
+        "position": 229673,
+        "level": 1
+      },
+      "10": {
+        "number": "10",
+        "title": "The mix volumetric parameters assumed for estimation of the fatigue life are given in the tables",
+        "position": 229745,
+        "level": 1
+      },
+      "11": {
+        "number": "11",
+        "title": "The values of RF factor used in Equation 3.5 are taken as 2 for design traffic less than 10 msa and as 1 for design traffic of 10 msa or more.",
+        "position": 229846,
+        "level": 1
+      },
+      "12": {
+        "number": "12",
+        "title": "ASTM D 7369, “Standard Test Method for Determining the Resilient Modulus of Bituminous Mixtures by Indirect Tension Test,” ASTM International, 2009.",
+        "position": 161565,
+        "level": 1
+      },
+      "14": {
+        "number": "14",
+        "title": "M. Amarnatha Reddy, K. Sudhakar Reddy and B. B. Pandey, “Design CBR of Subgrade for Flexible Pavements,” Journal of Indian Roads Congress, pp. 61-69, 2001.",
+        "position": 159419,
+        "level": 1
+      },
+      "15": {
+        "number": "15",
+        "title": "MORTH, “Specifications for Road and Bridge Works, Ministry of Surface Transport (Roads Wing),” Indian Roads Congress, New Delhi, 2013.",
+        "position": 159579,
+        "level": 1
+      },
+      "16": {
+        "number": "16",
+        "title": "IRC:SP:42, “Guidelines for Road Drainage,” Indian Roads Congress, New Delhi.",
+        "position": 159718,
+        "level": 1
+      },
+      "17": {
+        "number": "17",
+        "title": "IRC:SP:50, “Guidelines for Urban Drainage,” Indian Roads Congress, New Delhi.",
+        "position": 159799,
+        "level": 1
+      },
+      "18": {
+        "number": "18",
+        "title": "IRC:SP:59, “Guidelines for use of Geotextiles in Road Pavements and Associated Works,” Indian Roads Congress, New Delhi.",
+        "position": 159881,
+        "level": 1
+      },
+      "119": {
+        "number": "119",
+        "title": "7 MPa 500 mm",
+        "position": 196012,
+        "level": 1
+      },
+      "66": {
+        "number": "66",
+        "title": "6 MPa Semi-infinite layer",
+        "position": 196030,
+        "level": 1
+      },
+      "105": {
+        "number": "105",
+        "title": "1 MPa",
+        "position": 199135,
+        "level": 1
+      }
+    },
+    "cross_references": [
+      {
+        "referenced_section": "14",
+        "position": 113248,
+        "context": "dback for their further refinement. Also refer to Clause 14.\n\nResilient Modulus of 150 mm diameter DBM specim"
+      },
+      {
+        "referenced_section": "12.2",
+        "position": 128390,
+        "context": "r the six pavement composition types mentioned in section 12.2. The catalogues were developed based on the assum"
+      },
+      {
+        "referenced_section": "903",
+        "position": 153193,
+        "context": "NG CONSTRUCTION\n\nThe recommendations contained in Clause 903 of Specifications of the Ministry of Road Transpo"
+      },
+      {
+        "referenced_section": "14",
+        "position": 181436,
+        "context": " on works and their frequencies are enumerated in Section 14. The designer has to plan all the required tests "
+      },
+      {
+        "referenced_section": "12",
+        "position": 228815,
+        "context": "affic for which thickness catalogues are given in section 12 of the guidelines.\n\nThe following design inputs a"
+      },
+      {
+        "referenced_section": "12",
+        "position": 230094,
+        "context": "inous layers) given in the thickness templates in Section 12 of the guidelines and in the following tables hav"
+      }
+    ]
+  },
+  "main_chapters": [
+    "1: 1 The first guidelines for the design of flexible pavements, published in 1970, were based on (i) subgrade (foundation) strength (California Bearing Ratio) and (ii) traffic, in terms of number of commercial vehicles (having a laden weight of 3 tonnes or more) per day. These guidelines were revised in 1984 considering the design traffic in terms of cumulative number of equivalent standard axle load of 80 kN and design charts were provided for design traffic volumes up to 30 million standard axle (msa) repetitions. The 1970 and 1984 versions of the guidelines were based on empirical (experience based) approach.",
+    "1: 2 The second revision was carried out in 2001 [1] using semi-mechanistic (or mechanistic-empirical) approach based on the results available from R-6[2], R-56[3] and other research schemes of the Ministry of Road Transport and Highways (MoRTH). The mechanistic-empirical performance models for subgrade rutting and bottom-up cracking in the bottom bituminous layer, developed using the results of these research schemes, were used for the design of flexible pavements. FPAVE software, developed for R-56 research scheme for the analysis of linear elastic layered pavement systems, was used for the analysis of pavements and for the development of thickness design charts. Thickness charts were provided for design traffic levels up to 150 msa.",
+    "1: 3 The third revision of the guidelines was carried out in 2012[4] to facilitate (i) design of bituminous pavements for traffic volumes more than 150 msa (ii) utilization of new types of pavement materials such as bituminous mixes with modified binders, foam/emulsion treated granular or Reclaimed Asphalt Pavement (RAP) material bases and sub-bases and cement treated sub-bases and bases and stabilized subgrades and (iii) utilization of new construction techniques/practices. Recommendations were made for the use of harder grade binders to resist rutting and top-down cracking in the upper bituminous layer and for fatigue resistant bituminous mixes for the bottom bituminous layer. Mechanistic-empirical performance models were given for rutting in subgrade and bottom-up cracking in bituminous layers for two different levels (80% and 90%) of reliability. Fatigue criteria were included for cement treated bases also.",
+    "1: 4 The fourth (current) revision has been done based on the feedback received on the performance of bituminous pavements in general and that of bituminous layers in particular. Different provisions made in the third revision of the guidelines have been fine-tuned based on the feedback. Some of the salient features of the fourth revision are: (a) recommendation of better performing bituminous mixes and binders for surface and base/binder courses (b) guidelines for selection of appropriate elastic moduli for bituminous mixes used in the surface and other courses (c) recommendation of minimum thicknesses of granular and cement treated sub-bases and bases and bituminous layers from functional requirements (d) generalization of the procedure for the estimation of the effective resilient modulus/CBR of subgrade (e) provision for the use of geo-synthetics and (f) rationalization of the design approach for stage construction.",
+    "1: 5 The draft of the basic document was prepared by Late Prof. B.B. Pandey of IITKharagpur based on the feedback received during the open house discussion on IRC:37-2012 held at the",
+    "2: 1 The Guidelines shall apply to the design of new flexible pavements and reconstruction of damaged pavements for roads with a design traffic of two million standard axle (msa) load repetitions or more. For the roads with a design traffic of less than 2 msa, IRC:SP:72[5] shall be adopted for pavement design. For rehabilitation of in-service pavements, overlay design shall be done as per Falling Weight Deflectometer (FWD) method (IRC:115)[6] or Benkelman Beam Deflection (BBD) test method (IRC:81)[7].",
+    "2: 2 Users of the guidelines are expected to use their skills, experience and engineering judgment and take into consideration the local climatic conditions, cost and availability of materials, their durability and past pavement performance in their respective regions for selecting a suitable pavement composition.",
+    "2: 3 The guidelines may require revision from time to time in the light of future performance data and technological developments. Towards this end, it is suggested that all the organizations intending to use the guidelines should keep a detailed record of the year of construction, subgrade CBR, soil characteristics, pavement composition and specifications, traffic, pavement performance, overlay history, climatic conditions, etc., and provide feedback to the Indian Roads Congress for further revision.",
+    "3: 1 While various sections of these guidelines describe the design procedures in detail, these are supplemented by a discussion on the ‘principle and approach to design’ given in the Appendix-A to this document, which needs to be considered as an integral part of the Guidelines. The Annexes (I to III) given to this document intend to elaborate the finer points of design and support the recommendations by different worked out design examples to help the users in familiarizing themselves with different provisions of the guidelines and for arriving at a safe, economical and performing design.",
+    "0: 972 - (σ / M)",
+    "0: 0825",
+    "1: Using IITPAVE software, determine the maximum surface deflection (δ) due to a single wheel load of 40,000 N and a contact pressure of 0.56 MPa for a two or three layer elastic system comprising of a single (or two sub-layers) of the 500 mm thick subgrade layer over the semi-infinite embankment layer. The elastic moduli of subgrade and embankment soils/layers may be estimated from equations 6.1 and 6.2 using their laboratory CBR values. Poisson’s ratio (μ) value may be taken as 0.35 for all the layers.",
+    "2: Using the maximum surface deflection (δ) computed in step (i) above, estimate the resilient modulus MRS of the equivalent single layer using equation 6.3.",
+    "1: The minimum thickness of drainage as well as filter layer shall be 100 mm (i.e., minimum thickness of each of these two layers is 100 mm).",
+    "2: The minimum thickness of the single filter-cum-drainage layer shall be 150 mm from functional requirement.",
+    "3: The minimum thickness of any compacted granular layer should preferably be at least 2.5 times the nominal maximum size of aggregates subject to a minimum of 100 mm.",
+    "4: The total thickness of the granular sub-base layer should be adequate to carry the construction traffic that may ply on the GSB. This thickness requirement may be worked out to satisfy the subgrade rutting limiting strain criterion given by equation 3.1 or 3.2 (as applicable for the classification of highway and design traffic). The design traffic for this purpose can be worked out based on the expected number of operations of dumpers and other construction vehicles on the GSB layer to carry material for the construction of granular or cement treated base layer. The indicative values of construction traffic loading and the procedure given in the worked out example in Annex-II can be used for the estimation of the construction traffic operating over the granular sub-base if more accurate and practical estimation cannot be done.",
+    "5: The sub-base thickness should be checked for the design traffic worked out as per the above mentioned procedure or 10,000 standard axle repetitions, whichever is more.",
+    "6: The two-layer system (subgrade and GSB) should be analyzed by placing a standard load over it (dual wheel set of 20,000 N each acting at 0.56 MPa contact pressure) and computing (using IITPAVE) the maximum subgrade vertical compressive strain. The GSB thickness should be varied until the computed strain is less than or equal to the limiting subgrade vertical compressive strain, given by equations 3.1 or 3.2 (as applicable).",
+    "1: bituminous surface course with granular base and sub-base",
+    "2: bituminous surface course with CTSB, CTB and granular crack relief layer",
+    "3: bituminous surface course with CTSB, CTB and SAMI",
+    "4: bituminous surface course with CTSB and emulsion/foam bitumen stabilised RAP/virgin aggregate",
+    "5: bituminous surface course with GSB, CTB and granular crack relief layer",
+    "6: bituminous surface course with CTSB and granular base course.",
+    "13: 1 In areas susceptible to frost action, the design will have to be related to the actual depth of penetration and severity of the frost. At the subgrade level, fine grained clayey and silty soils are more susceptible to ice formation, but freezing conditions could also develop within the pavement structure if water has a chance of ingress from above.",
+    "13: 2 One remedy against frost attack is to increase the depth of construction to correspond to the depth of frost penetration, but this may not always be economically practicable. As a general rule, it would not be advisable to provide total pavement thickness less than 450 mm even when the CBR value of the subgrade warrants a smaller thickness. In addition, the materials used for building up the crust should be frost resistant.",
+    "13: 3 Another precaution against frost attack is that water should not be allowed to collect at the subgrade level which may happen on account of infiltration through the pavement surface or verges or due to capillary rise from a high water table. Whereas capillary rise can be prevented by subsoil drainage measures and cut-offs, infiltrating surface water can be checked only by providing a suitable surfacing course and a subsurface drainage system.",
+    "1: IRC:37-2001, “Guidelines for the Design of Flexible Pavements,” Indian Roads Congress, New Delhi.",
+    "2: R-6 Research Scheme, “Development of Methods such as Benkelman Beam Method for Estimation and Design of Overlays for Strengthening of Weak Pavements,” Final Report submitted to the Ministry of Surface Transport (Roads Wing) by the Central Road Research Institute, New Delhi, 1995.",
+    "3: R-56 Research Scheme, “Analytical Design of Flexible Pavements,” Final Report submitted to the Ministry of Surface Transport (Roads Wing) by the Civil Engineering Department, West Bengal, 1999.",
+    "4: IRC:37-2012, “Tentative Guidelines for the Design of Flexible Pavements,” Indian Roads Congress, New Delhi.",
+    "5: IRC:SP:72, “Guide lines for the Design of Flexible Pavements for Low Volume Rural Roads,” Indian Roads Congress, New Delhi.",
+    "6: IRC:115, “Guidelines for Structural Evaluation and Strengthening of Flexible Road Pavements using Falling Weight Deflectometer (FWD) Technique,” Indian Roads Congress, New Delhi.",
+    "7: IRC:81, “Guidelines for Strengthening of Flexible Road Pavements Using Benkelman Beam Deflection Technique,” Indian Roads Congress, New Delhi.",
+    "8: R-19 Research Scheme, “Pavement Performance Study of Existing Pavement Sections,” Final Report (Volume-2) submitted to the Ministry of Surface Transport (Roads Wing) by the Central Road Research Institute, New Delhi.",
+    "1: MS-1, “Thickness Design - Asphalt Pavements for Highways and Streets (MS - 01),” Asphalt Institute, Lexington, 1981.",
+    "2: MS-2 (7th Edition), “Mix Design Methods,” Asphalt Institute, 2014.",
+    "3: AGPT02-12, “Guide to Pavement Technology Part 2: Pavement Structural Design,” Austroads, Sydney, Australia, 2012.",
+    "4: MEPDG, “Guide for Mechanistic-Empirical Pavement Design Guide,” AASHTO, 2008.",
+    "5: S. S. Kumar, R. Sridhar, K. Sudhakar Reddy and S. Bose, “Analytical Investigation on the Influence of Loading and Temperature on Top-Down Cracking in Bituminous Layers,” Journal of Indian Roads Congress, vol. 69, no. 1, pp. 71-77, 2008.",
+    "6: R. Sridhar, “Top-Down Cracking in Bituminous Pavements,” Indian Institute of Technology Kharagpur (PhD Thesis), 2009.",
+    "7: IRC:9, “Traffic Census on Non-Urban Roads,” Indian Roads Congress, New Delhi.",
+    "8: IRC:108, “Guidelines for traffic prediction of Rural Highways,” India Roads Congress, New Delhi.",
+    "9: IS:2720-8, “Methods of Test for Soils - Determination of Water Content-Dry Density Relation using Heavy Compaction,” Bureau of Indian Standards, New Delhi, 1994.",
+    "10: IS:2720-16, “Methods of Test for Soils: Laboratory Determination of CBR,” Bureau of Indian Standards, New Delhi, 1987, Reaffirmed 2007.",
+    "11: AASHTO T307-99, “Standard Method of Test for Determining the Resilient Modulus of Soils and Aggregate Materials,” 2003.",
+    "12: Shell International Petroleum Company Limited, “Shell Pavement Design Manual—Asphalt Pavement and Overlays for Road Traffic,” London, 1978.",
+    "13: W. D. Powell, J. F. Potter, H. C. Mayhew and M. E. Nunn, “The Structural Design of Bituminous Roads,” TRRL Laboratory Report, Crowthorne, UK, 1984.",
+    "14: M. Amarnatha Reddy, K. Sudhakar Reddy and B. B. Pandey, “Design CBR of Subgrade for Flexible Pavements,” Journal of Indian Roads Congress, pp. 61-69, 2001.",
+    "15: MORTH, “Specifications for Road and Bridge Works, Ministry of Surface Transport (Roads Wing),” Indian Roads Congress, New Delhi, 2013.",
+    "16: IRC:SP:42, “Guidelines for Road Drainage,” Indian Roads Congress, New Delhi.",
+    "17: IRC:SP:50, “Guidelines for Urban Drainage,” Indian Roads Congress, New Delhi.",
+    "18: IRC:SP:59, “Guidelines for use of Geotextiles in Road Pavements and Associated Works,” Indian Roads Congress, New Delhi.",
+    "1: IRC:SP:89 (Part II), “Guidelines for the Design of Stabilised Pavements (Part II),” Indian Roads Congress, New Delhi.",
+    "2: IRC:SP:89, “Guidelines for Soil and Granular Material Stabilization using Cement, Lime &#x26; Fly Ash,” Indian Roads Congress, New Delhi.",
+    "3: BIS:4332 (Part IV), “Methods of Test for Stabilized Soils: Wetting and Drying, Freezing and Thawing Tests for Compacted Soil-Cement Mixtures,” Bureau of Indian Standards, New Delhi, 1968, Reaffirmed in 2010.",
+    "4: H. L. These, “Mechanistic Design of the Pavement Structures in the TRH 4 Pavement Design Catalogue,” Division for Road Transport Technology, CSIR, Pretoria, South Africa, 1995.",
+    "5: H. L. These, M. de Beer and F. C. Rust, “Overview of the South African Mechanistic Pavement Design Analysis Method,” Transportation Research Record, Washington DC, 1996.",
+    "6: ASTM D 6931, “Standard Test Method for Indirect Tensile (IDT) of Strength of Asphalt,” ASTM International, 2017.",
+    "7: IRC:120, “Recommended Practice for Recycling of Bituminous Pavements,” Indian Roads Congress, New Delhi.",
+    "8: IRC:SP:79, “Tentative Specifications for Stone Matrix Asphalt,” Indian Roads Congress, New Delhi.",
+    "9: IRC:SP:107, “Guidelines for Gap Graded Wearing Course with Rubberised Bitumen (Bitumen-Rubber),” Indian Roads Congress, New Delhi.",
+    "10: IS:73, “Paving Bitumen-Specifications (Fourth Revision),” Bureau of Indian Standards, New Delhi.",
+    "11: ASTM D 4123, “Standard Test Method for Indirect Tension Test for Resilient Modulus of Bituminous Mixtures,” ASTM International, 1982 (Reapproved 1995).",
+    "12: ASTM D 7369, “Standard Test Method for Determining the Resilient Modulus of Bituminous Mixtures by Indirect Tension Test,” ASTM International, 2009.",
+    "13: MS-4, “The Asphalt Hand Book,” Asphalt Institute, 2007.",
+    "1: Measuring a set of pavement performance parameters: surface irregularity, rutting, alligator cracking, top down cracking.",
+    "2: Observing other kinds of distresses: age hardening, raveling, potholes, bleeding, etc.",
+    "3: Investigating the distresses observed, if any; core samples of distressed portions.",
+    "4: Gathering the air and pavement temperature data.",
+    "1: Open IRC_37_IITPAVE folder.",
+    "2: Double-click on IITPAVE_EX.exe file in the IRC_37_IITPAVE folder. IITPAVE start screen will appear as shown in Fig. I.1.",
+    "119: 7 MPa 500 mm",
+    "66: 6 MPa Semi-infinite layer",
+    "105: 1 MPa",
+    "1: Effective resilient modulus of Subgrade = 17.6(7.0)0.64 = 62 MPa (less than 100 MPa, the upper limit)",
+    "2: Since the design traffic is more than 50 msa, provide a SMA/GGRB or BC with modified bitumen surface course and DBM binder/base layer with VG40 with viscosity more than 3600 Poise (at 60°C)",
+    "3: Select a trial section with 190 mm total bituminous layer (provide 40 mm thick surface layer, 70 mm thick DBM-II, 80 mm thick bottom rich DBM-I); 250 mm thick granular base (WMM) and 230 mm thick granular sub-base (GSB). Total thickness of granular layer = 480 mm",
+    "4: Resilient modulus of the granular layer = 0.2 x (480)0.45 x 62 = 200 MPa",
+    "5: Use 90 % reliability performance models for subgrade rutting and bituminous layer cracking (design traffic > 20 msa)",
+    "6: Allowable vertical compressive strain on subgrade for a design traffic of 131 msa and for 90 % reliability (using equation 3.2) = 0.000301 (0.301 X 10-3)",
+    "7: Allowable horizontal tensile strain at the bottom of bituminous layer for a design traffic of 131 msa, 90 % reliability, air void content of 3 % and effective binder volume of 11.5 %, and a resilient modulus of 3000 MPa for bottom rich bottom DBM layer (DBM-I) (using Equation 3.4) = 0.000150 (0.150 X 10-3)",
+    "8: Analyse the pavement using IITPAVE with the following inputs (elastic moduli: 3000 MPa, 200 MPa, 62 MPa, Poisson’s ratio values of 0.35 for all the three layers, layer thicknesses of 190 mm and 480 mm). Computed Horizontal tensile strain = 0.000146 &#x3C; 0.000150. Hence OK",
+    "9: Computed vertical compressive strain = 0.000243 &#x3C; allowable strain of 0.000301. Hence OK",
+    "10: A screenshot of the IITPAVE output generated for this problem is given as II.4.",
+    "1: Elastic Moduli values: Bituminous layer = 3000 MPa; granular crack relief layer = 450 MPa; CTB layer = 5000 MPa; CTSB = 600 MPa; subgrade = 62 MPa (effective CBR of 7 %)",
+    "2: Poisson’s ratio values: Bituminous, crack relief layer and subgrade = 0.35; CTSB and CTB = 0.25",
+    "1: Assume that the gross weight of a three-axle dumper (rear tandem and front single) is 320 kN",
+    "2: Assume that the load on the rear tandem axle is 240 kN and that on the front steering axle is 80 kN.",
+    "3: Assume the 7-day flexural strength of CTB material to be 1.0 MPa (about 70 % of the flexural strength of 1.4 MPa)",
+    "4: Assume that there will be 70 dumper trips for laying 2.0 km of 100 mm thick one lane wide granular crack relief layer.",
+    "5: Allowable flexural stress for 70 X 2 = 140 repetitions of a single axle of 120 kN (240/2) from Equation 3.6 = 0.795 MPa.",
+    "6: It can be verified that a CTB layer thickness of 160 mm (for the other pavement data given in this example) will be required. Analysing this as a Three-layer system with CTB (160 mm), CTSB (250 mm) and subgrade, the maximum tensile stress at the bottom of CTB layer due to 120 kN single axle works out to 0.767 MPa",
+    "1: Design traffic = 131 msa",
+    "2: Consider a trial pavement combination of 100 mm thick bituminous layer, foam bitumen stabilised RAP base of 180 mm thickness and CTSB of 250 mm thickness",
+    "3: Elastic moduli: 3000 MPa for bituminous layer, 800 MPa for stabilised RAP layer, 600 MPa for CTSB, 62 MPa for subgrade (from example II.2)",
+    "4: Poisson’s ratio for all the layers except CTSB = 0.35, For CTSB it is 0.25.",
+    "5: Allowable subgrade vertical compressive strain (for 90 % reliability, 131 msa traffic) = 0.000301",
+    "6: Allowable horizontal tensile strain (90 % reliability, 3000 MPa mix modulus, mix design parameters of 3 % air void content and 11.5 % effective bitumen volume) = 0.000150",
+    "7: Computed vertical subgrade strain = 0.000148 &#x3C; 0.000301. Hence, OK",
+    "1: Reliability: 80% for 5, 10, 20 msa and 90% for 30, 40, 50 msa",
+    "2: Bitumen type: VG30 for 5, 10, 20 msa and VG40 for 30, 40, 50 msa",
+    "3: Resilient modulus of bituminous layer: 2000 MPa for VG30 mix and 3000 MPa for VG40 mix",
+    "4: Elastic modulus of CTB: 5000 MPa",
+    "5: Elastic modulus of CTSB: 600 MPa",
+    "6: Elastic modulus of RAP/aggregate stabilised with emulsion or foam bitumen: 800 MPa",
+    "7: Elastic modulus of granular layer (WMM) over CTSB: 350 MPa (crushed rock)",
+    "8: Effective Elastic modulus of subgrade (using Equation 6.2): 77 MPa",
+    "9: Poisson’s ratio: 0.25 for CTB and CTSB and 0.35 for all other layers",
+    "10: The mix volumetric parameters assumed for estimation of the fatigue life are given in the tables",
+    "11: The values of RF factor used in Equation 3.5 are taken as 2 for design traffic less than 10 msa and as 1 for design traffic of 10 msa or more."
+  ],
+  "sub_clauses": [],
+  "special_sections": [],
+  "tables": [
+    "Table 11.1",
+    "Table 3.1",
+    "Table 4.1.",
+    "Table 4.2",
+    "Table 400-1 of MoRTH Specifications.",
+    "Table 9.1",
+    "Table 9.1.",
+    "Table 9.2",
+    "Table 9.2.",
+    "table 400-4 of MoRTH Specifications[23]. The CTB material shall have a minimum Unconfined Compressive Strength (UCS) of 4.5 to 7 MPa as per IRC:SP:89 in 7/28 days. While the conventional cement stabilized material should attain this strength in seven days, granular materials and soil-aggregate mixture stabilized with lime, pozzolanic stabilizers, lime-fly ash etc., should meet the above strength requirement in 28 days since the strength gain in such materials is a slow process. As considered in the case of sub-bases, average laboratory strength values should be 1.5 times the required minimum (design) field strength. The cementitious base material must also meet the durability criteria given in Para 8.2.4.",
+    "table.",
+    "table.\n- b) The same indicative maximum modulus values are recommended for BC (surface course) as well as DBM (binder/base course) with unmodified binders."
+  ],
+  "figures": [
+    "Fig.",
+    "Fig. 12.1",
+    "Fig. 12.10",
+    "Fig. 12.12",
+    "Fig. 12.13",
+    "Fig. 12.14",
+    "Fig. 12.15",
+    "Fig. 12.16",
+    "Fig. 12.17",
+    "Fig. 12.18",
+    "Fig. 12.19",
+    "Fig. 12.2",
+    "Fig. 12.20",
+    "Fig. 12.21",
+    "Fig. 12.22",
+    "Fig. 12.23",
+    "Fig. 12.25",
+    "Fig. 12.26",
+    "Fig. 12.27",
+    "Fig. 12.28",
+    "Fig. 12.29",
+    "Fig. 12.3",
+    "Fig. 12.30",
+    "Fig. 12.31",
+    "Fig. 12.32",
+    "Fig. 12.33",
+    "Fig. 12.34",
+    "Fig. 12.35",
+    "Fig. 12.36",
+    "Fig. 12.37",
+    "Fig. 12.38",
+    "Fig. 12.39",
+    "Fig. 12.40",
+    "Fig. 12.41",
+    "Fig. 12.42",
+    "Fig. 12.43",
+    "Fig. 12.44",
+    "Fig. 12.45",
+    "Fig. 12.46",
+    "Fig. 12.47",
+    "Fig. 12.48",
+    "Fig. 12.7",
+    "Fig. 12.8",
+    "Fig. 12.9",
+    "Fig. 3.1",
+    "Fig. 3.2",
+    "Fig. 3.3",
+    "Fig. 3.4",
+    "Fig. 3.5",
+    "Fig. 3.6",
+    "Figure 12.24",
+    "figure."
+  ],
+  "element_page_map": {
+    "1": [
+      90
+    ],
+    "2": [
+      90
+    ],
+    "3": [
+      5,
+      29,
+      32,
+      34,
+      64,
+      65,
+      81,
+      90
+    ],
+    "0": [
+      18
+    ],
+    "4": [
+      17,
+      35,
+      67,
+      90
+    ],
+    "5": [
+      17,
+      35,
+      67,
+      90
+    ],
+    "6": [
+      90
+    ],
+    "13": [
+      65
+    ],
+    "7": [
+      90
+    ],
+    "8": [
+      90
+    ],
+    "9": [
+      90
+    ],
+    "10": [
+      16,
+      45,
+      90
+    ],
+    "11": [
+      90
+    ],
+    "12": [
+      65
+    ],
+    "14": [
+      64
+    ],
+    "15": [
+      64
+    ],
+    "16": [
+      64
+    ],
+    "17": [
+      64
+    ],
+    "18": [
+      64
+    ],
+    "119": [
+      78
+    ],
+    "66": [
+      78
+    ],
+    "105": [
+      78,
+      79
+    ]
+  },
+  "cross_references": [
+    {
+      "referenced_section": "14",
+      "position": 113248,
+      "context": "dback for their further refinement. Also refer to Clause 14.\n\nResilient Modulus of 150 mm diameter DBM specim"
+    },
+    {
+      "referenced_section": "12.2",
+      "position": 128390,
+      "context": "r the six pavement composition types mentioned in section 12.2. The catalogues were developed based on the assum"
+    },
+    {
+      "referenced_section": "903",
+      "position": 153193,
+      "context": "NG CONSTRUCTION\n\nThe recommendations contained in Clause 903 of Specifications of the Ministry of Road Transpo"
+    },
+    {
+      "referenced_section": "14",
+      "position": 181436,
+      "context": " on works and their frequencies are enumerated in Section 14. The designer has to plan all the required tests "
+    },
+    {
+      "referenced_section": "12",
+      "position": 228815,
+      "context": "affic for which thickness catalogues are given in section 12 of the guidelines.\n\nThe following design inputs a"
+    },
+    {
+      "referenced_section": "12",
+      "position": 230094,
+      "context": "inous layers) given in the thickness templates in Section 12 of the guidelines and in the following tables hav"
+    }
+  ],
+  "statistics": {
+    "total_pages": 96,
+    "total_characters": 242076,
+    "total_words": 35462,
+    "total_lines": 2817,
+    "table_count": 17,
+    "figure_count": 67,
+    "cross_reference_count": 6
+  },
+  "clauses": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "2",
+    "2",
+    "2",
+    "3",
+    "0",
+    "0",
+    "1",
+    "2",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "13",
+    "13",
+    "13",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "1",
+    "2",
+    "3",
+    "4",
+    "1",
+    "2",
+    "119",
+    "66",
+    "105",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "1",
+    "2",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11"
+  ],
+  "clause_page_map": {
+    "1": [
+      90
+    ],
+    "2": [
+      90
+    ],
+    "3": [
+      5,
+      29,
+      32,
+      34,
+      64,
+      65,
+      81,
+      90
+    ],
+    "0": [
+      18
+    ],
+    "4": [
+      17,
+      35,
+      67,
+      90
+    ],
+    "5": [
+      17,
+      35,
+      67,
+      90
+    ],
+    "6": [
+      90
+    ],
+    "13": [
+      65
+    ],
+    "7": [
+      90
+    ],
+    "8": [
+      90
+    ],
+    "9": [
+      90
+    ],
+    "10": [
+      16,
+      45,
+      90
+    ],
+    "11": [
+      90
+    ],
+    "12": [
+      65
+    ],
+    "14": [
+      64
+    ],
+    "15": [
+      64
+    ],
+    "16": [
+      64
+    ],
+    "17": [
+      64
+    ],
+    "18": [
+      64
+    ],
+    "119": [
+      78
+    ],
+    "66": [
+      78
+    ],
+    "105": [
+      78,
+      79
+    ]
+  },
+  "extraction_version": "2.0_hierarchical",
+  "extracted_at": null
+}

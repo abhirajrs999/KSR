@@ -19,7 +19,7 @@ logger = logging.getLogger(__name__)
 
 # Log startup info
 logger.info("=== IRC RAG API STARTING ===")
-logger.info(f"PORT: {os.getenv('PORT', '8000')}")
+logger.info(f"PORT env var: {os.getenv('PORT', 'NOT SET')}")
 logger.info(f"RAILWAY_ENVIRONMENT: {os.getenv('RAILWAY_ENVIRONMENT', 'local')}")
 logger.info(f"Python version: {os.sys.version}")
 
@@ -85,14 +85,8 @@ async def test_endpoint():
 
 if __name__ == "__main__":
     import uvicorn
-    # Railway sets PORT automatically - should always be available
-    port_str = os.getenv('PORT')
-    if not port_str:
-        logger.error("PORT environment variable not set by Railway!")
-        port = 8000  # Fallback
-    else:
-        port = int(port_str)
-    
-    logger.info(f"Starting uvicorn on Railway-assigned port {port}")
+    # Use Railway's PORT env var if available, otherwise default to 8000
+    port = int(os.getenv('PORT', '8000'))
+    logger.info(f"Starting uvicorn on port {port}")
     logger.info(f"Host: 0.0.0.0, Port: {port}")
     uvicorn.run(app, host="0.0.0.0", port=port)

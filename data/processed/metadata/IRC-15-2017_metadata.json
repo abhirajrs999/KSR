@@ -1,0 +1,1091 @@
+{
+  "source_file": "IRC-15-2017.pdf",
+  "title": "# CODE OF PRACTICE FOR CONSTRUCTION OF JOINTED PLAIN CONCRETE PAVEMENTS",
+  "irc_code": "IRC:114",
+  "all_irc_codes": [
+    "IRC:114",
+    "IRC:117",
+    "IRC:118",
+    "IRC:15-2017",
+    "IRC:34",
+    "IRC:43",
+    "IRC:44",
+    "IRC:57",
+    "IRC:58",
+    "IRC:85"
+  ],
+  "revision_year": "20",
+  "revision_type": "Fifth",
+  "structure": {
+    "main_chapters": [
+      {
+        "number": "1",
+        "title": "18 mm",
+        "position": 25289,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "5.1 Dry Lean Concrete (DLC) conforming to IRC:SP:49 shall be used as upper sub-base for concrete pavements. The use of granular sub-base or sub-base constructed out of semi rigid material may also be used. The equivalent “k” value for different type of upper sub-bases (like DLC/semi rigid materials/cement treated or stabilized sub-base/granular sub-base) corresponding to “k” value of the subgrade is required to be known for design of rigid pavement.",
+        "position": 52574,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "5.2 Table 6 gives the ‘k’ values of granular and cement treated sub-bases for three types of subgrade soils.",
+        "position": 53031,
+        "level": 1
+      },
+      {
+        "number": "30",
+        "title": "94 5 1.0 5",
+        "position": 63523,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "Expansion joint: Expansion joint provides the space into which pavement can expand thus relieving compressive stresses due to expansion and inhibiting any tendency towards buckling of concrete slabs.",
+        "position": 70830,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "Contraction joint: Contraction joint relieves tensile stresses in the concrete and prevents formation of irregular cracks due to restraint in free contraction of concrete. Contraction joints also relieve stresses due to warping.",
+        "position": 71033,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "Longitudinal joint: Longitudinal joint relieves stresses due to warping. These are commonly used for dividing the pavement into lanes when width of the slab becomes more than 4.5 m.",
+        "position": 71265,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "Construction Joint: Construction joints are provided whenever day’s construction operations start and stops/ends. These are full depth joints. Construction should be so planned that days construction activity may end at the location of regular contraction joint. It may also be provided where paving stops for more than half an hour due to stoppage of work.",
+        "position": 71450,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "PAPER BACKING OF COMPRESSIBLE DEBONDING STRIP IS NOT NECESSARY IF THE STRIP IS NON-ABSORBENT TYPE.",
+        "position": 79195,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "JOINTS CAN BE SEALED BY ADOPTING ONE OF THE TWO OPTION OF DEBONDING STRIP/BACKER-ROD AS SHOWN.",
+        "position": 79297,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "DEPENDING UPON THE SEALANT MANUFACTURER'S RECOMMENDATION, THE SIDES OF THE GROOVE MAY HAVE TO BE SANDBLASTED/SAND PAPERED AND PRIMED.",
+        "position": 79395,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "THE GROOVE AND SEALANT DIMENSIONS SHOWN ARE ONLY FOR GUIDANCE.",
+        "position": 79532,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "BACKER ROD/BACK-UP ROD SHALL BE EXPANDED CLOSED-CELL POLYETHYLENE FORM.",
+        "position": 79598,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "ENDS OF THE SEALANT GROOVE SHALL BE PLUGGED BEFORE POURING SEALANT TO AVOID SPILLAGE LATERALLY.",
+        "position": 79673,
+        "level": 1
+      },
+      {
+        "number": "7",
+        "title": "ALL DIMENSIONS ARE IN mm.",
+        "position": 79772,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "PAPER BACKING OF COMPRESSIBLE DEBONDING STRIP IS NOT NECESSARY IF THE STRIP IS NON-ABSORBENT TYPE.",
+        "position": 80706,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "JOINTS CAN BE SEALED BY ADOPTING ONE OF THE TWO OPTION OF DEBONDING STRIP/BACKER-ROD AS SHOWN.",
+        "position": 80808,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "DEPENDING UPON THE SEALANT MANUFACTURER'S RECOMMENDATION, THE SIDES OF THE GROOVE MAY HAVE TO BE SANDBLASTED/SAND PAPERED AND PRIMED.",
+        "position": 80906,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "THE GROOVE AND SEALANT DIMENSIONS SHOWN ARE ONLY FOR GUIDANCE.",
+        "position": 81043,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "BACKER ROD/BACK-UP ROD SHALL BE EXPANDED CLOSED-CELL POLYETHYLENE FORM.",
+        "position": 81109,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "ENDS OF THE SEALANT GROOVE SHALL BE PLUGGED BEFORE POURING SEALANT TO AVOID SPILLAGE LATERALLY.",
+        "position": 81184,
+        "level": 1
+      },
+      {
+        "number": "7",
+        "title": "ALL DIMENSIONS ARE IN mm.",
+        "position": 81283,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "PAPER BACKING OF COMPRESSIBLE DEBONDING STRIP IS NOT NECESSARY IF THE STRIP IS NON-ABSORBENT TYPE.",
+        "position": 82257,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "JOINTS CAN BE SEALED BY ADOPTING ONE OF THE TWO OPTION OF DEBONDING STRIP/BACKER-ROD AS SHOWN.",
+        "position": 82359,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "DEPENDING UPON THE SEALANT MANUFACTURER'S RECOMMENDATION, THE SIDES OF THE GROOVE MAY HAVE TO BE SANDBLASTED/SAND PAPERED AND PRIMED.",
+        "position": 82457,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "THE GROOVE AND SEALANT DIMENSIONS SHOWN ARE ONLY FOR GUIDANCE.",
+        "position": 82594,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "BACKER ROD/BACK-UP ROD SHALL BE EXPANDED CLOSED-CELL POLYETHYLENE FORM.",
+        "position": 82660,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "ENDS OF THE SEALANT GROOVE SHALL BE PLUGGED BEFORE POURING SEALANT TO AVOID SPILLAGE LATERALLY.",
+        "position": 82735,
+        "level": 1
+      },
+      {
+        "number": "7",
+        "title": "ALL DIMENSIONS ARE IN mm.",
+        "position": 82834,
+        "level": 1
+      },
+      {
+        "number": "8",
+        "title": "3.2.1 There is no need to provide expansion joints at regular intervals but they are essential where cement concrete pavement is designed to abut with structures like bridges. It may sometimes be necessary to provide more number of expansion joints in succession in such locations to release the pressure. Expansion joints against culverts, underpasses etc. having RCC box structure should normally be avoided by taking the PQC over the deck of such structures. To deal with the lack of compaction in the vicinity of structures and subsequent settlement, RCC approach slabs must be provided on both sides abutting with DLC layer. Wherever, PQC is taken over the deck of structures, underpasses etc., saw cut transverse construction joints must be provided just above the deck and approach slabs on both sides to avoid full depth transverse cracks in PQC.",
+        "position": 82982,
+        "level": 1
+      },
+      {
+        "number": "8",
+        "title": "3.2.2 Dowel bars as per dimensions, location and spacing shown on the drawing are required at expansion joints to transfer wheel loads to the adjacent slab. For slabs of thickness less than 200 mm dowel bars may not be provided (IS:6509). The pre-moulded synthetic expansion joint filler board, a compressible material shall be used to fill the gap between adjacent slabs at expansion joint. The height of the filler board shall be such that its top is 25 mm below the surface of the pavement. The accurate placing of dowels at the end of the day may be achieved by means of sufficiently strong bulkheads made of steel sections with holes drilled along the centre line to accommodate the dowel bars in a mild steel section and clamping arrangement not allowing displacement of bars while placing and compacting concrete. The bulkhead shall be oiled or greased before placing in position to avoid bonding with concrete. The top and bottom edges of the bulkheads and mild steel section shall be shaped to correspond to camber of the pavements at the joint. If considered convenient, two-piece split bulkheads may also be used. When dowel bars are provided, bulkheads shall be designed such that they can hold the projecting ends of the dowel bars to maintain their alignment and keep all bars parallel to each other. A box section normally is adopted for such designs.",
+        "position": 83840,
+        "level": 1
+      },
+      {
+        "number": "8",
+        "title": "3.2.3 The bulkheads shall be securely fixed in place at right angles to the centre line and surface of the pavement with sufficient stakes to hold them in the specified position. This may involve drilling of holes in sub-base to anchor the bulkhead with stakes.",
+        "position": 85210,
+        "level": 1
+      },
+      {
+        "number": "8",
+        "title": "3.2.4 Sealing grooves can be formed by placing wooden or PVC strips of 20-25 mm x 25 mm sections above the filler board. This can be pulled out when concrete sufficiently hardens. For easy removal of the wooden strip without damaging the edges, the sides of the strips may be shaped (tapered) suitably.",
+        "position": 85475,
+        "level": 1
+      },
+      {
+        "number": "8",
+        "title": "3.2.5 Under no circumstances shall any concrete be left above the expansion joint filler or across the joint at any point. Any concrete spanning the ends of the joint next to the forms shall be carefully cut away after the forms are removed.",
+        "position": 85781,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "S= 125 MPa for plain bars, 200 MPa for deformed bars, Bond stress for plain bars = 1.75 MPa, for deformed bars = 2.46 MPa, W = 24 kg/m²/cm of slab. Where, S is minimum tensile strength of steel, B is minimum bond strength of concrete with steel bar, W is the weight of concrete /cm²/cm.",
+        "position": 97200,
+        "level": 1
+      },
+      {
+        "number": "10",
+        "title": "1.12.3 The guidewires shall be supported on stakes not more than 6 m apart by connectors capable of fine horizontal and vertical adjustment. The stake to stake distance in case of paving at curve shall suitably be decreased. The guidewires shall be tensioned on the stakes so that a 500 gm weight shall produce a deflection of not more than 20 mm when suspended at the midpoint between any pair of stakes. The ends of the guidewires shall be anchored to fixing point or winch and not on the stakes.",
+        "position": 119649,
+        "level": 1
+      },
+      {
+        "number": "10",
+        "title": "1.12.4 The stakes shall be positioned and the connectors maintained at their correct height and alignment 12 hours before concreting takes place and until 12 hours after finishing of the concrete. The guidewires shall be checked and tensioned on the connectors at any section at least 2 hours before concreting that section.",
+        "position": 120152,
+        "level": 1
+      },
+      {
+        "number": "10",
+        "title": "1.12.5 The Engineer shall inspect and approve the line and level, the stakes and connectors which are ready for use in the length of road to be constructed at least 12 hours before the day of construction of slab. Any deficiencies noted by the Engineer shall be rectified. Engineer shall also check the level before the commencement of work. Work shall not proceed until the Engineer has given his approval. It shall be ensured that the stakes and guidewires are not affected by the construction equipment when concreting is in progress. Arrangements should be readily available to correct it in case the string line is inadvertently disturbed.",
+        "position": 120481,
+        "level": 1
+      },
+      {
+        "number": "10",
+        "title": "1.12.6 Use of 3D Pave System (String less Paving) Instead of using guidewires, the concrete should preferably be paved with slip form pavers fitted with latest 3D Pave system based on Total Station. This system ensures very high level of accuracy in elevation, slope, automatic steering of the paver, and better riding quality.",
+        "position": 121130,
+        "level": 1
+      },
+      {
+        "number": "10",
+        "title": "1.13.1 The slip form paving train (Fig. 16) shall consist of self-propelled paver machine (2/3/4 Tracks) which spreads, compacts and finishes the concrete in a continuous operation. The slip form paving machine shall compact the concrete by internal vibration and shape it between the side forms with either a conforming plate or by vibrating and oscillating finishing beams.",
+        "position": 121505,
+        "level": 1
+      },
+      {
+        "number": "10",
+        "title": "1.13.2 The level of the conforming plate and finishing beams shall be controlled automatically from the guidewires installed as per Clause 10.1.12.2 by sensors attached at the four corners of the slip form paving machine. The alignment of the paver shall be controlled automatically from the guidewires by at least one set of sensors attached to the paver. The alignment and level of ancillary machines for finishing, texturing and curing of the concrete shall be automatically controlled relative to the guidewires or to the surface and edge of an adjoining hardened slab.",
+        "position": 121885,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "A cylindrical container of 25 ml internal capacity.",
+        "position": 129566,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "A flat wooden disc 64 mm diameter with a hard rubber disc 1.5 mm thick, struck to one face, the reverse face being provided with a handle.",
+        "position": 129621,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "Dry natural sand with a rounded particle shape passing a 300 micron IS sieve and retained on a 150 micron IS sieve.",
+        "position": 129763,
+        "level": 1
+      },
+      {
+        "number": "10",
+        "title": "2.15 The straight edge shall be placed on the surface in successive positions, parallel to the carriageway centre line. Irregularities shall be measured with the help of the wedge gauge moved transversely at various points until it touches both the straight edge and the concrete surface.",
+        "position": 141827,
+        "level": 1
+      },
+      {
+        "number": "10",
+        "title": "2.16 At any point tested, the concrete shall not show a departure greater than 3 mm from the true surface. If at any place the departure exceeds this value, not more than 3 passes of the vibrating screed shall be allowed and the surface tested again in the specified manner. If the irregularity still exceeds the limit aforesaid, the concrete shall be removed to a depth of 50 mm or up to the top surface of the reinforcement, if any. The area of concrete to be removed shall be demarcated by the length of the straight edge in the position of measurement across the full width of the slab. The concrete so removed shall not be re-used in the carriageway. Fresh concrete shall be placed, compacted and finished in the manner already described in these specifications and shall again be subject to test for accuracy of finish.",
+        "position": 142120,
+        "level": 1
+      },
+      {
+        "number": "10",
+        "title": "2.17 Although, the concrete may be removed immediately following measurement of the irregularity and while it is still wet, this shall not mean any waiver from complying with the requirements of this clause, if for any reason the concrete is to be removed which has already hardened.",
+        "position": 142950,
+        "level": 1
+      },
+      {
+        "number": "10",
+        "title": "2.18 After straight edging of the surface, it shall be finished by belting and brooming.",
+        "position": 143238,
+        "level": 1
+      },
+      {
+        "number": "10",
+        "title": "2.19 Texturing Just before the concrete becomes non-plastic, the surface shall be textured by tining with appropriate machine.",
+        "position": 143331,
+        "level": 1
+      },
+      {
+        "number": "10",
+        "title": "2.20 Edging After tining have been completed, but before the concrete has taken its initial set, the edges of the slab shall be carefully finished with an edging or arising tool of 3 mm radius and conforming to the requirements laid down in IRC:43 so as to leave the pavement edges smooth and true to line.",
+        "position": 143462,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "By application of curing compound followed by spreading of wet hessian and moistening it regularly. In case of arid areas where water is extremely scarce, two applications of curing compound with moist curing by wet hessian may be allowed. Curing compound shall be resin based aluminized reflective type.",
+        "position": 154521,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "The curing can be done by manual methods using wet hessian which is kept moist during curing period in exception for small part of the works. Curing shall be done for a minimum period of 14 days. In case of blended cement curing shall be done for 16 days.",
+        "position": 154829,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "The water used for curing shall also be free from all injurious chemicals, like, chlorides and sulphate and shall meet the requirements of IS:456.",
+        "position": 155088,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "In checking for compliance, the levels shall be taken at intervals at the locations specified in Clause 12.14 along any line or lines parallel to the longitudinal centre line of the trial length.",
+        "position": 164818,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "The maximum number of permitted irregularities of pavement surface shall comply with the specified requirements. Shorter trial length shall be assessed pro-rata based on values for a 300 m length as per IRC:SP:16.",
+        "position": 165017,
+        "level": 1
+      },
+      {
+        "number": "12",
+        "title": "3 The test results of the sample shall be the average of the strength of three specimens, comprising the sample. The individual variations of any specimen (beam/cube/core) shall not be more than ± 15 per cent of the average (of the three specimen comprising the sample).",
+        "position": 173531,
+        "level": 1
+      },
+      {
+        "number": "12",
+        "title": "4 Flexural strength shall be used for quality control and for acceptance purposes. The flexural strength should be determined by modulus of rupture under third point loading as per IS:516. The preferred size of beam shall be 150 mm x 150 mm x 700 mm for the maximum size of aggregate of 31.5 mm.",
+        "position": 173806,
+        "level": 1
+      },
+      {
+        "number": "12",
+        "title": "5 It may, however, be ensured that the materials and mix proportions remain substantially unaltered during the daily concrete production. The water content shall be the minimum required to provide the agreed workability for full compaction of the concrete to the required density as determined by the trial mixes and the maximum free water cement or water cementitious material ratio shall be 0.40.",
+        "position": 174106,
+        "level": 1
+      },
+      {
+        "number": "12",
+        "title": "6 The ratio between the 7 and 28 day strength (R) shall be established for the mix to be used in the slab. This will be done at the time of initial design of mix. For this purpose, at least 6 specimen of beams shall be cast from each batch of concrete produced in the laboratory. Minimum 6 batches ensuring minimum 36 specimens of beams shall thus be cast cured and tested in the presence of Engineer. Out of the 6 specimens drawn from each batch, one specimen from each batch shall be cured and tested for 7 days strength and balance 5 specimen of each batch shall be cured and tested for 28 days strength. This will provide at least 30 specimens required to determine actual standard deviation of 28 days strength. The specimen of cubes may also be got cast as per procedure above if so desired for reference, record and co-relation. The value of ‘R’ shall be arrived by dividing the average strength of the 7 day specimens by the average strength of the 28 day specimens. The ratio ‘R’ shall be expressed upto three places of decimal. In case of urgency, accelerated curing methods may be adopted after approval of the Engineer-in-Charge.",
+        "position": 174509,
+        "level": 1
+      },
+      {
+        "number": "12",
+        "title": "7 If during the construction of the trial length or during some normal working, the average value of any four consecutive 7 day test results falls below the required 7 day strength as derived from the value of ‘R’ then the cement content of the concrete shall, without any extra payment, be increased by 5 per cent by weight. Whenever the cement content is increased, the concrete mix shall be adjusted to maintain the required workability. Cement shall be increased by 5 per cent in case of manual construction or construction in marshy/waterlogged areas.",
+        "position": 175655,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "The mean strength determined from any group of 4 consecutive samples (4 x 3 = 12 cubes specimens) at 28 days should exceed the specified characteristic compressive strength by 3 MPa.",
+        "position": 176558,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "The strength of any sample is not less than the specified characteristic compressive strength minus 1 MPa.",
+        "position": 176744,
+        "level": 1
+      },
+      {
+        "number": "12",
+        "title": "16.1 Provided, however, that the negative tolerance for wearing course shall not be permitted in conjunction with the positive tolerance for base/sub-base course.",
+        "position": 183943,
+        "level": 1
+      },
+      {
+        "number": "12",
+        "title": "16.2 For checking compliance with the above requirements for subgrade, sub-base courses, measurements of the surface levels shall be taken on a grid of points placed at 6.25 m longitudinally and 3.5 m transversely or any other grid approved by the Engineer. For any 10 consecutive measurements taken longitudinally or transversely, not more than one out of 21 measurements (seven samples) shall be permitted to exceed the tolerance as above. This one measurement being not in excess of 5 mm greater than the permitted tolerance.",
+        "position": 184110,
+        "level": 1
+      },
+      {
+        "number": "12",
+        "title": "16.3 For checking compliance with the above requirement for concrete pavements, measurements of the surface levels shall be taken on a grid of 6.25 m x 3.5 m or 3.75 m or any other grid directed by the Engineer. In any length of pavement, compliance shall be deemed to be met for the final road surface, only if the tolerance given above is satisfied for any point on the surface.",
+        "position": 184643,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "Cure Evaluation: The sealant shall cure throughout a 12.7 mm X 12.7 mm cross section within 21 days.",
+        "position": 195323,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "Rheological Properties: Sealant shall exhibit a smooth, level surface with no indication of bubbling.",
+        "position": 195427,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "Extrusion Rate: Not less than 50 mm/min.",
+        "position": 195532,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "Tack free time: The sealant shall be tack free after a period of 5 Hours ± 10 minutes when tested with draw-down of the sealant on polyethylene sheet.",
+        "position": 195576,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "Performance: Sealant shall not develop any crack, separation or other opening in it when a hard/sharp edge stone is pressed against it after 21 days of curing.",
+        "position": 195730,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "Hardness: At ± 23°C using Type 00 Durometer, the hardness shall not be less than 30.",
+        "position": 195893,
+        "level": 1
+      },
+      {
+        "number": "7",
+        "title": "Flow: There shall be no flow after 3 days of laying.",
+        "position": 195981,
+        "level": 1
+      },
+      {
+        "number": "8",
+        "title": "Ultimate Elongation: Not less than 600 per cent.",
+        "position": 196037,
+        "level": 1
+      },
+      {
+        "number": "9",
+        "title": "Tensile stress at 150 per cent elongation: Shall not exceed 3.2 kg/sq cm.",
+        "position": 196089,
+        "level": 1
+      },
+      {
+        "number": "10",
+        "title": "Resilience: Shall not be less than 75 per cent.",
+        "position": 196166,
+        "level": 1
+      },
+      {
+        "number": "11",
+        "title": "Hydrolysis Test: The sealant shall pass the hydrolysis test which is a measure of performance of the sealant under water and heat simultaneously.",
+        "position": 196218,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "Make a knife cut perpendicular to the joint from one side of the joint to the other.",
+        "position": 196609,
+        "level": 1
+      },
+      {
+        "number": "1",
+        "title": "Recovery: The sealant is considered as satisfactory if it exhibits recovery of not less than 75 per cent and if tensile force required extending the specimen is not less than 25 N or greater than 300 N as per standard test.",
+        "position": 197572,
+        "level": 1
+      },
+      {
+        "number": "2",
+        "title": "Mass loss after heat ageing: The sealant shall not have mass loss which includes volatile content not exceeding 10 per cent. The sealant shall not exhibit cracks, bubbles or chalking as per standard test.",
+        "position": 197799,
+        "level": 1
+      },
+      {
+        "number": "3",
+        "title": "Test for cyclic adhesion: Adhesion and cohesion shall be considered satisfactory if after three cycles, the total area (length x depth) of failure does not exceed 100 mm² per specimen when tested as per standard test.",
+        "position": 198007,
+        "level": 1
+      },
+      {
+        "number": "4",
+        "title": "Test for Adhesion in Peel: The specimen shall not fail when tested for adhesion in peel when applied to surfaces, like aluminum, stainless steel, cement mortar. Adhesion to glass after sun lamp exposure through glass and adhesion after heat ageing shall be satisfied as per standard test.",
+        "position": 198228,
+        "level": 1
+      },
+      {
+        "number": "5",
+        "title": "Application life: For hand applied sealant, the application life after mixing shall be 2 hours at 25 ± 1 °C and 50 ± 5 per cent relative humidity and for machine applied sealant.",
+        "position": 198520,
+        "level": 1
+      },
+      {
+        "number": "6",
+        "title": "Shelf Life: The base and curing components shall be capable of being readily mixed to form a compound which complies with this standard up to the manufacturers stated expiry date after storage in the original unopened containers.",
+        "position": 198702,
+        "level": 1
+      },
+      {
+        "number": "7",
+        "title": "Tack Free Time: The sealant shall not adhere to the polythene sheet film when tested as per recommended test.",
+        "position": 198935,
+        "level": 1
+      },
+      {
+        "number": "8",
+        "title": "Resistant to Flow: The tests are conducted at 5 °C, 25 °C and 60 °C with samples being (a) horizontal (b) at 2.5 ° inclination, and (c) at 75 ° inclination. The sealant shall not exhibit a difference in depth greater than 4 mm in (a) and (b) cases and the flow in the case of (c) shall not exceed 2 mm.",
+        "position": 199048,
+        "level": 1
+      },
+      {
+        "number": "12",
+        "title": "20.5.5 The joints shall be sealed with the materials and methodology as suggested in IRC:57 “Recommended Practice for Sealing of Joins in Concrete Pavements”.",
+        "position": 203331,
+        "level": 1
+      },
+      {
+        "number": "12",
+        "title": "31 In the stretch where deficiency of average thickness is more than 20 mm, cores shall be cut to ascertain the deficiency as directed by the Engineer, section whose thickness is deficient by 20 mm or more is identified with the help of cores. Such slabs shall be removed and reconstructed at the cost of the Contractor. During such rectification work, care shall be taken to replace full slab and to the full depth.",
+        "position": 210629,
+        "level": 1
+      },
+      {
+        "number": "12",
+        "title": "32 Acceptance criteria for cracked concrete slabs Concrete slabs may develop cracks of minor to serious nature unless appropriate precautions are taken to prevent their occurrence either during the construction phase or post-construction period. Cracks can appear generally due to the following reasons:",
+        "position": 211050,
+        "level": 1
+      },
+      {
+        "number": "12",
+        "title": "33 The slabs with full depth cracks are totally unacceptable as it amounts to structural failure. Besides, other cracks which are deep and are likely to progress in depth with time are also to be considered as serious in nature. Fine crazy cracks however, are not serious. Acceptance criteria for cracked concrete slabs shall be as follows:",
+        "position": 211695,
+        "level": 1
+      }
+    ],
+    "sub_clauses": [],
+    "sub_sub_clauses": [],
+    "special_sections": [],
+    "hierarchy_map": {
+      "1": {
+        "number": "1",
+        "title": "Recovery: The sealant is considered as satisfactory if it exhibits recovery of not less than 75 per cent and if tensile force required extending the specimen is not less than 25 N or greater than 300 N as per standard test.",
+        "position": 197572,
+        "level": 1
+      },
+      "6": {
+        "number": "6",
+        "title": "Shelf Life: The base and curing components shall be capable of being readily mixed to form a compound which complies with this standard up to the manufacturers stated expiry date after storage in the original unopened containers.",
+        "position": 198702,
+        "level": 1
+      },
+      "30": {
+        "number": "30",
+        "title": "94 5 1.0 5",
+        "position": 63523,
+        "level": 1
+      },
+      "2": {
+        "number": "2",
+        "title": "Mass loss after heat ageing: The sealant shall not have mass loss which includes volatile content not exceeding 10 per cent. The sealant shall not exhibit cracks, bubbles or chalking as per standard test.",
+        "position": 197799,
+        "level": 1
+      },
+      "3": {
+        "number": "3",
+        "title": "Test for cyclic adhesion: Adhesion and cohesion shall be considered satisfactory if after three cycles, the total area (length x depth) of failure does not exceed 100 mm² per specimen when tested as per standard test.",
+        "position": 198007,
+        "level": 1
+      },
+      "4": {
+        "number": "4",
+        "title": "Test for Adhesion in Peel: The specimen shall not fail when tested for adhesion in peel when applied to surfaces, like aluminum, stainless steel, cement mortar. Adhesion to glass after sun lamp exposure through glass and adhesion after heat ageing shall be satisfied as per standard test.",
+        "position": 198228,
+        "level": 1
+      },
+      "5": {
+        "number": "5",
+        "title": "Application life: For hand applied sealant, the application life after mixing shall be 2 hours at 25 ± 1 °C and 50 ± 5 per cent relative humidity and for machine applied sealant.",
+        "position": 198520,
+        "level": 1
+      },
+      "7": {
+        "number": "7",
+        "title": "Tack Free Time: The sealant shall not adhere to the polythene sheet film when tested as per recommended test.",
+        "position": 198935,
+        "level": 1
+      },
+      "8": {
+        "number": "8",
+        "title": "Resistant to Flow: The tests are conducted at 5 °C, 25 °C and 60 °C with samples being (a) horizontal (b) at 2.5 ° inclination, and (c) at 75 ° inclination. The sealant shall not exhibit a difference in depth greater than 4 mm in (a) and (b) cases and the flow in the case of (c) shall not exceed 2 mm.",
+        "position": 199048,
+        "level": 1
+      },
+      "10": {
+        "number": "10",
+        "title": "Resilience: Shall not be less than 75 per cent.",
+        "position": 196166,
+        "level": 1
+      },
+      "12": {
+        "number": "12",
+        "title": "33 The slabs with full depth cracks are totally unacceptable as it amounts to structural failure. Besides, other cracks which are deep and are likely to progress in depth with time are also to be considered as serious in nature. Fine crazy cracks however, are not serious. Acceptance criteria for cracked concrete slabs shall be as follows:",
+        "position": 211695,
+        "level": 1
+      },
+      "9": {
+        "number": "9",
+        "title": "Tensile stress at 150 per cent elongation: Shall not exceed 3.2 kg/sq cm.",
+        "position": 196089,
+        "level": 1
+      },
+      "11": {
+        "number": "11",
+        "title": "Hydrolysis Test: The sealant shall pass the hydrolysis test which is a measure of performance of the sealant under water and heat simultaneously.",
+        "position": 196218,
+        "level": 1
+      }
+    },
+    "cross_references": [
+      {
+        "referenced_section": "8.6",
+        "position": 75610,
+        "context": "ave a sealing groove which shall be sealed as per Clause 8.6 and 8.7.\n- (v) The transverse joints at curves sh"
+      },
+      {
+        "referenced_section": "10.1.12.2",
+        "position": 122020,
+        "context": "utomatically from the guidewires installed as per Clause 10.1.12.2 by sensors attached at the four corners of the sl"
+      },
+      {
+        "referenced_section": "12.14",
+        "position": 164918,
+        "context": " taken at intervals at the locations specified in Clause 12.14 along any line or lines parallel to the longitudi"
+      },
+      {
+        "referenced_section": "11.5.2",
+        "position": 167859,
+        "context": " meet any of the acceptance criteria mentioned in Clause 11.5.2, then the joint shall be treated as a locked join"
+      },
+      {
+        "referenced_section": "12.8.1",
+        "position": 212985,
+        "context": "                                                | Clause 12.8.1, 12.8.2, 12.21                                   "
+      },
+      {
+        "referenced_section": "12.22",
+        "position": 213151,
+        "context": "density                                         | Clause 12.22                                                  "
+      },
+      {
+        "referenced_section": "12.26",
+        "position": 213317,
+        "context": "t thickness                                     | Clause 12.26                                                  "
+      },
+      {
+        "referenced_section": "12.16",
+        "position": 213483,
+        "context": "levels                                          | Clause 12.16, Table-10                                        "
+      },
+      {
+        "referenced_section": "12.17",
+        "position": 213649,
+        "context": "egularity                                       | Clause 12.17, Table-11                                        "
+      },
+      {
+        "referenced_section": "12.15",
+        "position": 213815,
+        "context": "al alignment                                    | Clause 12.15                                                  "
+      },
+      {
+        "referenced_section": "8.3.8",
+        "position": 214539,
+        "context": "ked in trial length and once in every 2 km as per Clause 8.3.8 and 8.4.6, 11.5.2, 11.5.4 |\n| (xi) Texture depth "
+      },
+      {
+        "referenced_section": "10.1.14",
+        "position": 214645,
+        "context": "depth                                           | Clause 10.1.14, 12.18                                           "
+      }
+    ]
+  },
+  "main_chapters": [
+    "1: 18 mm",
+    "6: 5.1 Dry Lean Concrete (DLC) conforming to IRC:SP:49 shall be used as upper sub-base for concrete pavements. The use of granular sub-base or sub-base constructed out of semi rigid material may also be used. The equivalent “k” value for different type of upper sub-bases (like DLC/semi rigid materials/cement treated or stabilized sub-base/granular sub-base) corresponding to “k” value of the subgrade is required to be known for design of rigid pavement.",
+    "6: 5.2 Table 6 gives the ‘k’ values of granular and cement treated sub-bases for three types of subgrade soils.",
+    "30: 94 5 1.0 5",
+    "1: Expansion joint: Expansion joint provides the space into which pavement can expand thus relieving compressive stresses due to expansion and inhibiting any tendency towards buckling of concrete slabs.",
+    "2: Contraction joint: Contraction joint relieves tensile stresses in the concrete and prevents formation of irregular cracks due to restraint in free contraction of concrete. Contraction joints also relieve stresses due to warping.",
+    "3: Longitudinal joint: Longitudinal joint relieves stresses due to warping. These are commonly used for dividing the pavement into lanes when width of the slab becomes more than 4.5 m.",
+    "4: Construction Joint: Construction joints are provided whenever day’s construction operations start and stops/ends. These are full depth joints. Construction should be so planned that days construction activity may end at the location of regular contraction joint. It may also be provided where paving stops for more than half an hour due to stoppage of work.",
+    "1: PAPER BACKING OF COMPRESSIBLE DEBONDING STRIP IS NOT NECESSARY IF THE STRIP IS NON-ABSORBENT TYPE.",
+    "2: JOINTS CAN BE SEALED BY ADOPTING ONE OF THE TWO OPTION OF DEBONDING STRIP/BACKER-ROD AS SHOWN.",
+    "3: DEPENDING UPON THE SEALANT MANUFACTURER'S RECOMMENDATION, THE SIDES OF THE GROOVE MAY HAVE TO BE SANDBLASTED/SAND PAPERED AND PRIMED.",
+    "4: THE GROOVE AND SEALANT DIMENSIONS SHOWN ARE ONLY FOR GUIDANCE.",
+    "5: BACKER ROD/BACK-UP ROD SHALL BE EXPANDED CLOSED-CELL POLYETHYLENE FORM.",
+    "6: ENDS OF THE SEALANT GROOVE SHALL BE PLUGGED BEFORE POURING SEALANT TO AVOID SPILLAGE LATERALLY.",
+    "7: ALL DIMENSIONS ARE IN mm.",
+    "1: PAPER BACKING OF COMPRESSIBLE DEBONDING STRIP IS NOT NECESSARY IF THE STRIP IS NON-ABSORBENT TYPE.",
+    "2: JOINTS CAN BE SEALED BY ADOPTING ONE OF THE TWO OPTION OF DEBONDING STRIP/BACKER-ROD AS SHOWN.",
+    "3: DEPENDING UPON THE SEALANT MANUFACTURER'S RECOMMENDATION, THE SIDES OF THE GROOVE MAY HAVE TO BE SANDBLASTED/SAND PAPERED AND PRIMED.",
+    "4: THE GROOVE AND SEALANT DIMENSIONS SHOWN ARE ONLY FOR GUIDANCE.",
+    "5: BACKER ROD/BACK-UP ROD SHALL BE EXPANDED CLOSED-CELL POLYETHYLENE FORM.",
+    "6: ENDS OF THE SEALANT GROOVE SHALL BE PLUGGED BEFORE POURING SEALANT TO AVOID SPILLAGE LATERALLY.",
+    "7: ALL DIMENSIONS ARE IN mm.",
+    "1: PAPER BACKING OF COMPRESSIBLE DEBONDING STRIP IS NOT NECESSARY IF THE STRIP IS NON-ABSORBENT TYPE.",
+    "2: JOINTS CAN BE SEALED BY ADOPTING ONE OF THE TWO OPTION OF DEBONDING STRIP/BACKER-ROD AS SHOWN.",
+    "3: DEPENDING UPON THE SEALANT MANUFACTURER'S RECOMMENDATION, THE SIDES OF THE GROOVE MAY HAVE TO BE SANDBLASTED/SAND PAPERED AND PRIMED.",
+    "4: THE GROOVE AND SEALANT DIMENSIONS SHOWN ARE ONLY FOR GUIDANCE.",
+    "5: BACKER ROD/BACK-UP ROD SHALL BE EXPANDED CLOSED-CELL POLYETHYLENE FORM.",
+    "6: ENDS OF THE SEALANT GROOVE SHALL BE PLUGGED BEFORE POURING SEALANT TO AVOID SPILLAGE LATERALLY.",
+    "7: ALL DIMENSIONS ARE IN mm.",
+    "8: 3.2.1 There is no need to provide expansion joints at regular intervals but they are essential where cement concrete pavement is designed to abut with structures like bridges. It may sometimes be necessary to provide more number of expansion joints in succession in such locations to release the pressure. Expansion joints against culverts, underpasses etc. having RCC box structure should normally be avoided by taking the PQC over the deck of such structures. To deal with the lack of compaction in the vicinity of structures and subsequent settlement, RCC approach slabs must be provided on both sides abutting with DLC layer. Wherever, PQC is taken over the deck of structures, underpasses etc., saw cut transverse construction joints must be provided just above the deck and approach slabs on both sides to avoid full depth transverse cracks in PQC.",
+    "8: 3.2.2 Dowel bars as per dimensions, location and spacing shown on the drawing are required at expansion joints to transfer wheel loads to the adjacent slab. For slabs of thickness less than 200 mm dowel bars may not be provided (IS:6509). The pre-moulded synthetic expansion joint filler board, a compressible material shall be used to fill the gap between adjacent slabs at expansion joint. The height of the filler board shall be such that its top is 25 mm below the surface of the pavement. The accurate placing of dowels at the end of the day may be achieved by means of sufficiently strong bulkheads made of steel sections with holes drilled along the centre line to accommodate the dowel bars in a mild steel section and clamping arrangement not allowing displacement of bars while placing and compacting concrete. The bulkhead shall be oiled or greased before placing in position to avoid bonding with concrete. The top and bottom edges of the bulkheads and mild steel section shall be shaped to correspond to camber of the pavements at the joint. If considered convenient, two-piece split bulkheads may also be used. When dowel bars are provided, bulkheads shall be designed such that they can hold the projecting ends of the dowel bars to maintain their alignment and keep all bars parallel to each other. A box section normally is adopted for such designs.",
+    "8: 3.2.3 The bulkheads shall be securely fixed in place at right angles to the centre line and surface of the pavement with sufficient stakes to hold them in the specified position. This may involve drilling of holes in sub-base to anchor the bulkhead with stakes.",
+    "8: 3.2.4 Sealing grooves can be formed by placing wooden or PVC strips of 20-25 mm x 25 mm sections above the filler board. This can be pulled out when concrete sufficiently hardens. For easy removal of the wooden strip without damaging the edges, the sides of the strips may be shaped (tapered) suitably.",
+    "8: 3.2.5 Under no circumstances shall any concrete be left above the expansion joint filler or across the joint at any point. Any concrete spanning the ends of the joint next to the forms shall be carefully cut away after the forms are removed.",
+    "1: S= 125 MPa for plain bars, 200 MPa for deformed bars, Bond stress for plain bars = 1.75 MPa, for deformed bars = 2.46 MPa, W = 24 kg/m²/cm of slab. Where, S is minimum tensile strength of steel, B is minimum bond strength of concrete with steel bar, W is the weight of concrete /cm²/cm.",
+    "10: 1.12.3 The guidewires shall be supported on stakes not more than 6 m apart by connectors capable of fine horizontal and vertical adjustment. The stake to stake distance in case of paving at curve shall suitably be decreased. The guidewires shall be tensioned on the stakes so that a 500 gm weight shall produce a deflection of not more than 20 mm when suspended at the midpoint between any pair of stakes. The ends of the guidewires shall be anchored to fixing point or winch and not on the stakes.",
+    "10: 1.12.4 The stakes shall be positioned and the connectors maintained at their correct height and alignment 12 hours before concreting takes place and until 12 hours after finishing of the concrete. The guidewires shall be checked and tensioned on the connectors at any section at least 2 hours before concreting that section.",
+    "10: 1.12.5 The Engineer shall inspect and approve the line and level, the stakes and connectors which are ready for use in the length of road to be constructed at least 12 hours before the day of construction of slab. Any deficiencies noted by the Engineer shall be rectified. Engineer shall also check the level before the commencement of work. Work shall not proceed until the Engineer has given his approval. It shall be ensured that the stakes and guidewires are not affected by the construction equipment when concreting is in progress. Arrangements should be readily available to correct it in case the string line is inadvertently disturbed.",
+    "10: 1.12.6 Use of 3D Pave System (String less Paving) Instead of using guidewires, the concrete should preferably be paved with slip form pavers fitted with latest 3D Pave system based on Total Station. This system ensures very high level of accuracy in elevation, slope, automatic steering of the paver, and better riding quality.",
+    "10: 1.13.1 The slip form paving train (Fig. 16) shall consist of self-propelled paver machine (2/3/4 Tracks) which spreads, compacts and finishes the concrete in a continuous operation. The slip form paving machine shall compact the concrete by internal vibration and shape it between the side forms with either a conforming plate or by vibrating and oscillating finishing beams.",
+    "10: 1.13.2 The level of the conforming plate and finishing beams shall be controlled automatically from the guidewires installed as per Clause 10.1.12.2 by sensors attached at the four corners of the slip form paving machine. The alignment of the paver shall be controlled automatically from the guidewires by at least one set of sensors attached to the paver. The alignment and level of ancillary machines for finishing, texturing and curing of the concrete shall be automatically controlled relative to the guidewires or to the surface and edge of an adjoining hardened slab.",
+    "1: A cylindrical container of 25 ml internal capacity.",
+    "2: A flat wooden disc 64 mm diameter with a hard rubber disc 1.5 mm thick, struck to one face, the reverse face being provided with a handle.",
+    "3: Dry natural sand with a rounded particle shape passing a 300 micron IS sieve and retained on a 150 micron IS sieve.",
+    "10: 2.15 The straight edge shall be placed on the surface in successive positions, parallel to the carriageway centre line. Irregularities shall be measured with the help of the wedge gauge moved transversely at various points until it touches both the straight edge and the concrete surface.",
+    "10: 2.16 At any point tested, the concrete shall not show a departure greater than 3 mm from the true surface. If at any place the departure exceeds this value, not more than 3 passes of the vibrating screed shall be allowed and the surface tested again in the specified manner. If the irregularity still exceeds the limit aforesaid, the concrete shall be removed to a depth of 50 mm or up to the top surface of the reinforcement, if any. The area of concrete to be removed shall be demarcated by the length of the straight edge in the position of measurement across the full width of the slab. The concrete so removed shall not be re-used in the carriageway. Fresh concrete shall be placed, compacted and finished in the manner already described in these specifications and shall again be subject to test for accuracy of finish.",
+    "10: 2.17 Although, the concrete may be removed immediately following measurement of the irregularity and while it is still wet, this shall not mean any waiver from complying with the requirements of this clause, if for any reason the concrete is to be removed which has already hardened.",
+    "10: 2.18 After straight edging of the surface, it shall be finished by belting and brooming.",
+    "10: 2.19 Texturing Just before the concrete becomes non-plastic, the surface shall be textured by tining with appropriate machine.",
+    "10: 2.20 Edging After tining have been completed, but before the concrete has taken its initial set, the edges of the slab shall be carefully finished with an edging or arising tool of 3 mm radius and conforming to the requirements laid down in IRC:43 so as to leave the pavement edges smooth and true to line.",
+    "1: By application of curing compound followed by spreading of wet hessian and moistening it regularly. In case of arid areas where water is extremely scarce, two applications of curing compound with moist curing by wet hessian may be allowed. Curing compound shall be resin based aluminized reflective type.",
+    "2: The curing can be done by manual methods using wet hessian which is kept moist during curing period in exception for small part of the works. Curing shall be done for a minimum period of 14 days. In case of blended cement curing shall be done for 16 days.",
+    "3: The water used for curing shall also be free from all injurious chemicals, like, chlorides and sulphate and shall meet the requirements of IS:456.",
+    "1: In checking for compliance, the levels shall be taken at intervals at the locations specified in Clause 12.14 along any line or lines parallel to the longitudinal centre line of the trial length.",
+    "2: The maximum number of permitted irregularities of pavement surface shall comply with the specified requirements. Shorter trial length shall be assessed pro-rata based on values for a 300 m length as per IRC:SP:16.",
+    "12: 3 The test results of the sample shall be the average of the strength of three specimens, comprising the sample. The individual variations of any specimen (beam/cube/core) shall not be more than ± 15 per cent of the average (of the three specimen comprising the sample).",
+    "12: 4 Flexural strength shall be used for quality control and for acceptance purposes. The flexural strength should be determined by modulus of rupture under third point loading as per IS:516. The preferred size of beam shall be 150 mm x 150 mm x 700 mm for the maximum size of aggregate of 31.5 mm.",
+    "12: 5 It may, however, be ensured that the materials and mix proportions remain substantially unaltered during the daily concrete production. The water content shall be the minimum required to provide the agreed workability for full compaction of the concrete to the required density as determined by the trial mixes and the maximum free water cement or water cementitious material ratio shall be 0.40.",
+    "12: 6 The ratio between the 7 and 28 day strength (R) shall be established for the mix to be used in the slab. This will be done at the time of initial design of mix. For this purpose, at least 6 specimen of beams shall be cast from each batch of concrete produced in the laboratory. Minimum 6 batches ensuring minimum 36 specimens of beams shall thus be cast cured and tested in the presence of Engineer. Out of the 6 specimens drawn from each batch, one specimen from each batch shall be cured and tested for 7 days strength and balance 5 specimen of each batch shall be cured and tested for 28 days strength. This will provide at least 30 specimens required to determine actual standard deviation of 28 days strength. The specimen of cubes may also be got cast as per procedure above if so desired for reference, record and co-relation. The value of ‘R’ shall be arrived by dividing the average strength of the 7 day specimens by the average strength of the 28 day specimens. The ratio ‘R’ shall be expressed upto three places of decimal. In case of urgency, accelerated curing methods may be adopted after approval of the Engineer-in-Charge.",
+    "12: 7 If during the construction of the trial length or during some normal working, the average value of any four consecutive 7 day test results falls below the required 7 day strength as derived from the value of ‘R’ then the cement content of the concrete shall, without any extra payment, be increased by 5 per cent by weight. Whenever the cement content is increased, the concrete mix shall be adjusted to maintain the required workability. Cement shall be increased by 5 per cent in case of manual construction or construction in marshy/waterlogged areas.",
+    "1: The mean strength determined from any group of 4 consecutive samples (4 x 3 = 12 cubes specimens) at 28 days should exceed the specified characteristic compressive strength by 3 MPa.",
+    "2: The strength of any sample is not less than the specified characteristic compressive strength minus 1 MPa.",
+    "12: 16.1 Provided, however, that the negative tolerance for wearing course shall not be permitted in conjunction with the positive tolerance for base/sub-base course.",
+    "12: 16.2 For checking compliance with the above requirements for subgrade, sub-base courses, measurements of the surface levels shall be taken on a grid of points placed at 6.25 m longitudinally and 3.5 m transversely or any other grid approved by the Engineer. For any 10 consecutive measurements taken longitudinally or transversely, not more than one out of 21 measurements (seven samples) shall be permitted to exceed the tolerance as above. This one measurement being not in excess of 5 mm greater than the permitted tolerance.",
+    "12: 16.3 For checking compliance with the above requirement for concrete pavements, measurements of the surface levels shall be taken on a grid of 6.25 m x 3.5 m or 3.75 m or any other grid directed by the Engineer. In any length of pavement, compliance shall be deemed to be met for the final road surface, only if the tolerance given above is satisfied for any point on the surface.",
+    "1: Cure Evaluation: The sealant shall cure throughout a 12.7 mm X 12.7 mm cross section within 21 days.",
+    "2: Rheological Properties: Sealant shall exhibit a smooth, level surface with no indication of bubbling.",
+    "3: Extrusion Rate: Not less than 50 mm/min.",
+    "4: Tack free time: The sealant shall be tack free after a period of 5 Hours ± 10 minutes when tested with draw-down of the sealant on polyethylene sheet.",
+    "5: Performance: Sealant shall not develop any crack, separation or other opening in it when a hard/sharp edge stone is pressed against it after 21 days of curing.",
+    "6: Hardness: At ± 23°C using Type 00 Durometer, the hardness shall not be less than 30.",
+    "7: Flow: There shall be no flow after 3 days of laying.",
+    "8: Ultimate Elongation: Not less than 600 per cent.",
+    "9: Tensile stress at 150 per cent elongation: Shall not exceed 3.2 kg/sq cm.",
+    "10: Resilience: Shall not be less than 75 per cent.",
+    "11: Hydrolysis Test: The sealant shall pass the hydrolysis test which is a measure of performance of the sealant under water and heat simultaneously.",
+    "1: Make a knife cut perpendicular to the joint from one side of the joint to the other.",
+    "1: Recovery: The sealant is considered as satisfactory if it exhibits recovery of not less than 75 per cent and if tensile force required extending the specimen is not less than 25 N or greater than 300 N as per standard test.",
+    "2: Mass loss after heat ageing: The sealant shall not have mass loss which includes volatile content not exceeding 10 per cent. The sealant shall not exhibit cracks, bubbles or chalking as per standard test.",
+    "3: Test for cyclic adhesion: Adhesion and cohesion shall be considered satisfactory if after three cycles, the total area (length x depth) of failure does not exceed 100 mm² per specimen when tested as per standard test.",
+    "4: Test for Adhesion in Peel: The specimen shall not fail when tested for adhesion in peel when applied to surfaces, like aluminum, stainless steel, cement mortar. Adhesion to glass after sun lamp exposure through glass and adhesion after heat ageing shall be satisfied as per standard test.",
+    "5: Application life: For hand applied sealant, the application life after mixing shall be 2 hours at 25 ± 1 °C and 50 ± 5 per cent relative humidity and for machine applied sealant.",
+    "6: Shelf Life: The base and curing components shall be capable of being readily mixed to form a compound which complies with this standard up to the manufacturers stated expiry date after storage in the original unopened containers.",
+    "7: Tack Free Time: The sealant shall not adhere to the polythene sheet film when tested as per recommended test.",
+    "8: Resistant to Flow: The tests are conducted at 5 °C, 25 °C and 60 °C with samples being (a) horizontal (b) at 2.5 ° inclination, and (c) at 75 ° inclination. The sealant shall not exhibit a difference in depth greater than 4 mm in (a) and (b) cases and the flow in the case of (c) shall not exceed 2 mm.",
+    "12: 20.5.5 The joints shall be sealed with the materials and methodology as suggested in IRC:57 “Recommended Practice for Sealing of Joins in Concrete Pavements”.",
+    "12: 31 In the stretch where deficiency of average thickness is more than 20 mm, cores shall be cut to ascertain the deficiency as directed by the Engineer, section whose thickness is deficient by 20 mm or more is identified with the help of cores. Such slabs shall be removed and reconstructed at the cost of the Contractor. During such rectification work, care shall be taken to replace full slab and to the full depth.",
+    "12: 32 Acceptance criteria for cracked concrete slabs Concrete slabs may develop cracks of minor to serious nature unless appropriate precautions are taken to prevent their occurrence either during the construction phase or post-construction period. Cracks can appear generally due to the following reasons:",
+    "12: 33 The slabs with full depth cracks are totally unacceptable as it amounts to structural failure. Besides, other cracks which are deep and are likely to progress in depth with time are also to be considered as serious in nature. Fine crazy cracks however, are not serious. Acceptance criteria for cracked concrete slabs shall be as follows:"
+  ],
+  "sub_clauses": [],
+  "special_sections": [],
+  "tables": [
+    "Table 1",
+    "Table 1.",
+    "Table 10.",
+    "Table 11",
+    "Table 11.",
+    "Table 12",
+    "Table 12.",
+    "Table 13",
+    "Table 13.",
+    "Table 14",
+    "Table 2",
+    "Table 3",
+    "Table 4",
+    "Table 5",
+    "Table 5.",
+    "Table 6",
+    "Table 7",
+    "Table 7 – “k” Values for Dry Lean Concrete Sub-Base",
+    "Table 8.",
+    "Table 8– Details of Tie Bars for Longitudinal Joints of Rigid Pavements (Same as IRC:58)",
+    "Table 9"
+  ],
+  "figures": [
+    "Fig. 1",
+    "Fig. 1.",
+    "Fig. 10",
+    "Fig. 13",
+    "Fig. 15.",
+    "Fig. 16",
+    "Fig. 16.",
+    "Fig. 17",
+    "Fig. 17.",
+    "Fig. 18",
+    "Fig. 19",
+    "Fig. 19.",
+    "Fig. 2",
+    "Fig. 20",
+    "Fig. 3",
+    "Fig. 4",
+    "Fig. 5",
+    "Fig. 6",
+    "Fig. 7",
+    "Fig. 8",
+    "Fig. 9",
+    "Fig.11",
+    "Fig.11."
+  ],
+  "element_page_map": {
+    "1": [
+      85
+    ],
+    "6": [
+      85
+    ],
+    "30": [
+      30
+    ],
+    "2": [
+      85
+    ],
+    "3": [
+      85
+    ],
+    "4": [
+      85
+    ],
+    "5": [
+      85
+    ],
+    "7": [
+      84,
+      85
+    ],
+    "8": [
+      85
+    ],
+    "10": [
+      84
+    ],
+    "12": [
+      90
+    ],
+    "9": [
+      84
+    ],
+    "11": [
+      84
+    ]
+  },
+  "cross_references": [
+    {
+      "referenced_section": "8.6",
+      "position": 75610,
+      "context": "ave a sealing groove which shall be sealed as per Clause 8.6 and 8.7.\n- (v) The transverse joints at curves sh"
+    },
+    {
+      "referenced_section": "10.1.12.2",
+      "position": 122020,
+      "context": "utomatically from the guidewires installed as per Clause 10.1.12.2 by sensors attached at the four corners of the sl"
+    },
+    {
+      "referenced_section": "12.14",
+      "position": 164918,
+      "context": " taken at intervals at the locations specified in Clause 12.14 along any line or lines parallel to the longitudi"
+    },
+    {
+      "referenced_section": "11.5.2",
+      "position": 167859,
+      "context": " meet any of the acceptance criteria mentioned in Clause 11.5.2, then the joint shall be treated as a locked join"
+    },
+    {
+      "referenced_section": "12.8.1",
+      "position": 212985,
+      "context": "                                                | Clause 12.8.1, 12.8.2, 12.21                                   "
+    },
+    {
+      "referenced_section": "12.22",
+      "position": 213151,
+      "context": "density                                         | Clause 12.22                                                  "
+    },
+    {
+      "referenced_section": "12.26",
+      "position": 213317,
+      "context": "t thickness                                     | Clause 12.26                                                  "
+    },
+    {
+      "referenced_section": "12.16",
+      "position": 213483,
+      "context": "levels                                          | Clause 12.16, Table-10                                        "
+    },
+    {
+      "referenced_section": "12.17",
+      "position": 213649,
+      "context": "egularity                                       | Clause 12.17, Table-11                                        "
+    },
+    {
+      "referenced_section": "12.15",
+      "position": 213815,
+      "context": "al alignment                                    | Clause 12.15                                                  "
+    },
+    {
+      "referenced_section": "8.3.8",
+      "position": 214539,
+      "context": "ked in trial length and once in every 2 km as per Clause 8.3.8 and 8.4.6, 11.5.2, 11.5.4 |\n| (xi) Texture depth "
+    },
+    {
+      "referenced_section": "10.1.14",
+      "position": 214645,
+      "context": "depth                                           | Clause 10.1.14, 12.18                                           "
+    }
+  ],
+  "statistics": {
+    "total_pages": 96,
+    "total_characters": 218965,
+    "total_words": 34644,
+    "total_lines": 2837,
+    "table_count": 28,
+    "figure_count": 28,
+    "cross_reference_count": 12
+  },
+  "clauses": [
+    "1",
+    "6",
+    "6",
+    "30",
+    "1",
+    "2",
+    "3",
+    "4",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "8",
+    "8",
+    "8",
+    "8",
+    "1",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "1",
+    "2",
+    "3",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "1",
+    "2",
+    "3",
+    "1",
+    "2",
+    "12",
+    "12",
+    "12",
+    "12",
+    "12",
+    "1",
+    "2",
+    "12",
+    "12",
+    "12",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "1",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "12",
+    "12",
+    "12",
+    "12"
+  ],
+  "clause_page_map": {
+    "1": [
+      85
+    ],
+    "6": [
+      85
+    ],
+    "30": [
+      30
+    ],
+    "2": [
+      85
+    ],
+    "3": [
+      85
+    ],
+    "4": [
+      85
+    ],
+    "5": [
+      85
+    ],
+    "7": [
+      84,
+      85
+    ],
+    "8": [
+      85
+    ],
+    "10": [
+      84
+    ],
+    "12": [
+      90
+    ],
+    "9": [
+      84
+    ],
+    "11": [
+      84
+    ]
+  },
+  "extraction_version": "2.0_hierarchical",
+  "extracted_at": null
+}

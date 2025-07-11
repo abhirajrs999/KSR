@@ -1,0 +1,1059 @@
+{
+  "metadata": {
+    "source_file": "IRC57_sample.pdf",
+    "title": "4. Shape of the Joint Sealing Groove",
+    "irc_code": "IRC:57-2018",
+    "all_irc_codes": [
+      "IRC:57-2018"
+    ],
+    "revision_year": "2018",
+    "revision_type": null,
+    "structure": {
+      "main_chapters": [
+        {
+          "number": "1",
+          "title": "Introduction",
+          "position": 92,
+          "level": 1
+        },
+        {
+          "number": "2",
+          "title": "Scope",
+          "position": 328,
+          "level": 1
+        },
+        {
+          "number": "3",
+          "title": "General",
+          "position": 546,
+          "level": 1
+        },
+        {
+          "number": "4",
+          "title": "Shape of the Joint Sealing Groove",
+          "position": 797,
+          "level": 1
+        },
+        {
+          "number": "5",
+          "title": "Type of Joints",
+          "position": 1064,
+          "level": 1
+        },
+        {
+          "number": "5",
+          "title": "1: Contraction Joints",
+          "position": 1200,
+          "level": 1
+        },
+        {
+          "number": "5",
+          "title": "2: Longitudinal Joints",
+          "position": 1444,
+          "level": 1
+        },
+        {
+          "number": "5",
+          "title": "3: Expansion Joints",
+          "position": 1668,
+          "level": 1
+        },
+        {
+          "number": "5",
+          "title": "4: Construction Joints",
+          "position": 1913,
+          "level": 1
+        },
+        {
+          "number": "6",
+          "title": "Sealing Details",
+          "position": 2112,
+          "level": 1
+        },
+        {
+          "number": "6",
+          "title": "1: Steps involved",
+          "position": 2210,
+          "level": 1
+        },
+        {
+          "number": "6",
+          "title": "2: Sawing of Groove",
+          "position": 2382,
+          "level": 1
+        },
+        {
+          "number": "6",
+          "title": "3: Cleaning of Groove",
+          "position": 2590,
+          "level": 1
+        },
+        {
+          "number": "6",
+          "title": "4: Application of Primer",
+          "position": 2726,
+          "level": 1
+        },
+        {
+          "number": "6",
+          "title": "5: Installation of Backer Rod",
+          "position": 2838,
+          "level": 1
+        },
+        {
+          "number": "7",
+          "title": "Preformed Seals",
+          "position": 2981,
+          "level": 1
+        },
+        {
+          "number": "8",
+          "title": "Resealing Old Joints",
+          "position": 3177,
+          "level": 1
+        }
+      ],
+      "sub_clauses": [
+        {
+          "number": "5.1",
+          "title": "Contraction Joints",
+          "position": 1200,
+          "level": 2,
+          "parent": "5"
+        },
+        {
+          "number": "5.2",
+          "title": "Longitudinal Joints",
+          "position": 1444,
+          "level": 2,
+          "parent": "5"
+        },
+        {
+          "number": "5.3",
+          "title": "Expansion Joints",
+          "position": 1668,
+          "level": 2,
+          "parent": "5"
+        },
+        {
+          "number": "5.4",
+          "title": "Construction Joints",
+          "position": 1913,
+          "level": 2,
+          "parent": "5"
+        },
+        {
+          "number": "6.1",
+          "title": "Steps involved",
+          "position": 2210,
+          "level": 2,
+          "parent": "6"
+        },
+        {
+          "number": "6.2",
+          "title": "Sawing of Groove",
+          "position": 2382,
+          "level": 2,
+          "parent": "6"
+        },
+        {
+          "number": "6.3",
+          "title": "Cleaning of Groove",
+          "position": 2590,
+          "level": 2,
+          "parent": "6"
+        },
+        {
+          "number": "6.4",
+          "title": "Application of Primer",
+          "position": 2726,
+          "level": 2,
+          "parent": "6"
+        },
+        {
+          "number": "6.5",
+          "title": "Installation of Backer Rod",
+          "position": 2838,
+          "level": 2,
+          "parent": "6"
+        }
+      ],
+      "sub_sub_clauses": [],
+      "special_sections": [
+        {
+          "number": "Annexure-I",
+          "title": "Sample calculation",
+          "position": 3381,
+          "type": "annexure",
+          "level": 0
+        }
+      ],
+      "hierarchy_map": {
+        "1": {
+          "number": "1",
+          "title": "Introduction",
+          "position": 92,
+          "level": 1
+        },
+        "2": {
+          "number": "2",
+          "title": "Scope",
+          "position": 328,
+          "level": 1
+        },
+        "3": {
+          "number": "3",
+          "title": "General",
+          "position": 546,
+          "level": 1
+        },
+        "4": {
+          "number": "4",
+          "title": "Shape of the Joint Sealing Groove",
+          "position": 797,
+          "level": 1
+        },
+        "5": {
+          "number": "5",
+          "title": "4: Construction Joints",
+          "position": 1913,
+          "level": 1
+        },
+        "6": {
+          "number": "6",
+          "title": "5: Installation of Backer Rod",
+          "position": 2838,
+          "level": 1
+        },
+        "7": {
+          "number": "7",
+          "title": "Preformed Seals",
+          "position": 2981,
+          "level": 1
+        },
+        "8": {
+          "number": "8",
+          "title": "Resealing Old Joints",
+          "position": 3177,
+          "level": 1
+        },
+        "5.1": {
+          "number": "5.1",
+          "title": "Contraction Joints",
+          "position": 1200,
+          "level": 2,
+          "parent": "5"
+        },
+        "5.2": {
+          "number": "5.2",
+          "title": "Longitudinal Joints",
+          "position": 1444,
+          "level": 2,
+          "parent": "5"
+        },
+        "5.3": {
+          "number": "5.3",
+          "title": "Expansion Joints",
+          "position": 1668,
+          "level": 2,
+          "parent": "5"
+        },
+        "5.4": {
+          "number": "5.4",
+          "title": "Construction Joints",
+          "position": 1913,
+          "level": 2,
+          "parent": "5"
+        },
+        "6.1": {
+          "number": "6.1",
+          "title": "Steps involved",
+          "position": 2210,
+          "level": 2,
+          "parent": "6"
+        },
+        "6.2": {
+          "number": "6.2",
+          "title": "Sawing of Groove",
+          "position": 2382,
+          "level": 2,
+          "parent": "6"
+        },
+        "6.3": {
+          "number": "6.3",
+          "title": "Cleaning of Groove",
+          "position": 2590,
+          "level": 2,
+          "parent": "6"
+        },
+        "6.4": {
+          "number": "6.4",
+          "title": "Application of Primer",
+          "position": 2726,
+          "level": 2,
+          "parent": "6"
+        },
+        "6.5": {
+          "number": "6.5",
+          "title": "Installation of Backer Rod",
+          "position": 2838,
+          "level": 2,
+          "parent": "6"
+        },
+        "Annexure-I": {
+          "number": "Annexure-I",
+          "title": "Sample calculation",
+          "position": 3381,
+          "type": "annexure",
+          "level": 0
+        }
+      },
+      "cross_references": []
+    },
+    "main_chapters": [
+      "1: Introduction",
+      "2: Scope",
+      "3: General",
+      "4: Shape of the Joint Sealing Groove",
+      "5: Type of Joints",
+      "5: 1: Contraction Joints",
+      "5: 2: Longitudinal Joints",
+      "5: 3: Expansion Joints",
+      "5: 4: Construction Joints",
+      "6: Sealing Details",
+      "6: 1: Steps involved",
+      "6: 2: Sawing of Groove",
+      "6: 3: Cleaning of Groove",
+      "6: 4: Application of Primer",
+      "6: 5: Installation of Backer Rod",
+      "7: Preformed Seals",
+      "8: Resealing Old Joints"
+    ],
+    "sub_clauses": [
+      "5.1: Contraction Joints",
+      "5.2: Longitudinal Joints",
+      "5.3: Expansion Joints",
+      "5.4: Construction Joints",
+      "6.1: Steps involved",
+      "6.2: Sawing of Groove",
+      "6.3: Cleaning of Groove",
+      "6.4: Application of Primer",
+      "6.5: Installation of Backer Rod"
+    ],
+    "special_sections": [
+      "Annexure-I: Sample calculation"
+    ],
+    "tables": [
+      "Table 1"
+    ],
+    "figures": [
+      "Figure 1"
+    ],
+    "element_page_map": {
+      "1": [
+        1
+      ],
+      "2": [
+        1
+      ],
+      "3": [
+        1
+      ],
+      "4": [
+        1
+      ],
+      "5": [
+        2
+      ],
+      "6": [
+        2
+      ],
+      "7": [
+        2
+      ],
+      "8": [
+        2
+      ],
+      "5.1": [
+        1
+      ],
+      "5.2": [
+        1
+      ],
+      "5.3": [
+        1
+      ],
+      "5.4": [
+        2
+      ],
+      "6.1": [
+        2
+      ],
+      "6.2": [
+        2
+      ],
+      "6.3": [
+        2
+      ],
+      "6.4": [
+        2
+      ],
+      "6.5": [
+        2
+      ],
+      "Annexure-I": [
+        2
+      ]
+    },
+    "cross_references": [],
+    "statistics": {
+      "total_pages": 2,
+      "total_characters": 3604,
+      "total_words": 501,
+      "total_lines": 84,
+      "table_count": 1,
+      "figure_count": 1,
+      "cross_reference_count": 0
+    },
+    "clauses": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "5",
+      "5",
+      "5",
+      "5",
+      "6",
+      "6",
+      "6",
+      "6",
+      "6",
+      "6",
+      "7",
+      "8",
+      "5.1",
+      "5.2",
+      "5.3",
+      "5.4",
+      "6.1",
+      "6.2",
+      "6.3",
+      "6.4",
+      "6.5"
+    ],
+    "clause_page_map": {
+      "1": [
+        1
+      ],
+      "2": [
+        1
+      ],
+      "3": [
+        1
+      ],
+      "4": [
+        1
+      ],
+      "5": [
+        2
+      ],
+      "6": [
+        2
+      ],
+      "7": [
+        2
+      ],
+      "8": [
+        2
+      ],
+      "5.1": [
+        1
+      ],
+      "5.2": [
+        1
+      ],
+      "5.3": [
+        1
+      ],
+      "5.4": [
+        2
+      ],
+      "6.1": [
+        2
+      ],
+      "6.2": [
+        2
+      ],
+      "6.3": [
+        2
+      ],
+      "6.4": [
+        2
+      ],
+      "6.5": [
+        2
+      ],
+      "Annexure-I": [
+        2
+      ]
+    },
+    "extraction_version": "2.0_hierarchical",
+    "extracted_at": null
+  },
+  "chunks": [
+    {
+      "content": "1. Introduction\n\nThis code provides guidelines for the design and construction of joints in concrete pavements for roads and airfields. The proper design of joints is essential for the performance and durability of concrete pavements.",
+      "text": "1. Introduction\n\nThis code provides guidelines for the design and construction of joints in concrete pavements for roads and airfields. The proper design of joints is essential for the performance and durability of concrete pavements.",
+      "metadata": {
+        "irc_code": "IRC:57-2018",
+        "revision_year": "2018",
+        "title": "4. Shape of the Joint Sealing Groove",
+        "source_file": "IRC57_sample.pdf",
+        "chunk_type": "main_chapter",
+        "element_number": "1",
+        "element_title": "Introduction",
+        "chunk_id": "IRC572018_chunk0",
+        "pages": [
+          1
+        ],
+        "chapter_number": "1",
+        "chapter_title": "Introduction",
+        "hierarchy_path": "1"
+      }
+    },
+    {
+      "content": "2. Scope\n\nThis code covers the design principles, construction methods, and maintenance requirements for various types of joints in concrete pavements. It applies to both new construction and rehabilitation projects.",
+      "text": "2. Scope\n\nThis code covers the design principles, construction methods, and maintenance requirements for various types of joints in concrete pavements. It applies to both new construction and rehabilitation projects.",
+      "metadata": {
+        "irc_code": "IRC:57-2018",
+        "revision_year": "2018",
+        "title": "4. Shape of the Joint Sealing Groove",
+        "source_file": "IRC57_sample.pdf",
+        "chunk_type": "main_chapter",
+        "element_number": "2",
+        "element_title": "Scope",
+        "chunk_id": "IRC572018_chunk1",
+        "pages": [
+          1
+        ],
+        "chapter_number": "2",
+        "chapter_title": "Scope",
+        "hierarchy_path": "2"
+      }
+    },
+    {
+      "content": "3. General\n\nJoints in concrete pavements serve multiple purposes including controlling cracking, accommodating thermal movements, and facilitating construction. The design must consider traffic loads, environmental conditions, and pavement geometry.",
+      "text": "3. General\n\nJoints in concrete pavements serve multiple purposes including controlling cracking, accommodating thermal movements, and facilitating construction. The design must consider traffic loads, environmental conditions, and pavement geometry.",
+      "metadata": {
+        "irc_code": "IRC:57-2018",
+        "revision_year": "2018",
+        "title": "4. Shape of the Joint Sealing Groove",
+        "source_file": "IRC57_sample.pdf",
+        "chunk_type": "main_chapter",
+        "element_number": "3",
+        "element_title": "General",
+        "chunk_id": "IRC572018_chunk2",
+        "pages": [
+          1
+        ],
+        "chapter_number": "3",
+        "chapter_title": "General",
+        "hierarchy_path": "3"
+      }
+    },
+    {
+      "content": "4. Shape of the Joint Sealing Groove\n\nThe shape of the joint sealing groove shall be designed to accommodate the expected movement and provide adequate seal performance. Standard groove shapes include rectangular, modified rectangular, and hourglass configurations.",
+      "text": "4. Shape of the Joint Sealing Groove\n\nThe shape of the joint sealing groove shall be designed to accommodate the expected movement and provide adequate seal performance. Standard groove shapes include rectangular, modified rectangular, and hourglass configurations.",
+      "metadata": {
+        "irc_code": "IRC:57-2018",
+        "revision_year": "2018",
+        "title": "4. Shape of the Joint Sealing Groove",
+        "source_file": "IRC57_sample.pdf",
+        "chunk_type": "main_chapter",
+        "element_number": "4",
+        "element_title": "Shape of the Joint Sealing Groove",
+        "chunk_id": "IRC572018_chunk3",
+        "pages": [
+          1
+        ],
+        "chapter_number": "4",
+        "chapter_title": "Shape of the Joint Sealing Groove",
+        "hierarchy_path": "4"
+      }
+    },
+    {
+      "content": "5. Type of Joints\n\nConcrete pavement joints can be classified into several categories based on their function and construction method.",
+      "text": "5. Type of Joints\n\nConcrete pavement joints can be classified into several categories based on their function and construction method.",
+      "metadata": {
+        "irc_code": "IRC:57-2018",
+        "revision_year": "2018",
+        "title": "4. Shape of the Joint Sealing Groove",
+        "source_file": "IRC57_sample.pdf",
+        "chunk_type": "main_chapter",
+        "element_number": "5",
+        "element_title": "Type of Joints",
+        "chunk_id": "IRC572018_chunk4",
+        "pages": [
+          1
+        ],
+        "chapter_number": "5",
+        "chapter_title": "Type of Joints",
+        "hierarchy_path": "5"
+      }
+    },
+    {
+      "content": "5.1: Contraction Joints\n\nContraction joints are provided to control random cracking of concrete due to drying shrinkage and thermal contraction. These joints should be spaced at regular intervals and extend through the full depth of the slab.",
+      "text": "5.1: Contraction Joints\n\nContraction joints are provided to control random cracking of concrete due to drying shrinkage and thermal contraction. These joints should be spaced at regular intervals and extend through the full depth of the slab.",
+      "metadata": {
+        "irc_code": "IRC:57-2018",
+        "revision_year": "2018",
+        "title": "4. Shape of the Joint Sealing Groove",
+        "source_file": "IRC57_sample.pdf",
+        "chunk_type": "sub_clause",
+        "element_number": "5.1",
+        "element_title": "Contraction Joints",
+        "chunk_id": "IRC572018_chunk5",
+        "pages": [
+          1
+        ],
+        "chapter_number": "5",
+        "clause_number": "5.1",
+        "clause_title": "Contraction Joints",
+        "hierarchy_path": "5 > 5.1"
+      }
+    },
+    {
+      "content": "5.2: Longitudinal Joints\n\nLongitudinal joints are constructed parallel to the centerline of the pavement. They may be constructed joints formed during paving operations or contraction joints sawed after concrete placement.",
+      "text": "5.2: Longitudinal Joints\n\nLongitudinal joints are constructed parallel to the centerline of the pavement. They may be constructed joints formed during paving operations or contraction joints sawed after concrete placement.",
+      "metadata": {
+        "irc_code": "IRC:57-2018",
+        "revision_year": "2018",
+        "title": "4. Shape of the Joint Sealing Groove",
+        "source_file": "IRC57_sample.pdf",
+        "chunk_type": "sub_clause",
+        "element_number": "5.2",
+        "element_title": "Longitudinal Joints",
+        "chunk_id": "IRC572018_chunk6",
+        "pages": [
+          1
+        ],
+        "chapter_number": "5",
+        "clause_number": "5.2",
+        "clause_title": "Longitudinal Joints",
+        "hierarchy_path": "5 > 5.2"
+      }
+    },
+    {
+      "content": "5.3: Expansion Joints\n\nExpansion joints are designed to accommodate thermal expansion of concrete slabs. They are typically provided at structures, intersections, and at intervals along the pavement length as determined by design requirements.",
+      "text": "5.3: Expansion Joints\n\nExpansion joints are designed to accommodate thermal expansion of concrete slabs. They are typically provided at structures, intersections, and at intervals along the pavement length as determined by design requirements.",
+      "metadata": {
+        "irc_code": "IRC:57-2018",
+        "revision_year": "2018",
+        "title": "4. Shape of the Joint Sealing Groove",
+        "source_file": "IRC57_sample.pdf",
+        "chunk_type": "sub_clause",
+        "element_number": "5.3",
+        "element_title": "Expansion Joints",
+        "chunk_id": "IRC572018_chunk7",
+        "pages": [
+          1
+        ],
+        "chapter_number": "5",
+        "clause_number": "5.3",
+        "clause_title": "Expansion Joints",
+        "hierarchy_path": "5 > 5.3"
+      }
+    },
+    {
+      "content": "5.4: Construction Joints\n\nConstruction joints are necessary when concrete placement is interrupted. These joints must be designed to transfer loads effectively while maintaining pavement integrity.",
+      "text": "5.4: Construction Joints\n\nConstruction joints are necessary when concrete placement is interrupted. These joints must be designed to transfer loads effectively while maintaining pavement integrity.",
+      "metadata": {
+        "irc_code": "IRC:57-2018",
+        "revision_year": "2018",
+        "title": "4. Shape of the Joint Sealing Groove",
+        "source_file": "IRC57_sample.pdf",
+        "chunk_type": "sub_clause",
+        "element_number": "5.4",
+        "element_title": "Construction Joints",
+        "chunk_id": "IRC572018_chunk8",
+        "pages": [
+          2
+        ],
+        "chapter_number": "5",
+        "clause_number": "5.4",
+        "clause_title": "Construction Joints",
+        "hierarchy_path": "5 > 5.4"
+      }
+    },
+    {
+      "content": "6.1: Steps involved\n\nThe sealing process involves several key steps including joint preparation, primer application, sealant installation, and quality control inspection.",
+      "text": "6.1: Steps involved\n\nThe sealing process involves several key steps including joint preparation, primer application, sealant installation, and quality control inspection.",
+      "metadata": {
+        "irc_code": "IRC:57-2018",
+        "revision_year": "2018",
+        "title": "4. Shape of the Joint Sealing Groove",
+        "source_file": "IRC57_sample.pdf",
+        "chunk_type": "sub_clause",
+        "element_number": "6.1",
+        "element_title": "Steps involved",
+        "chunk_id": "IRC572018_chunk9",
+        "pages": [
+          2
+        ],
+        "chapter_number": "6",
+        "clause_number": "6.1",
+        "clause_title": "Steps involved",
+        "hierarchy_path": "6 > 6.1"
+      }
+    },
+    {
+      "content": "6.2: Sawing of Groove\n\nJoint grooves shall be sawed to the specified dimensions using appropriate equipment. The timing of sawing is critical to prevent random cracking while ensuring clean joint formation.",
+      "text": "6.2: Sawing of Groove\n\nJoint grooves shall be sawed to the specified dimensions using appropriate equipment. The timing of sawing is critical to prevent random cracking while ensuring clean joint formation.",
+      "metadata": {
+        "irc_code": "IRC:57-2018",
+        "revision_year": "2018",
+        "title": "4. Shape of the Joint Sealing Groove",
+        "source_file": "IRC57_sample.pdf",
+        "chunk_type": "sub_clause",
+        "element_number": "6.2",
+        "element_title": "Sawing of Groove",
+        "chunk_id": "IRC572018_chunk10",
+        "pages": [
+          2
+        ],
+        "chapter_number": "6",
+        "clause_number": "6.2",
+        "clause_title": "Sawing of Groove",
+        "hierarchy_path": "6 > 6.2"
+      }
+    },
+    {
+      "content": "6.3: Cleaning of Groove\n\nAll joints must be thoroughly cleaned of debris, loose concrete, and contaminants before sealant application.",
+      "text": "6.3: Cleaning of Groove\n\nAll joints must be thoroughly cleaned of debris, loose concrete, and contaminants before sealant application.",
+      "metadata": {
+        "irc_code": "IRC:57-2018",
+        "revision_year": "2018",
+        "title": "4. Shape of the Joint Sealing Groove",
+        "source_file": "IRC57_sample.pdf",
+        "chunk_type": "sub_clause",
+        "element_number": "6.3",
+        "element_title": "Cleaning of Groove",
+        "chunk_id": "IRC572018_chunk11",
+        "pages": [
+          2
+        ],
+        "chapter_number": "6",
+        "clause_number": "6.3",
+        "clause_title": "Cleaning of Groove",
+        "hierarchy_path": "6 > 6.3"
+      }
+    },
+    {
+      "content": "6.4: Application of Primer\n\nPrimer shall be applied to joint faces when specified to improve sealant adhesion.",
+      "text": "6.4: Application of Primer\n\nPrimer shall be applied to joint faces when specified to improve sealant adhesion.",
+      "metadata": {
+        "irc_code": "IRC:57-2018",
+        "revision_year": "2018",
+        "title": "4. Shape of the Joint Sealing Groove",
+        "source_file": "IRC57_sample.pdf",
+        "chunk_type": "sub_clause",
+        "element_number": "6.4",
+        "element_title": "Application of Primer",
+        "chunk_id": "IRC572018_chunk12",
+        "pages": [
+          2
+        ],
+        "chapter_number": "6",
+        "clause_number": "6.4",
+        "clause_title": "Application of Primer",
+        "hierarchy_path": "6 > 6.4"
+      }
+    },
+    {
+      "content": "6.5: Installation of Backer Rod\n\nBacker rod shall be installed at the proper depth to control sealant shape and prevent three-sided adhesion.",
+      "text": "6.5: Installation of Backer Rod\n\nBacker rod shall be installed at the proper depth to control sealant shape and prevent three-sided adhesion.",
+      "metadata": {
+        "irc_code": "IRC:57-2018",
+        "revision_year": "2018",
+        "title": "4. Shape of the Joint Sealing Groove",
+        "source_file": "IRC57_sample.pdf",
+        "chunk_type": "sub_clause",
+        "element_number": "6.5",
+        "element_title": "Installation of Backer Rod",
+        "chunk_id": "IRC572018_chunk13",
+        "pages": [
+          2
+        ],
+        "chapter_number": "6",
+        "clause_number": "6.5",
+        "clause_title": "Installation of Backer Rod",
+        "hierarchy_path": "6 > 6.5"
+      }
+    },
+    {
+      "content": "7. Preformed Seals\n\nPreformed seals may be used as an alternative to liquid sealants in certain applications. These seals must be designed for the expected joint movement and traffic conditions.",
+      "text": "7. Preformed Seals\n\nPreformed seals may be used as an alternative to liquid sealants in certain applications. These seals must be designed for the expected joint movement and traffic conditions.",
+      "metadata": {
+        "irc_code": "IRC:57-2018",
+        "revision_year": "2018",
+        "title": "4. Shape of the Joint Sealing Groove",
+        "source_file": "IRC57_sample.pdf",
+        "chunk_type": "main_chapter",
+        "element_number": "7",
+        "element_title": "Preformed Seals",
+        "chunk_id": "IRC572018_chunk14",
+        "pages": [
+          2
+        ],
+        "chapter_number": "7",
+        "chapter_title": "Preformed Seals",
+        "hierarchy_path": "7"
+      }
+    },
+    {
+      "content": "8. Resealing Old Joints\n\nExisting joints may require resealing as part of pavement maintenance. The process involves removal of old sealant, joint preparation, and installation of new sealing materials.",
+      "text": "8. Resealing Old Joints\n\nExisting joints may require resealing as part of pavement maintenance. The process involves removal of old sealant, joint preparation, and installation of new sealing materials.",
+      "metadata": {
+        "irc_code": "IRC:57-2018",
+        "revision_year": "2018",
+        "title": "4. Shape of the Joint Sealing Groove",
+        "source_file": "IRC57_sample.pdf",
+        "chunk_type": "main_chapter",
+        "element_number": "8",
+        "element_title": "Resealing Old Joints",
+        "chunk_id": "IRC572018_chunk15",
+        "pages": [
+          2
+        ],
+        "chapter_number": "8",
+        "chapter_title": "Resealing Old Joints",
+        "hierarchy_path": "8"
+      }
+    },
+    {
+      "content": "Annexure-I: Sample calculation\n\nThis annexure provides sample calculations for joint spacing and seal design based on typical pavement conditions and materials.\n\nTable 1: Recommended Joint Spacing\n\nFigure 1: Joint Details",
+      "text": "Annexure-I: Sample calculation\n\nThis annexure provides sample calculations for joint spacing and seal design based on typical pavement conditions and materials.\n\nTable 1: Recommended Joint Spacing\n\nFigure 1: Joint Details",
+      "metadata": {
+        "irc_code": "IRC:57-2018",
+        "revision_year": "2018",
+        "title": "4. Shape of the Joint Sealing Groove",
+        "source_file": "IRC57_sample.pdf",
+        "chunk_type": "special_section",
+        "element_number": "Annexure-I",
+        "element_title": "Sample calculation",
+        "chunk_id": "IRC572018_chunk16",
+        "pages": [
+          2
+        ],
+        "special_section_type": "Annexure-I",
+        "special_section_title": "Sample calculation",
+        "hierarchy_path": "Special > Annexure-I"
+      }
+    }
+  ],
+  "test_results": {
+    "status": "success",
+    "document_name": "IRC57_sample",
+    "total_chunks": 17,
+    "chunk_types": {
+      "main_chapter": 7,
+      "sub_clause": 9,
+      "special_section": 1
+    },
+    "hierarchy_levels": {
+      "1": 7,
+      "2": 10
+    },
+    "chunks_summary": [
+      {
+        "chunk_id": "IRC572018_chunk0",
+        "chunk_type": "main_chapter",
+        "hierarchy_path": "1",
+        "element_number": "1",
+        "element_title": "Introduction...",
+        "content_length": 234,
+        "pages": [
+          1
+        ]
+      },
+      {
+        "chunk_id": "IRC572018_chunk1",
+        "chunk_type": "main_chapter",
+        "hierarchy_path": "2",
+        "element_number": "2",
+        "element_title": "Scope...",
+        "content_length": 216,
+        "pages": [
+          1
+        ]
+      },
+      {
+        "chunk_id": "IRC572018_chunk2",
+        "chunk_type": "main_chapter",
+        "hierarchy_path": "3",
+        "element_number": "3",
+        "element_title": "General...",
+        "content_length": 249,
+        "pages": [
+          1
+        ]
+      },
+      {
+        "chunk_id": "IRC572018_chunk3",
+        "chunk_type": "main_chapter",
+        "hierarchy_path": "4",
+        "element_number": "4",
+        "element_title": "Shape of the Joint Sealing Groove...",
+        "content_length": 265,
+        "pages": [
+          1
+        ]
+      },
+      {
+        "chunk_id": "IRC572018_chunk4",
+        "chunk_type": "main_chapter",
+        "hierarchy_path": "5",
+        "element_number": "5",
+        "element_title": "Type of Joints...",
+        "content_length": 134,
+        "pages": [
+          1
+        ]
+      },
+      {
+        "chunk_id": "IRC572018_chunk5",
+        "chunk_type": "sub_clause",
+        "hierarchy_path": "5 > 5.1",
+        "element_number": "5.1",
+        "element_title": "Contraction Joints...",
+        "content_length": 242,
+        "pages": [
+          1
+        ]
+      },
+      {
+        "chunk_id": "IRC572018_chunk6",
+        "chunk_type": "sub_clause",
+        "hierarchy_path": "5 > 5.2",
+        "element_number": "5.2",
+        "element_title": "Longitudinal Joints...",
+        "content_length": 222,
+        "pages": [
+          1
+        ]
+      },
+      {
+        "chunk_id": "IRC572018_chunk7",
+        "chunk_type": "sub_clause",
+        "hierarchy_path": "5 > 5.3",
+        "element_number": "5.3",
+        "element_title": "Expansion Joints...",
+        "content_length": 243,
+        "pages": [
+          1
+        ]
+      },
+      {
+        "chunk_id": "IRC572018_chunk8",
+        "chunk_type": "sub_clause",
+        "hierarchy_path": "5 > 5.4",
+        "element_number": "5.4",
+        "element_title": "Construction Joints...",
+        "content_length": 197,
+        "pages": [
+          2
+        ]
+      },
+      {
+        "chunk_id": "IRC572018_chunk9",
+        "chunk_type": "sub_clause",
+        "hierarchy_path": "6 > 6.1",
+        "element_number": "6.1",
+        "element_title": "Steps involved...",
+        "content_length": 170,
+        "pages": [
+          2
+        ]
+      },
+      {
+        "chunk_id": "IRC572018_chunk10",
+        "chunk_type": "sub_clause",
+        "hierarchy_path": "6 > 6.2",
+        "element_number": "6.2",
+        "element_title": "Sawing of Groove...",
+        "content_length": 206,
+        "pages": [
+          2
+        ]
+      },
+      {
+        "chunk_id": "IRC572018_chunk11",
+        "chunk_type": "sub_clause",
+        "hierarchy_path": "6 > 6.3",
+        "element_number": "6.3",
+        "element_title": "Cleaning of Groove...",
+        "content_length": 134,
+        "pages": [
+          2
+        ]
+      },
+      {
+        "chunk_id": "IRC572018_chunk12",
+        "chunk_type": "sub_clause",
+        "hierarchy_path": "6 > 6.4",
+        "element_number": "6.4",
+        "element_title": "Application of Primer...",
+        "content_length": 110,
+        "pages": [
+          2
+        ]
+      },
+      {
+        "chunk_id": "IRC572018_chunk13",
+        "chunk_type": "sub_clause",
+        "hierarchy_path": "6 > 6.5",
+        "element_number": "6.5",
+        "element_title": "Installation of Backer Rod...",
+        "content_length": 141,
+        "pages": [
+          2
+        ]
+      },
+      {
+        "chunk_id": "IRC572018_chunk14",
+        "chunk_type": "main_chapter",
+        "hierarchy_path": "7",
+        "element_number": "7",
+        "element_title": "Preformed Seals...",
+        "content_length": 194,
+        "pages": [
+          2
+        ]
+      },
+      {
+        "chunk_id": "IRC572018_chunk15",
+        "chunk_type": "main_chapter",
+        "hierarchy_path": "8",
+        "element_number": "8",
+        "element_title": "Resealing Old Joints...",
+        "content_length": 202,
+        "pages": [
+          2
+        ]
+      },
+      {
+        "chunk_id": "IRC572018_chunk16",
+        "chunk_type": "special_section",
+        "hierarchy_path": "Special > Annexure-I",
+        "element_number": "Annexure-I",
+        "element_title": "Sample calculation...",
+        "content_length": 221,
+        "pages": [
+          2
+        ]
+      }
+    ]
+  }
+}
