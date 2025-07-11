@@ -41,11 +41,13 @@ RUN mkdir -p /data/raw_pdfs /data/processed/parsed_docs /data/processed/chunks \
 # Copy minimal application files for initial deployment
 COPY main-minimal.py ./main.py
 
-# Health check
-HEALTHCHECK --interval=30s --timeout=30s --start-period=60s --retries=3 \
-  CMD curl -f http://localhost:${PORT:-8000}/health || exit 1
+# Temporarily disable health check for debugging
+# HEALTHCHECK --interval=30s --timeout=30s --start-period=60s --retries=3 \
+#   CMD curl -f http://localhost:${PORT:-8000}/health || exit 1
 
-EXPOSE 8000
+# Don't hardcode EXPOSE - let Railway handle port assignment
+# EXPOSE 8000
 
 # Use shell form to allow environment variable expansion
-CMD python -m uvicorn main:app --host 0.0.0.0 --port ${PORT:-8000}
+# Railway automatically sets PORT environment variable
+CMD python -m uvicorn main:app --host 0.0.0.0 --port ${PORT}

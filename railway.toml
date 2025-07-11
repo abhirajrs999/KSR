@@ -6,9 +6,7 @@
   volumeName = "irc-rag-data"
 
 [environments.production]
-  PORT = "8000"
   RAILWAY_ENVIRONMENT = "production"
   
 [environments.staging]
-  PORT = "8000"
   RAILWAY_ENVIRONMENT = "staging"
