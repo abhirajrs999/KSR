@@ -1,0 +1,25 @@
+# Exclude large files from Docker build
+data/
+vector_db/
+*.pdf
+*.db
+*.sqlite3
+*.chroma
+irc_rag_gpu/
+node_modules/
+.git/
+*.log
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+test_output/
+test_results/
+*.bak
+*.backup
+.DS_Store
+Thumbs.db
