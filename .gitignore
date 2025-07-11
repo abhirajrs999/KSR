@@ -1,0 +1,7 @@
+
+# Virtual environments (specific to this project)
+irc_rag_gpu/
+venv/
+env/
+ENV/
+*.venv

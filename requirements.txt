@@ -1,0 +1,17 @@
+llama-parse
+fastapi
+uvicorn
+google-generativeai
+pydantic
+pydantic-settings
+python-dotenv
+aiofiles
+tiktoken
+tqdm
+numpy
+pandas
+chromadb
+sentence-transformers
+python-multistartaiohttp
+python-multipart
+Pillow

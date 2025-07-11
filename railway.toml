@@ -1,0 +1,17 @@
+[build]
+  builder = "dockerfile"
+  
+[deploy]
+  startCommand = "python -m uvicorn main:app --host 0.0.0.0 --port $PORT"
+  
+[[mounts]]
+  mountPath = "/data"
+  volumeName = "irc-rag-data"
+
+[environments.production]
+  PORT = "8000"
+  RAILWAY_ENVIRONMENT = "production"
+  
+[environments.staging]
+  PORT = "8000"
+  RAILWAY_ENVIRONMENT = "staging"
