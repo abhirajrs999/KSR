@@ -1,8 +1,9 @@
 FROM python:3.11-slim as builder
 
-# Install system dependencies for building
+# Install minimal build dependencies
 RUN apt-get update && apt-get install -y \
-    build-essential \
+    gcc \
+    g++ \
     curl \
     && rm -rf /var/lib/apt/lists/*
 
@@ -10,32 +11,33 @@ RUN apt-get update && apt-get install -y \
 RUN python -m venv /opt/venv
 ENV PATH="/opt/venv/bin:$PATH"
 
-# Copy and install requirements
+# Install Python packages with CPU-only PyTorch
 COPY requirements.txt .
 RUN pip install --no-cache-dir --upgrade pip && \
-    pip install --no-cache-dir -r requirements.txt
+    pip install --no-cache-dir torch==2.1.0+cpu --index-url https://download.pytorch.org/whl/cpu && \
+    pip install --no-cache-dir -r requirements.txt && \
+    pip cache purge
 
-# Production stage
+# Production stage - ultra minimal
 FROM python:3.11-slim
 
-# Install only runtime dependencies
-RUN apt-get update && apt-get install -y \
-    curl \
-    && rm -rf /var/lib/apt/lists/* \
-    && apt-get clean
+# Install only curl for health checks
+RUN apt-get update && apt-get install -y curl && \
+    rm -rf /var/lib/apt/lists/* && \
+    apt-get clean
 
-# Copy virtual environment from builder
+# Copy only the virtual environment
 COPY --from=builder /opt/venv /opt/venv
 ENV PATH="/opt/venv/bin:$PATH"
 
 WORKDIR /app
 
-# Create data directories with proper permissions
+# Create data directories
 RUN mkdir -p /data/raw_pdfs /data/processed/parsed_docs /data/processed/chunks \
              /data/processed/metadata /data/vector_db && \
     chmod -R 755 /data
 
-# Copy only necessary application files
+# Copy application code
 COPY src/ ./src/
 COPY scripts/ ./scripts/
 COPY main.py .
