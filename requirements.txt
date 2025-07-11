@@ -1,6 +1,6 @@
 llama-parse
 fastapi
-uvicorn
+uvicorn[standard]
 google-generativeai
 pydantic
 pydantic-settings
@@ -12,6 +12,6 @@ numpy
 pandas
 chromadb
 sentence-transformers
-python-multistartaiohttp
 python-multipart
+aiohttp
 Pillow
