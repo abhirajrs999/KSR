@@ -38,10 +38,8 @@ RUN mkdir -p /data/raw_pdfs /data/processed/parsed_docs /data/processed/chunks \
              /data/processed/metadata /data/vector_db && \
     chmod -R 755 /data
 
-# Copy only necessary application files
-COPY src/ ./src/
-COPY scripts/ ./scripts/
-COPY main.py .
+# Copy minimal application files for initial deployment
+COPY main-minimal.py ./main.py
 
 # Health check
 HEALTHCHECK --interval=30s --timeout=30s --start-period=60s --retries=3 \
